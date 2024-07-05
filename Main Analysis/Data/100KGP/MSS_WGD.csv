@@ -1,0 +1,249 @@
+WGD,Types,Regions,Copy_number_1,Counts
+FALSE,"('frameshift',)","(0,)","(1.0, 0.0)",1
+FALSE,"('frameshift',)","(0,)","(1.0, 1.0)",13
+FALSE,"('frameshift',)","(0,)","(2.0, 0.0)",2
+FALSE,"('frameshift',)","(0,)","(3.0, 0.0)",2
+FALSE,"('frameshift',)","(1,)","(1.0, 0.0)",10
+FALSE,"('frameshift',)","(1,)","(1.0, 1.0)",8
+FALSE,"('frameshift',)","(1,)","(2.0, 0.0)",31
+FALSE,"('frameshift',)","(1,)","(3.0, 0.0)",2
+FALSE,"('frameshift',)","(2,)","(1.0, 0.0)",17
+FALSE,"('frameshift',)","(2,)","(1.0, 1.0)",8
+FALSE,"('frameshift',)","(2,)","(2.0, 0.0)",14
+FALSE,"('frameshift',)","(2,)","(3.0, 0.0)",2
+FALSE,"('frameshift',)","(2,)","('n', 'k')",1
+FALSE,"('frameshift',)","(3,)","(1.0, 0.0)",6
+FALSE,"('frameshift',)","(3,)","(1.0, 1.0)",3
+FALSE,"('frameshift',)","(3,)","(2.0, 0.0)",9
+FALSE,"('frameshift',)","(3,)","('n', 'k')",1
+FALSE,"('frameshift', 'frameshift')","(0, 1)","(1.0, 1.0)",7
+FALSE,"('frameshift', 'frameshift')","(0, 2)","(1.0, 0.0)",3
+FALSE,"('frameshift', 'frameshift')","(0, 2)","(1.0, 1.0)",21
+FALSE,"('frameshift', 'frameshift')","(0, 3)","(1.0, 1.0)",14
+FALSE,"('frameshift', 'frameshift')","(0, 3)","(2.0, 1.0)",11
+FALSE,"('frameshift', 'frameshift')","(1, 2)","(1.0, 1.0)",1
+FALSE,"('frameshift', 'frameshift')","(1, 3)","(1.0, 1.0)",1
+FALSE,"('frameshift', 'frameshift')","(2, 2)","(2.0, 0.0)",1
+FALSE,"('frameshift', 'frameshift')","(2, 3)","(1.0, 0.0)",1
+FALSE,"('frameshift', 'frameshift')","(2, 3)","(1.0, 1.0)",3
+FALSE,"('frameshift', 'frameshift', 'frameshift')","(0, 2, 2)","(1.0, 1.0)",8
+FALSE,"('frameshift', 'frameshift', 'frameshift', 'frameshift')","(1, 1, 1, 1)","(1.0, 0.0)",1
+FALSE,"('frameshift', 'frameshift', 'frameshift', 'frameshift', 'frameshift', 'frameshift')","(0, 3, 0, 3, 0, 3)","(1.0, 1.0)",1
+FALSE,"('frameshift', 'stop_gained')","(0, 0)","(1.0, 1.0)",3
+FALSE,"('stop_gained',)","(2,)","(1.0, 0.0)",13
+FALSE,"('frameshift', 'stop_gained')","(0, 1)","(1.0, 1.0)",8
+FALSE,"('frameshift', 'stop_gained')","(0, 2)","(1.0, 0.0)",4
+FALSE,"('frameshift', 'stop_gained')","(0, 2)","(1.0, 1.0)",26
+FALSE,"('frameshift', 'stop_gained')","(0, 2)","(2.0, 0.0)",1
+FALSE,"('frameshift', 'stop_gained')","(0, 2)","(2.0, 1.0)",6
+FALSE,"('frameshift', 'stop_gained')","(0, 3)","(1.0, 1.0)",1
+FALSE,"('frameshift', 'stop_gained')","(1, 2)","(1.0, 1.0)",1
+FALSE,"('frameshift', 'stop_gained')","(3, 3)","(1.0, 1.0)",1
+FALSE,"('frameshift', 'stop_gained', 'frameshift')","(0, 1, 3)","(1.0, 1.0)",1
+FALSE,"('frameshift', 'stop_gained', 'frameshift', 'stop_gained')","(0, 2, 0, 2)","(1.0, 1.0)",1
+FALSE,"('stop_gained',)","(0,)","(1.0, 0.0)",14
+FALSE,"('stop_gained',)","(0,)","(1.0, 1.0)",25
+FALSE,"('stop_gained',)","(0,)","(2.0, 0.0)",16
+FALSE,"('stop_gained',)","(0,)","(2.0, 1.0)",4
+FALSE,"('stop_gained',)","(1,)","(1.0, 0.0)",16
+FALSE,"('stop_gained',)","(1,)","(1.0, 1.0)",7
+FALSE,"('stop_gained',)","(1,)","(2.0, 0.0)",32
+FALSE,"('stop_gained',)","(1,)","(2.0, 1.0)",1
+FALSE,"('stop_gained',)","(1,)","(3.0, 0.0)",3
+FALSE,"('stop_gained',)","(1,)","(4.0, 0.0)",1
+FALSE,"('stop_gained',)","(1,)","('n', 'k')",1
+FALSE,"('stop_gained',)","(2,)","(1.0, 0.0)",11
+FALSE,"('stop_gained',)","(2,)","(1.0, 1.0)",3
+FALSE,"('stop_gained',)","(2,)","(1.0, 0.0)",29
+FALSE,"('stop_gained',)","(2,)","(3.0, 0.0)",1
+FALSE,"('stop_gained',)","(2,)","('n', 'k')",1
+FALSE,"('stop_gained',)","(3,)","(1.0, 0.0)",1
+FALSE,"('stop_gained',)","(3,)","(1.0, 1.0)",1
+FALSE,"('stop_gained', 'frameshift')","(0, 0)","(1.0, 1.0)",1
+FALSE,"('stop_gained', 'frameshift')","(0, 1)","(1.0, 0.0)",1
+FALSE,"('stop_gained', 'frameshift')","(0, 1)","(1.0, 1.0)",17
+FALSE,"('stop_gained', 'frameshift')","(0, 2)","(1.0, 0.0)",2
+FALSE,"('stop_gained', 'frameshift')","(0, 2)","(1.0, 1.0)",25
+FALSE,"('stop_gained', 'frameshift')","(0, 3)","(1.0, 0.0)",3
+FALSE,"('stop_gained', 'frameshift')","(0, 3)","(1.0, 1.0)",28
+FALSE,"('stop_gained', 'frameshift')","(0, 3)","(2.0, 1.0)",3
+FALSE,"('stop_gained', 'frameshift')","(1, 1)","(1.0, 1.0)",2
+FALSE,"('stop_gained', 'frameshift')","(1, 3)","(1.0, 1.0)",1
+FALSE,"('stop_gained', 'frameshift')","(2, 2)","(1.0, 1.0)",1
+FALSE,"('stop_gained', 'frameshift')","(2, 3)","(1.0, 1.0)",2
+FALSE,"('stop_gained', 'frameshift')","(3, 3)","(1.0, 0.0)",1
+FALSE,"('stop_gained', 'frameshift', 'stop_gained', 'frameshift', 'stop_gained', 'frameshift')","(3, 3, 3, 3, 3, 3)","(1.0, 1.0)",1
+FALSE,"('stop_gained', 'stop_gained')","(0, 0)","(1.0, 0.0)",1
+FALSE,"('stop_gained', 'stop_gained')","(0, 0)","(1.0, 1.0)",8
+FALSE,"('stop_gained',)","(2,)","(1.0, 0.0)",9
+FALSE,"('stop_gained', 'stop_gained')","(0, 1)","(1.0, 1.0)",24
+FALSE,"('stop_gained', 'stop_gained')","(0, 1)","(2.0, 1.0)",1
+FALSE,"('stop_gained', 'stop_gained')","(0, 1)","(15.0, 0.0)",1
+FALSE,"('stop_gained', 'stop_gained')","(0, 2)","(1.0, 0.0)",2
+FALSE,"('stop_gained', 'stop_gained')","(0, 2)","(1.0, 1.0)",27
+FALSE,"('stop_gained', 'stop_gained')","(0, 2)","(2.0, 0.0)",1
+FALSE,"('stop_gained', 'stop_gained')","(0, 2)","(2.0, 1.0)",1
+FALSE,"('stop_gained', 'stop_gained')","(0, 3)","(1.0, 1.0)",7
+FALSE,"('stop_gained', 'stop_gained')","(1, 1)","(1.0, 1.0)",2
+FALSE,"('stop_gained', 'stop_gained', 'frameshift')","(0, 0, 3)","(1.0, 0.0)",1
+FALSE,"('stop_gained', 'stop_gained', 'frameshift')","(0, 0, 3)","(1.0, 1.0)",2
+FALSE,"('stop_gained', 'stop_gained', 'frameshift')","(0, 1, 3)","(2.0, 1.0)",1
+FALSE,"('stop_gained', 'stop_gained', 'stop_gained')","(0, 0, 2)","(1.0, 1.0)",1
+FALSE,"('stop_gained', 'stop_gained', 'stop_gained')","(0, 1, 3)","(1.0, 0.0)",1
+FALSE,"('stop_gained', 'stop_gained', 'stop_gained', 'stop_gained')","(0, 2, 0, 2)","(1.0, 0.0)",1
+FALSE,"('stop_gained', 'stop_gained', 'stop_gained', 'stop_gained')","(2, 2, 2, 2)","(2.0, 0.0)",1
+FALSE,"('stop_gained', 'stop_gained', 'stop_gained', 'stop_gained', 'stop_gained')","(1, 1, 1, 1, 1)","(2.0, 0.0)",1
+TRUE,"('frameshift',)","(0,)","(1.0, 0.0)",2
+TRUE,"('frameshift',)","(0,)","(1.0, 1.0)",1
+TRUE,"('frameshift',)","(0,)","(2.0, 0.0)",14
+TRUE,"('frameshift',)","(0,)","(2.0, 1.0)",3
+TRUE,"('frameshift',)","(0,)","(2.0, 2.0)",2
+TRUE,"('frameshift',)","(0,)","(3.0, 0.0)",6
+TRUE,"('frameshift',)","(0,)","(4.0, 0.0)",1
+TRUE,"('frameshift',)","(0,)","(5.0, 0.0)",1
+TRUE,"('frameshift',)","(1,)","(1.0, 0.0)",1
+TRUE,"('frameshift',)","(1,)","(2.0, 0.0)",21
+TRUE,"('frameshift',)","(1,)","(2.0, 1.0)",3
+TRUE,"('frameshift',)","(1,)","(2.0, 2.0)",1
+TRUE,"('frameshift',)","(1,)","(3.0, 0.0)",12
+TRUE,"('frameshift',)","(1,)","(4.0, 0.0)",7
+TRUE,"('frameshift',)","(1,)","(5.0, 0.0)",2
+TRUE,"('frameshift',)","(2,)","(1.0, 0.0)",5
+TRUE,"('frameshift',)","(2,)","(1.0, 1.0)",3
+TRUE,"('frameshift',)","(2,)","(2.0, 0.0)",11
+TRUE,"('frameshift',)","(2,)","(2.0, 1.0)",1
+TRUE,"('frameshift',)","(2,)","(2.0, 0.0)",14
+TRUE,"('frameshift',)","(2,)","(2.0, 0.0)",6
+TRUE,"('frameshift',)","(2,)","(5.0, 0.0)",2
+TRUE,"('frameshift',)","(3,)","(1.0, 0.0)",1
+TRUE,"('frameshift',)","(3,)","(1.0, 1.0)",1
+TRUE,"('frameshift',)","(3,)","(2.0, 0.0)",6
+TRUE,"('frameshift',)","(3,)","(2.0, 1.0)",2
+TRUE,"('frameshift',)","(3,)","(2.0, 2.0)",1
+TRUE,"('frameshift',)","(3,)","(3.0, 0.0)",2
+TRUE,"('frameshift',)","(3,)","(4.0, 0.0)",2
+TRUE,"('frameshift',)","(3,)","(4.0, 1.0)",1
+TRUE,"('frameshift',)","(3,)","('n', 'k')",1
+TRUE,"('frameshift', 'frameshift')","(0, 0)","(1.0, 1.0)",1
+TRUE,"('frameshift', 'frameshift')","(0, 0)","(2.0, 1.0)",1
+TRUE,"('frameshift', 'frameshift')","(0, 1)","(1.0, 0.0)",1
+TRUE,"('frameshift', 'frameshift')","(0, 1)","(1.0, 1.0)",2
+TRUE,"('frameshift', 'frameshift')","(0, 1)","(2.0, 1.0)",5
+TRUE,"('frameshift', 'frameshift')","(0, 1)","(2.0, 2.0)",2
+TRUE,"('frameshift', 'frameshift')","(0, 1)","(3.0, 0.0)",1
+TRUE,"('stop_gained',)","(2,)","(2.0, 0.0)",3
+TRUE,"('frameshift', 'frameshift')","(0, 2)","(2.0, 1.0)",5
+TRUE,"('frameshift', 'frameshift')","(0, 2)","(2.0, 2.0)",1
+TRUE,"('frameshift', 'frameshift')","(0, 2)","(3.0, 2.0)",1
+TRUE,"('frameshift', 'frameshift')","(0, 3)","(2.0, 0.0)",1
+TRUE,"('frameshift', 'frameshift')","(0, 3)","(2.0, 1.0)",2
+TRUE,"('frameshift', 'frameshift')","(0, 3)","(2.0, 2.0)",2
+TRUE,"('frameshift', 'frameshift')","(1, 1)","(3.0, 1.0)",1
+TRUE,"('frameshift', 'frameshift')","(1, 2)","(1.0, 1.0)",1
+TRUE,"('frameshift', 'frameshift')","(2, 2)","(2.0, 0.0)",1
+TRUE,"('frameshift', 'frameshift')","(2, 2)","(2.0, 1.0)",1
+TRUE,"('frameshift', 'frameshift', 'frameshift')","(0, 3, 3)","(1.0, 1.0)",1
+TRUE,"('frameshift', 'frameshift', 'frameshift', 'frameshift')","(2, 2, 2, 2)","(1.0, 0.0)",1
+TRUE,"('frameshift', 'frameshift', 'frameshift', 'frameshift', 'frameshift', 'frameshift', 'frameshift', 'frameshift')","(0, 1, 0, 1, 0, 1, 0, 1)","(2.0, 1.0)",1
+TRUE,"('frameshift', 'stop_gained')","(0, 0)","(2.0, 1.0)",2
+TRUE,"('frameshift', 'stop_gained')","(0, 1)","(1.0, 1.0)",2
+TRUE,"('frameshift', 'stop_gained')","(0, 1)","(2.0, 0.0)",1
+TRUE,"('frameshift', 'stop_gained')","(0, 1)","(2.0, 1.0)",3
+TRUE,"('frameshift', 'stop_gained')","(0, 1)","(2.0, 2.0)",2
+TRUE,"('frameshift', 'stop_gained')","(0, 1)","(3.0, 1.0)",1
+TRUE,"('frameshift', 'stop_gained')","(0, 2)","(1.0, 1.0)",2
+TRUE,"('frameshift', 'stop_gained')","(0, 2)","(2.0, 1.0)",2
+TRUE,"('frameshift', 'stop_gained')","(0, 2)","(2.0, 2.0)",2
+TRUE,"('frameshift', 'stop_gained')","(0, 3)","(2.0, 1.0)",1
+TRUE,"('frameshift', 'stop_gained')","(0, 3)","(2.0, 2.0)",1
+TRUE,"('frameshift', 'stop_gained')","(1, 1)","(2.0, 1.0)",1
+TRUE,"('frameshift', 'stop_gained')","(1, 2)","(2.0, 1.0)",2
+TRUE,"('frameshift', 'stop_gained', 'frameshift')","(0, 0, 1)","(1.0, 1.0)",1
+TRUE,"('frameshift', 'stop_gained', 'frameshift', 'stop_gained')","(0, 1, 0, 1)","(2.0, 1.0)",1
+TRUE,"('stop_gained',)","(2,)","(1.0, 0.0)",4
+TRUE,"('stop_gained',)","(0,)","(1.0, 1.0)",12
+TRUE,"('stop_gained',)","(0,)","(2.0, 0.0)",32
+TRUE,"('stop_gained',)","(0,)","(2.0, 1.0)",20
+TRUE,"('stop_gained',)","(0,)","(2.0, 2.0)",4
+TRUE,"('stop_gained',)","(0,)","(3.0, 0.0)",9
+TRUE,"('stop_gained',)","(0,)","(4.0, 0.0)",6
+TRUE,"('stop_gained',)","(0,)","(5.0, 0.0)",1
+TRUE,"('stop_gained',)","(1,)","(1.0, 0.0)",3
+TRUE,"('stop_gained',)","(1,)","(1.0, 1.0)",2
+TRUE,"('stop_gained',)","(1,)","(2.0, 0.0)",29
+TRUE,"('stop_gained',)","(1,)","(2.0, 1.0)",4
+TRUE,"('stop_gained',)","(1,)","(3.0, 0.0)",24
+TRUE,"('stop_gained',)","(1,)","(4.0, 0.0)",10
+TRUE,"('stop_gained',)","(1,)","(4.0, 1.0)",1
+TRUE,"('stop_gained',)","(1,)","(5.0, 0.0)",1
+TRUE,"('stop_gained',)","(1,)","(6.0, 0.0)",2
+TRUE,"('stop_gained',)","(1,)","(9.0, 0.0)",1
+TRUE,"('stop_gained',)","(2,)","(0.0, 0.0)",1
+TRUE,"('stop_gained',)","(2,)","(1.0, 0.0)",3
+TRUE,"('stop_gained',)","(2,)","(1.0, 1.0)",1
+TRUE,"('stop_gained',)","(2,)","(2.0, 0.0)",10
+TRUE,"('stop_gained',)","(2,)","(2.0, 1.0)",2
+TRUE,"('stop_gained',)","(2,)","(3.0, 0.0)",11
+TRUE,"('stop_gained',)","(2,)","(4.0, 0.0)",1
+TRUE,"('stop_gained',)","(2,)","(5.0, 0.0)",1
+TRUE,"('stop_gained',)","(3,)","(2.0, 0.0)",2
+TRUE,"('stop_gained', 'frameshift')","(0, 0)","(2.0, 1.0)",1
+TRUE,"('stop_gained', 'frameshift')","(0, 0)","(3.0, 2.0)",1
+TRUE,"('stop_gained', 'frameshift')","(0, 0)","(3.0, 3.0)",1
+TRUE,"('stop_gained', 'frameshift')","(0, 1)","(1.0, 1.0)",5
+TRUE,"('stop_gained', 'frameshift')","(0, 1)","(2.0, 0.0)",1
+TRUE,"('stop_gained', 'frameshift')","(0, 1)","(2.0, 1.0)",8
+TRUE,"('stop_gained', 'frameshift')","(0, 1)","(2.0, 2.0)",4
+TRUE,"('stop_gained', 'frameshift')","(0, 1)","(3.0, 2.0)",1
+TRUE,"('stop_gained', 'frameshift')","(0, 2)","(1.0, 0.0)",1
+TRUE,"('stop_gained', 'frameshift')","(0, 2)","(1.0, 1.0)",8
+TRUE,"('stop_gained', 'frameshift')","(0, 2)","(2.0, 0.0)",1
+TRUE,"('stop_gained', 'frameshift')","(0, 2)","(2.0, 1.0)",15
+TRUE,"('stop_gained', 'frameshift')","(0, 2)","(2.0, 2.0)",3
+TRUE,"('stop_gained', 'frameshift')","(0, 2)","(3.0, 0.0)",1
+TRUE,"('stop_gained', 'frameshift')","(0, 2)","(3.0, 1.0)",1
+TRUE,"('stop_gained', 'frameshift')","(0, 3)","(1.0, 0.0)",1
+TRUE,"('stop_gained', 'frameshift')","(0, 3)","(1.0, 1.0)",1
+TRUE,"('stop_gained', 'frameshift')","(0, 3)","(2.0, 0.0)",2
+TRUE,"('stop_gained', 'frameshift')","(0, 3)","(2.0, 1.0)",12
+TRUE,"('stop_gained', 'frameshift')","(0, 3)","(2.0, 2.0)",5
+TRUE,"('stop_gained', 'frameshift')","(0, 3)","(3.0, 2.0)",2
+TRUE,"('stop_gained', 'frameshift')","(1, 1)","(1.0, 1.0)",1
+TRUE,"('stop_gained', 'frameshift')","(1, 1)","(2.0, 1.0)",1
+TRUE,"('stop_gained', 'frameshift')","(1, 2)","(1.0, 1.0)",1
+TRUE,"('stop_gained', 'frameshift')","(2, 2)","(2.0, 2.0)",1
+TRUE,"('stop_gained', 'frameshift', 'stop_gained')","(0, 2, 2)","(2.0, 1.0)",1
+TRUE,"('stop_gained', 'frameshift', 'stop_gained', 'frameshift')","(0, 3, 0, 3)","(1.0, 1.0)",1
+TRUE,"('stop_gained', 'frameshift', 'stop_gained', 'frameshift', 'stop_gained', 'frameshift')","(3, 3, 3, 3, 3, 3)","(1.0, 1.0)",1
+TRUE,"('stop_gained', 'frameshift', 'stop_gained', 'stop_gained', 'frameshift', 'stop_gained')","(0, 1, 1, 0, 1, 1)","(2.0, 1.0)",1
+TRUE,"('stop_gained', 'stop_gained')","(0, 0)","(1.0, 1.0)",2
+TRUE,"('stop_gained', 'stop_gained')","(0, 0)","(2.0, 0.0)",2
+TRUE,"('stop_gained', 'stop_gained')","(0, 0)","(2.0, 1.0)",2
+TRUE,"('stop_gained', 'stop_gained')","(0, 0)","(3.0, 0.0)",1
+TRUE,"('stop_gained', 'stop_gained')","(0, 1)","(1.0, 1.0)",10
+TRUE,"('stop_gained', 'stop_gained')","(0, 1)","(2.0, 1.0)",11
+TRUE,"('stop_gained', 'stop_gained')","(0, 1)","(2.0, 2.0)",5
+TRUE,"('stop_gained', 'stop_gained')","(0, 1)","(3.0, 1.0)",3
+TRUE,"('stop_gained', 'stop_gained')","(0, 2)","(1.0, 1.0)",6
+TRUE,"('stop_gained',)","(2,)","(2.0, 0.0)",2
+TRUE,"('stop_gained', 'stop_gained')","(0, 2)","(2.0, 1.0)",16
+TRUE,"('stop_gained', 'stop_gained')","(0, 2)","(2.0, 2.0)",6
+TRUE,"('stop_gained', 'stop_gained')","(0, 2)","(3.0, 1.0)",2
+TRUE,"('stop_gained', 'stop_gained')","(0, 2)","(3.0, 3.0)",1
+TRUE,"('stop_gained', 'stop_gained')","(0, 2)","(6.0, 0.0)",1
+TRUE,"('stop_gained', 'stop_gained')","(0, 3)","(2.0, 1.0)",1
+TRUE,"('stop_gained', 'stop_gained')","(1, 0)","(2.0, 0.0)",1
+TRUE,"('stop_gained', 'stop_gained')","(1, 1)","(2.0, 2.0)",2
+TRUE,"('stop_gained', 'stop_gained')","(1, 2)","(1.0, 1.0)",1
+TRUE,"('stop_gained', 'stop_gained')","(2, 3)","(2.0, 1.0)",1
+TRUE,"('stop_gained', 'stop_gained', 'frameshift', 'stop_gained')","(0, 0, 3, 3)","(2.0, 0.0)",1
+TRUE,"('stop_gained', 'stop_gained', 'stop_gained')","(0, 2, 2)","(1.0, 1.0)",1
+TRUE,"('stop_gained', 'stop_gained', 'stop_gained')","(0, 2, 2)","(2.0, 1.0)",1
+TRUE,"('stop_gained', 'stop_gained', 'stop_gained')","(0, 2, 2)","(3.0, 3.0)",1
+TRUE,"('stop_gained', 'stop_gained', 'stop_gained')","(0, 0, 3)","(2.0, 1.0)",1
+TRUE,"('stop_gained', 'stop_gained', 'stop_gained')","(0, 1, 1)","(2.0, 0.0)",2
+TRUE,"('stop_gained', 'stop_gained', 'stop_gained', 'stop_gained')","(0, 0, 0, 0)","(2.0, 0.0)",1
+TRUE,"('stop_gained', 'stop_gained', 'stop_gained', 'stop_gained')","(0, 2, 0, 2)","(1.0, 0.0)",1
+TRUE,"('stop_gained', 'stop_gained', 'stop_gained', 'stop_gained')","(1, 1, 1, 1)","(3.0, 0.0)",1
+TRUE,"('stop_gained', 'stop_gained', 'stop_gained', 'stop_gained')","(2, 2, 2, 2)","(2.0, 0.0)",2
+TRUE,"('stop_gained', 'stop_gained', 'stop_gained', 'stop_gained', 'stop_gained', 'stop_gained', 'stop_gained', 'stop_gained')","(0, 0, 0, 0, 0, 0, 0, 0)","(2.0, 1.0)",1

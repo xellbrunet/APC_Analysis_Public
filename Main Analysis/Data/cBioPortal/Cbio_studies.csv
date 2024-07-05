@@ -1,0 +1,14 @@
+,Study ID,Number of samples
+0,coad_caseccc_2015,7
+1,coad_cptac_2019,42
+2,coad_silu_2022,123
+3,coadread_dfci_2016,105
+4,coadread_genentech,8
+5,coadread_mskcc,40
+6,coadread_mskresistance_2022,13
+7,coadread_tcga,96
+8,crc_apc_impact_2020,149
+9,crc_dd_2022,24
+10,crc_nigerian_2020,11
+11,crc_public_genie_bpc,593
+12,rectal_msk_2019,94

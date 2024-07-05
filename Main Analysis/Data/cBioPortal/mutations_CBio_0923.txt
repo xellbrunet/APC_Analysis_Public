@@ -1,0 +1,3772 @@
+STUDY_ID	SAMPLE_ID	APC
+coad_caseccc_2015	coad_caseccc_11843	WT
+coad_caseccc_2015	coad_caseccc_15937	X244_splice S1356*
+coad_caseccc_2015	coad_caseccc_7525	WT
+coad_caseccc_2015	coad_caseccc_9041	E1059* S1495Kfs*19
+coad_caseccc_2015	coad_caseccc_8685a	E1353*
+coad_caseccc_2015	coad_caseccc_11835	WT
+coad_caseccc_2015	coad_caseccc_11893	S1395*
+coad_caseccc_2015	coad_caseccc_15807	T1438Hfs*35
+coad_caseccc_2015	coad_caseccc_9347	E1306*
+coad_caseccc_2015	coad_caseccc_9339	WT
+coad_caseccc_2015	coad_caseccc_15861	P1319Lfs*2 Y1135*
+coad_caseccc_2015	coad_caseccc_9587	R1314Kfs*4
+coad_caseccc_2015	coad_caseccc_5804	R283* S1315*
+coad_caseccc_2015	coad_caseccc_15960	Y935* S1656F
+coad_caseccc_2015	coad_caseccc_8705a	R564*
+coad_caseccc_2015	coad_caseccc_13260	R876* R1450*
+coad_caseccc_2015	coad_caseccc_15927	R213* T1493Rfs*14
+coad_caseccc_2015	coad_caseccc_15972	G1288*
+coad_caseccc_2015	coad_caseccc_15919	R1450* Y935*
+coad_caseccc_2015	coad_caseccc_2089	R213*
+coad_caseccc_2015	coad_caseccc_9029	R1450*
+coad_caseccc_2015	coad_caseccc_11604	R213*
+coad_caseccc_2015	coad_caseccc_11677	E853Gfs*9
+coad_caseccc_2015	coad_caseccc_11027	Q1303*
+coad_caseccc_2015	coad_caseccc_15931	WT
+coad_caseccc_2015	coad_caseccc_15873	E1550* K875Nfs*34
+coad_caseccc_2015	coad_caseccc_5363	R283*
+coad_caseccc_2015	coad_caseccc_15245	WT
+coad_caseccc_2015	coad_caseccc_15968	WT
+coad_cptac_2019	01CO001	Q1328*
+coad_cptac_2019	01CO005	S1407Vfs*8
+coad_cptac_2019	01CO006	WT
+coad_cptac_2019	01CO008	WT
+coad_cptac_2019	01CO013	R499*
+coad_cptac_2019	01CO014	WT
+coad_cptac_2019	01CO015	T1487Ifs*20
+coad_cptac_2019	01CO019	Q1244*
+coad_cptac_2019	01CO022	WT
+coad_cptac_2019	05CO002	R216*
+coad_cptac_2019	05CO003	WT
+coad_cptac_2019	05CO004	NS
+coad_cptac_2019	05CO006	WT
+coad_cptac_2019	05CO007	WT
+coad_cptac_2019	05CO011	P1424Qfs*49 T206Nfs*46
+coad_cptac_2019	05CO015	T1556Nfs*3 E1034Gfs*20
+coad_cptac_2019	05CO020	T1556Nfs*3
+coad_cptac_2019	05CO026	Y1376*
+coad_cptac_2019	05CO028	T1556Nfs*3 R332*
+coad_cptac_2019	05CO029	Q1406* S1343Y
+coad_cptac_2019	05CO032	T1556Nfs*3 S587Afs*3
+coad_cptac_2019	05CO033	R1450* E763*
+coad_cptac_2019	05CO034	R1450* D556Mfs*2
+coad_cptac_2019	05CO035	V1320*
+coad_cptac_2019	05CO037	D849Rfs*2
+coad_cptac_2019	05CO039	WT
+coad_cptac_2019	05CO041	WT
+coad_cptac_2019	05CO044	WT
+coad_cptac_2019	05CO045	E1306* R1450*
+coad_cptac_2019	05CO047	S1272Ffs*4
+coad_cptac_2019	05CO048	WT
+coad_cptac_2019	05CO049	S1327*
+coad_cptac_2019	05CO050	T1556Nfs*3 Q1096* A1005V
+coad_cptac_2019	05CO053	R1450* G53V
+coad_cptac_2019	05CO054	D1486Ifs*21
+coad_cptac_2019	06CO001	S1346* S960*
+coad_cptac_2019	06CO002	E1379*
+coad_cptac_2019	09CO005	E1209* S1436Rfs*37
+coad_cptac_2019	09CO006	D842Ifs*19
+coad_cptac_2019	09CO008	L1488Yfs*19 N809Ifs*11
+coad_cptac_2019	09CO011	E941* Q1480*
+coad_cptac_2019	09CO013	T1556Nfs*3
+coad_cptac_2019	09CO014	R1450*
+coad_cptac_2019	09CO015	R216*
+coad_cptac_2019	09CO018	K1370*
+coad_cptac_2019	09CO019	Q1406* S982*
+coad_cptac_2019	09CO022	R1450* Q480Pfs*5
+coad_cptac_2019	11CO005	Q1242*
+coad_cptac_2019	11CO007	D849Rfs*2 T1556Lfs*9
+coad_cptac_2019	11CO008	S1272*
+coad_cptac_2019	11CO010	S546Efs*14
+coad_cptac_2019	11CO018	A2795T
+coad_cptac_2019	11CO019	R805* L1489Yfs*19
+coad_cptac_2019	11CO020	Q1447Tfs*27
+coad_cptac_2019	11CO021	S837* D1285Mfs*3
+coad_cptac_2019	11CO022	R283*
+coad_cptac_2019	11CO027	S1346*
+coad_cptac_2019	11CO030	S1327* S1795P
+coad_cptac_2019	11CO031	WT
+coad_cptac_2019	11CO032	T1301Nfs*14
+coad_cptac_2019	11CO033	M91Cfs*34
+coad_cptac_2019	11CO036	G1412* S587Afs*3
+coad_cptac_2019	11CO037	WT
+coad_cptac_2019	11CO039	R213*
+coad_cptac_2019	11CO042	WT
+coad_cptac_2019	11CO043	L1489Pfs*15
+coad_cptac_2019	11CO044	R564* N1455Kfs*2
+coad_cptac_2019	11CO045	Q1429*
+coad_cptac_2019	11CO047	P1439Lfs*34
+coad_cptac_2019	11CO048	WT
+coad_cptac_2019	11CO051	Q1035*
+coad_cptac_2019	11CO052	Y1376*
+coad_cptac_2019	11CO053	P1319Lfs*2 S246Cfs*49
+coad_cptac_2019	11CO054	R554* E241Kfs*52
+coad_cptac_2019	11CO057	D1486Ifs*21
+coad_cptac_2019	11CO058	L1488Yfs*19
+coad_cptac_2019	11CO060	Q1367*
+coad_cptac_2019	11CO061	WT
+coad_cptac_2019	11CO062	WT
+coad_cptac_2019	11CO070	L1488* S317* P2002H L2511F L2574R
+coad_cptac_2019	11CO072	L726Kfs*7 L1488Yfs*20 E1663K
+coad_cptac_2019	11CO077	E1353* G511A
+coad_cptac_2019	11CO079	E1306* R216*
+coad_cptac_2019	13CO001	NS
+coad_cptac_2019	14CO001	NS
+coad_cptac_2019	14CO002	Q1294* N1797Kfs*2
+coad_cptac_2019	14CO003	WT
+coad_cptac_2019	14CO005	L1302*
+coad_cptac_2019	15CO001	WT
+coad_cptac_2019	15CO002	R805* S713*
+coad_cptac_2019	16CO002	WT
+coad_cptac_2019	16CO003	WT
+coad_cptac_2019	16CO006	R805* Q1429*
+coad_cptac_2019	16CO011	R499*
+coad_cptac_2019	20CO001	WT
+coad_cptac_2019	20CO003	P1427Lfs*46 G1039Efs*17
+coad_cptac_2019	20CO004	Q901* T1556Nfs*3
+coad_cptac_2019	20CO006	NS
+coad_cptac_2019	20CO007	R805*
+coad_cptac_2019	21CO006	R216* V1481Mfs*23
+coad_cptac_2019	21CO007	Q1367*
+coad_cptac_2019	22CO004	WT
+coad_cptac_2019	22CO006	WT
+coad_cptac_2019	27CO004	WT
+coad_cptac_2019	05CO005	R213* S1346*
+coad_cptac_2019	05CO014	E1322* Q1260Lfs*13
+coad_cptac_2019	05CO055	WT
+coad_cptac_2019	11CO059	A697S N1979S
+coad_cptac_2019	16CO012	WT
+coad_cptac_2019	24CO005	R1114*
+coadread_dfci_2016	coadread_dfci_2016_335135	A1755V V47A
+coadread_dfci_2016	coadread_dfci_2016_593	R2204* A697V D1512N
+coadread_dfci_2016	coadread_dfci_2016_2269	R232* R564* L1488*
+coadread_dfci_2016	coadread_dfci_2016_578	S1545* S960* R2166Q L2168I S1864Y H2149N
+coadread_dfci_2016	coadread_dfci_2016_3021	WT
+coadread_dfci_2016	coadread_dfci_2016_3724	N778D
+coadread_dfci_2016	coadread_dfci_2016_207430	WT
+coadread_dfci_2016	coadread_dfci_2016_116	E1309* R1858* L68V F510V
+coadread_dfci_2016	coadread_dfci_2016_1241	WT
+coadread_dfci_2016	coadread_dfci_2016_3701	N177Kfs*16
+coadread_dfci_2016	coadread_dfci_2016_3640	D2656G
+coadread_dfci_2016	coadread_dfci_2016_2448	WT
+coadread_dfci_2016	coadread_dfci_2016_1222	R230C
+coadread_dfci_2016	coadread_dfci_2016_345	WT
+coadread_dfci_2016	coadread_dfci_2016_267922	WT
+coadread_dfci_2016	coadread_dfci_2016_1212	M2364Nfs*8 T2760A
+coadread_dfci_2016	coadread_dfci_2016_1791	WT
+coadread_dfci_2016	coadread_dfci_2016_3321	WT
+coadread_dfci_2016	coadread_dfci_2016_546	WT
+coadread_dfci_2016	coadread_dfci_2016_197	WT
+coadread_dfci_2016	coadread_dfci_2016_3235	R1450* S943* L23I
+coadread_dfci_2016	coadread_dfci_2016_233366	N1531Mfs*34 N1979Tfs*65 R1171C
+coadread_dfci_2016	coadread_dfci_2016_306558	WT
+coadread_dfci_2016	coadread_dfci_2016_3080	D1394N
+coadread_dfci_2016	coadread_dfci_2016_3643	WT
+coadread_dfci_2016	coadread_dfci_2016_293	WT
+coadread_dfci_2016	coadread_dfci_2016_3262	WT
+coadread_dfci_2016	coadread_dfci_2016_352983	WT
+coadread_dfci_2016	coadread_dfci_2016_3646	WT
+coadread_dfci_2016	coadread_dfci_2016_3181	WT
+coadread_dfci_2016	coadread_dfci_2016_2564	WT
+coadread_dfci_2016	coadread_dfci_2016_68	WT
+coadread_dfci_2016	coadread_dfci_2016_1202	WT
+coadread_dfci_2016	coadread_dfci_2016_242594	WT
+coadread_dfci_2016	coadread_dfci_2016_230737	WT
+coadread_dfci_2016	coadread_dfci_2016_3064	WT
+coadread_dfci_2016	coadread_dfci_2016_3690	WT
+coadread_dfci_2016	coadread_dfci_2016_60	WT
+coadread_dfci_2016	coadread_dfci_2016_1748	P2712S
+coadread_dfci_2016	coadread_dfci_2016_2624	WT
+coadread_dfci_2016	coadread_dfci_2016_3263	A199V
+coadread_dfci_2016	coadread_dfci_2016_1849	S1465Wfs*3
+coadread_dfci_2016	coadread_dfci_2016_3503	E1353*
+coadread_dfci_2016	coadread_dfci_2016_102	WT
+coadread_dfci_2016	coadread_dfci_2016_3091	Q1067R
+coadread_dfci_2016	coadread_dfci_2016_189255	WT
+coadread_dfci_2016	coadread_dfci_2016_3729	WT
+coadread_dfci_2016	coadread_dfci_2016_2379	L1624S
+coadread_dfci_2016	coadread_dfci_2016_3225	Q1338*
+coadread_dfci_2016	coadread_dfci_2016_3024	WT
+coadread_dfci_2016	coadread_dfci_2016_4430	WT
+coadread_dfci_2016	coadread_dfci_2016_354	K581Rfs*9
+coadread_dfci_2016	coadread_dfci_2016_280091	WT
+coadread_dfci_2016	coadread_dfci_2016_3721	L629S
+coadread_dfci_2016	coadread_dfci_2016_368	WT
+coadread_dfci_2016	coadread_dfci_2016_1762	WT
+coadread_dfci_2016	coadread_dfci_2016_3641	WT
+coadread_dfci_2016	coadread_dfci_2016_3269	A2479V
+coadread_dfci_2016	coadread_dfci_2016_3202	WT
+coadread_dfci_2016	coadread_dfci_2016_1225	T1556Lfs*9
+coadread_dfci_2016	coadread_dfci_2016_3319	WT
+coadread_dfci_2016	coadread_dfci_2016_261	R348* K1245Rfs*20
+coadread_dfci_2016	coadread_dfci_2016_134258	WT
+coadread_dfci_2016	coadread_dfci_2016_3658	R1450* N1455Ifs*18
+coadread_dfci_2016	coadread_dfci_2016_2641	WT
+coadread_dfci_2016	coadread_dfci_2016_55	T2546A
+coadread_dfci_2016	coadread_dfci_2016_3152	A1402V
+coadread_dfci_2016	coadread_dfci_2016_1231	WT
+coadread_dfci_2016	coadread_dfci_2016_523	WT
+coadread_dfci_2016	coadread_dfci_2016_2197	WT
+coadread_dfci_2016	coadread_dfci_2016_3451	WT
+coadread_dfci_2016	coadread_dfci_2016_390	WT
+coadread_dfci_2016	coadread_dfci_2016_140903	WT
+coadread_dfci_2016	coadread_dfci_2016_2936	WT
+coadread_dfci_2016	coadread_dfci_2016_458	I2224N
+coadread_dfci_2016	coadread_dfci_2016_2762	WT
+coadread_dfci_2016	coadread_dfci_2016_2354	S932*
+coadread_dfci_2016	coadread_dfci_2016_3535	T1556Nfs*3 Y416*
+coadread_dfci_2016	coadread_dfci_2016_2944	WT
+coadread_dfci_2016	coadread_dfci_2016_92	WT
+coadread_dfci_2016	coadread_dfci_2016_227039	K2051Efs*9
+coadread_dfci_2016	coadread_dfci_2016_605	WT
+coadread_dfci_2016	coadread_dfci_2016_4500	WT
+coadread_dfci_2016	coadread_dfci_2016_162841	T1556Nfs*3
+coadread_dfci_2016	coadread_dfci_2016_407	WT
+coadread_dfci_2016	coadread_dfci_2016_3025	WT
+coadread_dfci_2016	coadread_dfci_2016_207	WT
+coadread_dfci_2016	coadread_dfci_2016_683	WT
+coadread_dfci_2016	coadread_dfci_2016_3611	WT
+coadread_dfci_2016	coadread_dfci_2016_1230	WT
+coadread_dfci_2016	coadread_dfci_2016_3704	WT
+coadread_dfci_2016	coadread_dfci_2016_3094	T1556Nfs*3
+coadread_dfci_2016	coadread_dfci_2016_3174	WT
+coadread_dfci_2016	coadread_dfci_2016_3422	WT
+coadread_dfci_2016	coadread_dfci_2016_112	L93Hfs*46 R805Q A952V
+coadread_dfci_2016	coadread_dfci_2016_2227	WT
+coadread_dfci_2016	coadread_dfci_2016_2257	WT
+coadread_dfci_2016	coadread_dfci_2016_3676	WT
+coadread_dfci_2016	coadread_dfci_2016_3049	WT
+coadread_dfci_2016	coadread_dfci_2016_3498	WT
+coadread_dfci_2016	coadread_dfci_2016_3653	R232*
+coadread_dfci_2016	coadread_dfci_2016_341	WT
+coadread_dfci_2016	coadread_dfci_2016_352566	WT
+coadread_dfci_2016	coadread_dfci_2016_3399	D849Rfs*2
+coadread_dfci_2016	coadread_dfci_2016_2423	T1185Rfs*22
+coadread_dfci_2016	coadread_dfci_2016_302124	R786C
+coadread_dfci_2016	coadread_dfci_2016_2372	WT
+coadread_dfci_2016	coadread_dfci_2016_4538	T1556Nfs*3
+coadread_dfci_2016	coadread_dfci_2016_115875	R88W
+coadread_dfci_2016	coadread_dfci_2016_462	WT
+coadread_dfci_2016	coadread_dfci_2016_224049	WT
+coadread_dfci_2016	coadread_dfci_2016_111	WT
+coadread_dfci_2016	coadread_dfci_2016_2674	R332* E1521*
+coadread_dfci_2016	coadread_dfci_2016_3184	R876* E1554*
+coadread_dfci_2016	coadread_dfci_2016_4514	R876* I221Ffs*72
+coadread_dfci_2016	coadread_dfci_2016_677	H1349Qfs*4
+coadread_dfci_2016	coadread_dfci_2016_3249	R1450* R283*
+coadread_dfci_2016	coadread_dfci_2016_2932	WT
+coadread_dfci_2016	coadread_dfci_2016_1250	Q1303*
+coadread_dfci_2016	coadread_dfci_2016_2370	WT
+coadread_dfci_2016	coadread_dfci_2016_2281	WT
+coadread_dfci_2016	coadread_dfci_2016_3446	P1453Lfs*20
+coadread_dfci_2016	coadread_dfci_2016_280	WT
+coadread_dfci_2016	coadread_dfci_2016_331889	WT
+coadread_dfci_2016	coadread_dfci_2016_2946	R554Q
+coadread_dfci_2016	coadread_dfci_2016_3610	R876* R1450*
+coadread_dfci_2016	coadread_dfci_2016_62	P1319Lfs*2
+coadread_dfci_2016	coadread_dfci_2016_2397	WT
+coadread_dfci_2016	coadread_dfci_2016_84	WT
+coadread_dfci_2016	coadread_dfci_2016_312708	R1114* F1491Lfs*16
+coadread_dfci_2016	coadread_dfci_2016_372	R1114* R805Q
+coadread_dfci_2016	coadread_dfci_2016_3253	S1465Wfs*3
+coadread_dfci_2016	coadread_dfci_2016_33	C344Y
+coadread_dfci_2016	coadread_dfci_2016_287	R876* M1413Wfs*2
+coadread_dfci_2016	coadread_dfci_2016_4503	Q1378*
+coadread_dfci_2016	coadread_dfci_2016_3110	Q1237Efs*2
+coadread_dfci_2016	coadread_dfci_2016_2365	WT
+coadread_dfci_2016	coadread_dfci_2016_132	K1370*
+coadread_dfci_2016	coadread_dfci_2016_3301	R876* T1430Nfs*8
+coadread_dfci_2016	coadread_dfci_2016_42	E1353*
+coadread_dfci_2016	coadread_dfci_2016_299	R499* Q1447Lfs*27
+coadread_dfci_2016	coadread_dfci_2016_2225	WT
+coadread_dfci_2016	coadread_dfci_2016_402	T1556Nfs*3
+coadread_dfci_2016	coadread_dfci_2016_251	WT
+coadread_dfci_2016	coadread_dfci_2016_3415	R232*
+coadread_dfci_2016	coadread_dfci_2016_336	R216*
+coadread_dfci_2016	coadread_dfci_2016_3427	Q978* E1397*
+coadread_dfci_2016	coadread_dfci_2016_613	WT
+coadread_dfci_2016	coadread_dfci_2016_3437	T883Mfs*33
+coadread_dfci_2016	coadread_dfci_2016_213	Q1469* V1099Ffs*19
+coadread_dfci_2016	coadread_dfci_2016_498	E1322*
+coadread_dfci_2016	coadread_dfci_2016_636	R564*
+coadread_dfci_2016	coadread_dfci_2016_2999	D849Rfs*2
+coadread_dfci_2016	coadread_dfci_2016_561	WT
+coadread_dfci_2016	coadread_dfci_2016_3205	S1344*
+coadread_dfci_2016	coadread_dfci_2016_306	WT
+coadread_dfci_2016	coadread_dfci_2016_2323	P1372Tfs*2
+coadread_dfci_2016	coadread_dfci_2016_3442	E1309* E1020*
+coadread_dfci_2016	coadread_dfci_2016_2982	Q1429*
+coadread_dfci_2016	coadread_dfci_2016_114	WT
+coadread_dfci_2016	coadread_dfci_2016_73	WT
+coadread_dfci_2016	coadread_dfci_2016_430	WT
+coadread_dfci_2016	coadread_dfci_2016_687	R1114* A1492Cfs*22
+coadread_dfci_2016	coadread_dfci_2016_3005	W1049*
+coadread_dfci_2016	coadread_dfci_2016_1798	Y796H
+coadread_dfci_2016	coadread_dfci_2016_3227	WT
+coadread_dfci_2016	coadread_dfci_2016_4525	Y796* P1483Sfs*4
+coadread_dfci_2016	coadread_dfci_2016_3637	WT
+coadread_dfci_2016	coadread_dfci_2016_2764	WT
+coadread_dfci_2016	coadread_dfci_2016_2565	WT
+coadread_dfci_2016	coadread_dfci_2016_2945	WT
+coadread_dfci_2016	coadread_dfci_2016_3669	T1556Nfs*3
+coadread_dfci_2016	coadread_dfci_2016_253	WT
+coadread_dfci_2016	coadread_dfci_2016_304	E1345*
+coadread_dfci_2016	coadread_dfci_2016_3182	WT
+coadread_dfci_2016	coadread_dfci_2016_2812	V1414* R958*
+coadread_dfci_2016	coadread_dfci_2016_2445	E1408*
+coadread_dfci_2016	coadread_dfci_2016_3305	R232* R564*
+coadread_dfci_2016	coadread_dfci_2016_2635	WT
+coadread_dfci_2016	coadread_dfci_2016_1216	R564* F1396Lfs*19
+coadread_dfci_2016	coadread_dfci_2016_167191	E1353Vfs*21
+coadread_dfci_2016	coadread_dfci_2016_3169	Q1328*
+coadread_dfci_2016	coadread_dfci_2016_2954	WT
+coadread_dfci_2016	coadread_dfci_2016_485	R1114* S1344*
+coadread_dfci_2016	coadread_dfci_2016_250	K1165*
+coadread_dfci_2016	coadread_dfci_2016_3172	M314I
+coadread_dfci_2016	coadread_dfci_2016_164668	Q1367*
+coadread_dfci_2016	coadread_dfci_2016_101930	WT
+coadread_dfci_2016	coadread_dfci_2016_3022	WT
+coadread_dfci_2016	coadread_dfci_2016_607	S770*
+coadread_dfci_2016	coadread_dfci_2016_1208	M1583Sfs*67 C914Y C914W
+coadread_dfci_2016	coadread_dfci_2016_1254	E477*
+coadread_dfci_2016	coadread_dfci_2016_3430	WT
+coadread_dfci_2016	coadread_dfci_2016_1761	R216* G309* R1589H
+coadread_dfci_2016	coadread_dfci_2016_344	R216*
+coadread_dfci_2016	coadread_dfci_2016_3602	WT
+coadread_dfci_2016	coadread_dfci_2016_1797	E1286Rfs*3
+coadread_dfci_2016	coadread_dfci_2016_497	WT
+coadread_dfci_2016	coadread_dfci_2016_2342	WT
+coadread_dfci_2016	coadread_dfci_2016_3088	R876* A1492Pfs*15 H1490N
+coadread_dfci_2016	coadread_dfci_2016_292	WT
+coadread_dfci_2016	coadread_dfci_2016_50	WT
+coadread_dfci_2016	coadread_dfci_2016_3651	Q1367*
+coadread_dfci_2016	coadread_dfci_2016_236849	WT
+coadread_dfci_2016	coadread_dfci_2016_1848	R499* S1581Lfs*69
+coadread_dfci_2016	coadread_dfci_2016_2220	G1412*
+coadread_dfci_2016	coadread_dfci_2016_1206	R213*
+coadread_dfci_2016	coadread_dfci_2016_2992	E1306*
+coadread_dfci_2016	coadread_dfci_2016_1745	T1556Nfs*3 R332*
+coadread_dfci_2016	coadread_dfci_2016_3483	R1450*
+coadread_dfci_2016	coadread_dfci_2016_2963	Q1065*
+coadread_dfci_2016	coadread_dfci_2016_688	R805* A1492Cfs*22
+coadread_dfci_2016	coadread_dfci_2016_3029	R1450* R213*
+coadread_dfci_2016	coadread_dfci_2016_3010	R1450* K993*
+coadread_dfci_2016	coadread_dfci_2016_93	T1556Lfs*9
+coadread_dfci_2016	coadread_dfci_2016_3421	R876* F1396Lfs*19
+coadread_dfci_2016	coadread_dfci_2016_3534	WT
+coadread_dfci_2016	coadread_dfci_2016_256	WT
+coadread_dfci_2016	coadread_dfci_2016_1236	WT
+coadread_dfci_2016	coadread_dfci_2016_1244	R876* E1464Vfs*8
+coadread_dfci_2016	coadread_dfci_2016_1804	R213* E1379*
+coadread_dfci_2016	coadread_dfci_2016_195	R1450* R1114*
+coadread_dfci_2016	coadread_dfci_2016_123	E1309* S1356P
+coadread_dfci_2016	coadread_dfci_2016_1760	Q1338*
+coadread_dfci_2016	coadread_dfci_2016_3019	Q1367*
+coadread_dfci_2016	coadread_dfci_2016_662	L1342Yfs*73 R1640Q
+coadread_dfci_2016	coadread_dfci_2016_3481	A1475Qfs*32
+coadread_dfci_2016	coadread_dfci_2016_2416	WT
+coadread_dfci_2016	coadread_dfci_2016_3621	K993* E1397*
+coadread_dfci_2016	coadread_dfci_2016_419	WT
+coadread_dfci_2016	coadread_dfci_2016_3330	R499* T1556Nfs*3 R332* R1171C
+coadread_dfci_2016	coadread_dfci_2016_676	E1379*
+coadread_dfci_2016	coadread_dfci_2016_2259	WT
+coadread_dfci_2016	coadread_dfci_2016_2759	R216*
+coadread_dfci_2016	coadread_dfci_2016_2966	S1465Wfs*3 C995*
+coadread_dfci_2016	coadread_dfci_2016_492	WT
+coadread_dfci_2016	coadread_dfci_2016_2808	R876* V1528Gfs*3
+coadread_dfci_2016	coadread_dfci_2016_255	E1295* K580*
+coadread_dfci_2016	coadread_dfci_2016_2410	WT
+coadread_dfci_2016	coadread_dfci_2016_291403	T1556Nfs*3
+coadread_dfci_2016	coadread_dfci_2016_237641	WT
+coadread_dfci_2016	coadread_dfci_2016_437	WT
+coadread_dfci_2016	coadread_dfci_2016_1844	WT
+coadread_dfci_2016	coadread_dfci_2016_2261	R2226*
+coadread_dfci_2016	coadread_dfci_2016_4491	Y935*
+coadread_dfci_2016	coadread_dfci_2016_3632	E1464*
+coadread_dfci_2016	coadread_dfci_2016_197908	WT
+coadread_dfci_2016	coadread_dfci_2016_412	WT
+coadread_dfci_2016	coadread_dfci_2016_270033	WT
+coadread_dfci_2016	coadread_dfci_2016_1772	D849Efs*11
+coadread_dfci_2016	coadread_dfci_2016_343654	R1450* R283*
+coadread_dfci_2016	coadread_dfci_2016_302873	WT
+coadread_dfci_2016	coadread_dfci_2016_2417	R876* R1450*
+coadread_dfci_2016	coadread_dfci_2016_2441	WT
+coadread_dfci_2016	coadread_dfci_2016_276701	E1408* T1023Nfs*3
+coadread_dfci_2016	coadread_dfci_2016_3414	R283* E1154* T562M
+coadread_dfci_2016	coadread_dfci_2016_3178	WT
+coadread_dfci_2016	coadread_dfci_2016_2214	WT
+coadread_dfci_2016	coadread_dfci_2016_2359	S1465Wfs*3
+coadread_dfci_2016	coadread_dfci_2016_1845	G1428Afs*43
+coadread_dfci_2016	coadread_dfci_2016_1205	WT
+coadread_dfci_2016	coadread_dfci_2016_3660	WT
+coadread_dfci_2016	coadread_dfci_2016_3351	WT
+coadread_dfci_2016	coadread_dfci_2016_2263	E1538Dfs*27
+coadread_dfci_2016	coadread_dfci_2016_3316	R499* E1309*
+coadread_dfci_2016	coadread_dfci_2016_295702	R1450*
+coadread_dfci_2016	coadread_dfci_2016_1161	WT
+coadread_dfci_2016	coadread_dfci_2016_311	S1398Rfs*18
+coadread_dfci_2016	coadread_dfci_2016_2995	E422*
+coadread_dfci_2016	coadread_dfci_2016_3105	Q667* T1487Yfs*19
+coadread_dfci_2016	coadread_dfci_2016_491	Q1294*
+coadread_dfci_2016	coadread_dfci_2016_3558	WT
+coadread_dfci_2016	coadread_dfci_2016_2400	WT
+coadread_dfci_2016	coadread_dfci_2016_231	WT
+coadread_dfci_2016	coadread_dfci_2016_2266	WT
+coadread_dfci_2016	coadread_dfci_2016_3116	R499*
+coadread_dfci_2016	coadread_dfci_2016_165	WT
+coadread_dfci_2016	coadread_dfci_2016_259101	R1450*
+coadread_dfci_2016	coadread_dfci_2016_2454	WT
+coadread_dfci_2016	coadread_dfci_2016_1747	R876*
+coadread_dfci_2016	coadread_dfci_2016_2289	R805*
+coadread_dfci_2016	coadread_dfci_2016_2406	WT
+coadread_dfci_2016	coadread_dfci_2016_3062	WT
+coadread_dfci_2016	coadread_dfci_2016_214060	WT
+coadread_dfci_2016	coadread_dfci_2016_3273	S1400*
+coadread_dfci_2016	coadread_dfci_2016_1240	E1286*
+coadread_dfci_2016	coadread_dfci_2016_2388	Q1367*
+coadread_dfci_2016	coadread_dfci_2016_3508	Y935*
+coadread_dfci_2016	coadread_dfci_2016_1742	E1397* D1058Vfs*3
+coadread_dfci_2016	coadread_dfci_2016_196972	R213* Q1429*
+coadread_dfci_2016	coadread_dfci_2016_471	Q1294*
+coadread_dfci_2016	coadread_dfci_2016_621	I1307Nfs*8
+coadread_dfci_2016	coadread_dfci_2016_229707	T1556Nfs*3
+coadread_dfci_2016	coadread_dfci_2016_24	Q1303*
+coadread_dfci_2016	coadread_dfci_2016_3502	A1492Cfs*22 Y416*
+coadread_dfci_2016	coadread_dfci_2016_1221	C1410* W593*
+coadread_dfci_2016	coadread_dfci_2016_694	WT
+coadread_dfci_2016	coadread_dfci_2016_3714	L669*
+coadread_dfci_2016	coadread_dfci_2016_3187	WT
+coadread_dfci_2016	coadread_dfci_2016_3539	Q1406*
+coadread_dfci_2016	coadread_dfci_2016_3194	E1374*
+coadread_dfci_2016	coadread_dfci_2016_270588	P1319Lfs*2 Q789*
+coadread_dfci_2016	coadread_dfci_2016_3549	WT
+coadread_dfci_2016	coadread_dfci_2016_3709	E1408* S1068*
+coadread_dfci_2016	coadread_dfci_2016_1183	WT
+coadread_dfci_2016	coadread_dfci_2016_3104	WT
+coadread_dfci_2016	coadread_dfci_2016_2984	R876* S1567*
+coadread_dfci_2016	coadread_dfci_2016_463	WT
+coadread_dfci_2016	coadread_dfci_2016_4505	K1363*
+coadread_dfci_2016	coadread_dfci_2016_2974	WT
+coadread_dfci_2016	coadread_dfci_2016_647	R1450* R283*
+coadread_dfci_2016	coadread_dfci_2016_691	WT
+coadread_dfci_2016	coadread_dfci_2016_103320	E1397* E425*
+coadread_dfci_2016	coadread_dfci_2016_328	E1464Vfs*8
+coadread_dfci_2016	coadread_dfci_2016_3255	R213*
+coadread_dfci_2016	coadread_dfci_2016_359705	E1306* R232*
+coadread_dfci_2016	coadread_dfci_2016_3112	WT
+coadread_dfci_2016	coadread_dfci_2016_2413	R1589H
+coadread_dfci_2016	coadread_dfci_2016_2763	P1440Hfs*33
+coadread_dfci_2016	coadread_dfci_2016_3645	L1488Ffs*23
+coadread_dfci_2016	coadread_dfci_2016_2304	S1346*
+coadread_dfci_2016	coadread_dfci_2016_3261	WT
+coadread_dfci_2016	coadread_dfci_2016_693	WT
+coadread_dfci_2016	coadread_dfci_2016_418	S1356*
+coadread_dfci_2016	coadread_dfci_2016_4534	T1556Nfs*3 R332* S874*
+coadread_dfci_2016	coadread_dfci_2016_180077	WT
+coadread_dfci_2016	coadread_dfci_2016_1187	T2495I
+coadread_dfci_2016	coadread_dfci_2016_46	E1309Dfs*4
+coadread_dfci_2016	coadread_dfci_2016_4529	W1049*
+coadread_dfci_2016	coadread_dfci_2016_2389	E1345* C599Afs*11
+coadread_dfci_2016	coadread_dfci_2016_374	Q1378*
+coadread_dfci_2016	coadread_dfci_2016_360138	R1450*
+coadread_dfci_2016	coadread_dfci_2016_2935	WT
+coadread_dfci_2016	coadread_dfci_2016_2768	WT
+coadread_dfci_2016	coadread_dfci_2016_224	S1411Rfs*4 L779Ffs*2
+coadread_dfci_2016	coadread_dfci_2016_2369	R876* Q1447* R2714H
+coadread_dfci_2016	coadread_dfci_2016_3523	T1556Nfs*3 R332* S678Rfs*40
+coadread_dfci_2016	coadread_dfci_2016_4508	R1399Lfs*14
+coadread_dfci_2016	coadread_dfci_2016_142275	WT
+coadread_dfci_2016	coadread_dfci_2016_316	E1353* E574*
+coadread_dfci_2016	coadread_dfci_2016_106	Q1303*
+coadread_dfci_2016	coadread_dfci_2016_1160	R232Q
+coadread_dfci_2016	coadread_dfci_2016_2430	S1327*
+coadread_dfci_2016	coadread_dfci_2016_1226	R232*
+coadread_dfci_2016	coadread_dfci_2016_164221	WT
+coadread_dfci_2016	coadread_dfci_2016_1153	WT
+coadread_dfci_2016	coadread_dfci_2016_3668	E1309Dfs*4
+coadread_dfci_2016	coadread_dfci_2016_262114	E1379*
+coadread_dfci_2016	coadread_dfci_2016_3191	R499* S1392*
+coadread_dfci_2016	coadread_dfci_2016_3546	WT
+coadread_dfci_2016	coadread_dfci_2016_3680	V1481Mfs*23
+coadread_dfci_2016	coadread_dfci_2016_2991	R876* S1465Efs*4 G471R
+coadread_dfci_2016	coadread_dfci_2016_640	WT
+coadread_dfci_2016	coadread_dfci_2016_3053	R790*
+coadread_dfci_2016	coadread_dfci_2016_1247	WT
+coadread_dfci_2016	coadread_dfci_2016_2969	S1567* L1564*
+coadread_dfci_2016	coadread_dfci_2016_1156	WT
+coadread_dfci_2016	coadread_dfci_2016_2265	R805*
+coadread_dfci_2016	coadread_dfci_2016_2271	E1379* V1472Efs*35
+coadread_dfci_2016	coadread_dfci_2016_4536	R213*
+coadread_dfci_2016	coadread_dfci_2016_2394	E1353*
+coadread_dfci_2016	coadread_dfci_2016_202	WT
+coadread_dfci_2016	coadread_dfci_2016_3108	R1450*
+coadread_dfci_2016	coadread_dfci_2016_1193	WT
+coadread_dfci_2016	coadread_dfci_2016_2941	WT
+coadread_dfci_2016	coadread_dfci_2016_2250	WT
+coadread_dfci_2016	coadread_dfci_2016_628	Q1367* K1199N
+coadread_dfci_2016	coadread_dfci_2016_214901	R283*
+coadread_dfci_2016	coadread_dfci_2016_426	WT
+coadread_dfci_2016	coadread_dfci_2016_1157	E1379* E58D
+coadread_dfci_2016	coadread_dfci_2016_3304	WT
+coadread_dfci_2016	coadread_dfci_2016_444	R302*
+coadread_dfci_2016	coadread_dfci_2016_112874	WT
+coadread_dfci_2016	coadread_dfci_2016_3485	Q541Tfs*19
+coadread_dfci_2016	coadread_dfci_2016_2955	WT
+coadread_dfci_2016	coadread_dfci_2016_323	R564*
+coadread_dfci_2016	coadread_dfci_2016_3674	E1309*
+coadread_dfci_2016	coadread_dfci_2016_2247	S1465Wfs*3 R876*
+coadread_dfci_2016	coadread_dfci_2016_2455	D1285Vfs*3
+coadread_dfci_2016	coadread_dfci_2016_182584	WT
+coadread_dfci_2016	coadread_dfci_2016_2621	WT
+coadread_dfci_2016	coadread_dfci_2016_277	R232*
+coadread_dfci_2016	coadread_dfci_2016_3092	R805* A1553Qfs*12
+coadread_dfci_2016	coadread_dfci_2016_2769	WT
+coadread_dfci_2016	coadread_dfci_2016_3479	R283* T1556Nfs*3
+coadread_dfci_2016	coadread_dfci_2016_405	S1196*
+coadread_dfci_2016	coadread_dfci_2016_2767	R564*
+coadread_dfci_2016	coadread_dfci_2016_496	WT
+coadread_dfci_2016	coadread_dfci_2016_504	WT
+coadread_dfci_2016	coadread_dfci_2016_3294	I1307Nfs*8
+coadread_dfci_2016	coadread_dfci_2016_2967	K957* N1531Mfs*34
+coadread_dfci_2016	coadread_dfci_2016_3265	T1556Nfs*3
+coadread_dfci_2016	coadread_dfci_2016_3232	WT
+coadread_dfci_2016	coadread_dfci_2016_3725	Y1262*
+coadread_dfci_2016	coadread_dfci_2016_3011	WT
+coadread_dfci_2016	coadread_dfci_2016_3045	WT
+coadread_dfci_2016	coadread_dfci_2016_3323	WT
+coadread_dfci_2016	coadread_dfci_2016_1743	WT
+coadread_dfci_2016	coadread_dfci_2016_2364	R1158Tfs*5
+coadread_dfci_2016	coadread_dfci_2016_160282	WT
+coadread_dfci_2016	coadread_dfci_2016_3557	R564*
+coadread_dfci_2016	coadread_dfci_2016_3234	R232*
+coadread_dfci_2016	coadread_dfci_2016_615	R876*
+coadread_dfci_2016	coadread_dfci_2016_1262	Q1378* P448Lfs*6
+coadread_dfci_2016	coadread_dfci_2016_1224	R876*
+coadread_dfci_2016	coadread_dfci_2016_2284	N1142Ifs*22 S1415Mfs*4
+coadread_dfci_2016	coadread_dfci_2016_3002	R213* I1287*
+coadread_dfci_2016	coadread_dfci_2016_1251	WT
+coadread_dfci_2016	coadread_dfci_2016_3671	R1435Efs*38 T1633I
+coadread_dfci_2016	coadread_dfci_2016_223	WT
+coadread_dfci_2016	coadread_dfci_2016_1249	R283* E1397Rfs*18
+coadread_dfci_2016	coadread_dfci_2016_43	R564* S1501Lfs*6
+coadread_dfci_2016	coadread_dfci_2016_4533	R1450* L726*
+coadread_dfci_2016	coadread_dfci_2016_2775	WT
+coadread_dfci_2016	coadread_dfci_2016_240	WT
+coadread_dfci_2016	coadread_dfci_2016_204	E1295*
+coadread_dfci_2016	coadread_dfci_2016_3440	R876* R1450*
+coadread_dfci_2016	coadread_dfci_2016_1794	X216_splice
+coadread_dfci_2016	coadread_dfci_2016_3542	WT
+coadread_dfci_2016	coadread_dfci_2016_604	E1397*
+coadread_dfci_2016	coadread_dfci_2016_3712	R232*
+coadread_dfci_2016	coadread_dfci_2016_4526	P1324Qfs*91
+coadread_dfci_2016	coadread_dfci_2016_4537	Q978*
+coadread_dfci_2016	coadread_dfci_2016_2765	X141_splice
+coadread_dfci_2016	coadread_dfci_2016_3016	Q1378*
+coadread_dfci_2016	coadread_dfci_2016_358480	R499* E1408*
+coadread_dfci_2016	coadread_dfci_2016_222	E287*
+coadread_dfci_2016	coadread_dfci_2016_2260	WT
+coadread_dfci_2016	coadread_dfci_2016_30	WT
+coadread_dfci_2016	coadread_dfci_2016_1170	S1411Rfs*4
+coadread_dfci_2016	coadread_dfci_2016_2760	K1310Dfs*4
+coadread_dfci_2016	coadread_dfci_2016_283200	R554* L1488Ifs*25
+coadread_dfci_2016	coadread_dfci_2016_1232	WT
+coadread_dfci_2016	coadread_dfci_2016_3529	R1450*
+coadread_dfci_2016	coadread_dfci_2016_3058	V1323Afs*8
+coadread_dfci_2016	coadread_dfci_2016_193667	S1327*
+coadread_dfci_2016	coadread_dfci_2016_3059	E1295*
+coadread_dfci_2016	coadread_dfci_2016_3496	D842Vfs*18 L1489Yfs*19
+coadread_dfci_2016	coadread_dfci_2016_442	R564*
+coadread_dfci_2016	coadread_dfci_2016_2438	R283* Q1152*
+coadread_dfci_2016	coadread_dfci_2016_2939	R213* S1415Rfs*4
+coadread_dfci_2016	coadread_dfci_2016_1227	Q1338*
+coadread_dfci_2016	coadread_dfci_2016_3237	WT
+coadread_dfci_2016	coadread_dfci_2016_3038	WT
+coadread_dfci_2016	coadread_dfci_2016_3673	WT
+coadread_dfci_2016	coadread_dfci_2016_201263	Q1429*
+coadread_dfci_2016	coadread_dfci_2016_3298	R1450* T1556Nfs*3
+coadread_dfci_2016	coadread_dfci_2016_4506	R499* G1312*
+coadread_dfci_2016	coadread_dfci_2016_354207	P1319Lfs*2
+coadread_dfci_2016	coadread_dfci_2016_3644	WT
+coadread_dfci_2016	coadread_dfci_2016_20	R1114* T1556Nfs*3
+coadread_dfci_2016	coadread_dfci_2016_3639	Q767*
+coadread_dfci_2016	coadread_dfci_2016_2434	Q1303*
+coadread_dfci_2016	coadread_dfci_2016_2934	WT
+coadread_dfci_2016	coadread_dfci_2016_229051	WT
+coadread_dfci_2016	coadread_dfci_2016_3705	T1493Rfs*14
+coadread_dfci_2016	coadread_dfci_2016_1803	WT
+coadread_dfci_2016	coadread_dfci_2016_3439	WT
+coadread_dfci_2016	coadread_dfci_2016_2366	WT
+coadread_dfci_2016	coadread_dfci_2016_3699	R564* S1327*
+coadread_dfci_2016	coadread_dfci_2016_3204	R876*
+coadread_dfci_2016	coadread_dfci_2016_3338	WT
+coadread_dfci_2016	coadread_dfci_2016_3170	WT
+coadread_dfci_2016	coadread_dfci_2016_2976	Q1294Rfs*11
+coadread_dfci_2016	coadread_dfci_2016_3527	R216*
+coadread_dfci_2016	coadread_dfci_2016_3650	R302*
+coadread_dfci_2016	coadread_dfci_2016_365383	WT
+coadread_dfci_2016	coadread_dfci_2016_237969	E1576Kfs*74
+coadread_dfci_2016	coadread_dfci_2016_110220	L1337Afs*4
+coadread_dfci_2016	coadread_dfci_2016_3665	E1550* K534*
+coadread_dfci_2016	coadread_dfci_2016_3102	WT
+coadread_dfci_2016	coadread_dfci_2016_3099	Q1406*
+coadread_dfci_2016	coadread_dfci_2016_3209	Y159*
+coadread_dfci_2016	coadread_dfci_2016_1771	S1465Wfs*3
+coadread_dfci_2016	coadread_dfci_2016_1191	Q1367*
+coadread_dfci_2016	coadread_dfci_2016_2457	WT
+coadread_dfci_2016	coadread_dfci_2016_2926	S1356*
+coadread_dfci_2016	coadread_dfci_2016_587	WT
+coadread_dfci_2016	coadread_dfci_2016_2367	R24*
+coadread_dfci_2016	coadread_dfci_2016_32	T1556Nfs*3
+coadread_dfci_2016	coadread_dfci_2016_22	Q1338*
+coadread_dfci_2016	coadread_dfci_2016_603	WT
+coadread_dfci_2016	coadread_dfci_2016_101	WT
+coadread_dfci_2016	coadread_dfci_2016_3698	K1359*
+coadread_dfci_2016	coadread_dfci_2016_3683	L726*
+coadread_dfci_2016	coadread_dfci_2016_631	L1302Cfs*3
+coadread_dfci_2016	coadread_dfci_2016_3692	Q1367*
+coadread_dfci_2016	coadread_dfci_2016_657	WT
+coadread_dfci_2016	coadread_dfci_2016_241681	R216*
+coadread_dfci_2016	coadread_dfci_2016_1195	K1085Tfs*33
+coadread_dfci_2016	coadread_dfci_2016_3398	WT
+coadread_dfci_2016	coadread_dfci_2016_3267	WT
+coadread_dfci_2016	coadread_dfci_2016_3046	R876*
+coadread_dfci_2016	coadread_dfci_2016_3144	L1181*
+coadread_dfci_2016	coadread_dfci_2016_2429	R1114*
+coadread_dfci_2016	coadread_dfci_2016_348	WT
+coadread_dfci_2016	coadread_dfci_2016_3335	R232* R216*
+coadread_dfci_2016	coadread_dfci_2016_475	X438_splice
+coadread_dfci_2016	coadread_dfci_2016_2283	WT
+coadread_dfci_2016	coadread_dfci_2016_521	E1306*
+coadread_dfci_2016	coadread_dfci_2016_351	WT
+coadread_dfci_2016	coadread_dfci_2016_298012	C483*
+coadread_dfci_2016	coadread_dfci_2016_2766	R1450*
+coadread_dfci_2016	coadread_dfci_2016_2279	E1286*
+coadread_dfci_2016	coadread_dfci_2016_2647	E1295*
+coadread_dfci_2016	coadread_dfci_2016_330	WT
+coadread_dfci_2016	coadread_dfci_2016_2568	WT
+coadread_dfci_2016	coadread_dfci_2016_645	E1169*
+coadread_dfci_2016	coadread_dfci_2016_519	R1450*
+coadread_dfci_2016	coadread_dfci_2016_3431	E1309Dfs*4
+coadread_dfci_2016	coadread_dfci_2016_1185	WT
+coadread_dfci_2016	coadread_dfci_2016_2948	Q1127*
+coadread_dfci_2016	coadread_dfci_2016_391	WT
+coadread_dfci_2016	coadread_dfci_2016_2957	R1114*
+coadread_dfci_2016	coadread_dfci_2016_18	Q1406*
+coadread_dfci_2016	coadread_dfci_2016_1190	E1345*
+coadread_dfci_2016	coadread_dfci_2016_3484	R876*
+coadread_dfci_2016	coadread_dfci_2016_66	WT
+coadread_dfci_2016	coadread_dfci_2016_3167	WT
+coadread_dfci_2016	coadread_dfci_2016_3601	E1397*
+coadread_dfci_2016	coadread_dfci_2016_1755	WT
+coadread_dfci_2016	coadread_dfci_2016_3405	R1450*
+coadread_dfci_2016	coadread_dfci_2016_1184	WT
+coadread_dfci_2016	coadread_dfci_2016_1167	G1339Ffs*2
+coadread_dfci_2016	coadread_dfci_2016_4519	Q999* A1492Gfs*22
+coadread_dfci_2016	coadread_dfci_2016_3509	E403Kfs*51
+coadread_dfci_2016	coadread_dfci_2016_464	R876*
+coadread_dfci_2016	coadread_dfci_2016_1165	WT
+coadread_dfci_2016	coadread_dfci_2016_108	WT
+coadread_dfci_2016	coadread_dfci_2016_3654	WT
+coadread_dfci_2016	coadread_dfci_2016_346942	WT
+coadread_dfci_2016	coadread_dfci_2016_3678	WT
+coadread_dfci_2016	coadread_dfci_2016_429	E1397*
+coadread_dfci_2016	coadread_dfci_2016_2303	WT
+coadread_dfci_2016	coadread_dfci_2016_4520	WT
+coadread_dfci_2016	coadread_dfci_2016_461	WT
+coadread_dfci_2016	coadread_dfci_2016_3710	WT
+coadread_dfci_2016	coadread_dfci_2016_3340	R1450* Q793*
+coadread_dfci_2016	coadread_dfci_2016_2270	E1573*
+coadread_dfci_2016	coadread_dfci_2016_251808	Q654* G1312*
+coadread_dfci_2016	coadread_dfci_2016_2664	WT
+coadread_dfci_2016	coadread_dfci_2016_378	Q1303*
+coadread_dfci_2016	coadread_dfci_2016_3528	R302*
+coadread_dfci_2016	coadread_dfci_2016_2458	K534*
+coadread_dfci_2016	coadread_dfci_2016_3670	WT
+coadread_dfci_2016	coadread_dfci_2016_171816	WT
+coadread_dfci_2016	coadread_dfci_2016_3604	WT
+coadread_dfci_2016	coadread_dfci_2016_191	WT
+coadread_dfci_2016	coadread_dfci_2016_356	WT
+coadread_dfci_2016	coadread_dfci_2016_308390	L189Yfs*17
+coadread_dfci_2016	coadread_dfci_2016_311196	S1415Rfs*2
+coadread_dfci_2016	coadread_dfci_2016_3545	WT
+coadread_dfci_2016	coadread_dfci_2016_1196	E1397* Y796*
+coadread_dfci_2016	coadread_dfci_2016_2929	R564*
+coadread_dfci_2016	coadread_dfci_2016_3309	X438_splice
+coadread_dfci_2016	coadread_dfci_2016_4522	R876* A1492Cfs*22
+coadread_dfci_2016	coadread_dfci_2016_2439	W553* E1157* R1920Q
+coadread_dfci_2016	coadread_dfci_2016_3726	E1408*
+coadread_dfci_2016	coadread_dfci_2016_3336	E1494Kfs*13
+coadread_dfci_2016	coadread_dfci_2016_3443	E1408* P692R
+coadread_dfci_2016	coadread_dfci_2016_186	R216* S1327*
+coadread_dfci_2016	coadread_dfci_2016_2949	WT
+coadread_dfci_2016	coadread_dfci_2016_2252	WT
+coadread_dfci_2016	coadread_dfci_2016_366793	S1411Vfs*4
+coadread_dfci_2016	coadread_dfci_2016_229	WT
+coadread_dfci_2016	coadread_dfci_2016_3706	S1355Ffs*20
+coadread_dfci_2016	coadread_dfci_2016_2582	L34R
+coadread_dfci_2016	coadread_dfci_2016_2938	E1353* Q663*
+coadread_dfci_2016	coadread_dfci_2016_353622	R232* Y1376Cfs*9
+coadread_dfci_2016	coadread_dfci_2016_183221	Q1367*
+coadread_dfci_2016	coadread_dfci_2016_2959	E1309*
+coadread_dfci_2016	coadread_dfci_2016_3677	WT
+coadread_dfci_2016	coadread_dfci_2016_423	E1309*
+coadread_dfci_2016	coadread_dfci_2016_2418	K993*
+coadread_dfci_2016	coadread_dfci_2016_627	Q1338*
+coadread_dfci_2016	coadread_dfci_2016_3288	WT
+coadread_dfci_2016	coadread_dfci_2016_680	WT
+coadread_dfci_2016	coadread_dfci_2016_70	R876* E1397*
+coadread_dfci_2016	coadread_dfci_2016_3603	R1450*
+coadread_dfci_2016	coadread_dfci_2016_3432	WT
+coadread_dfci_2016	coadread_dfci_2016_1204	WT
+coadread_dfci_2016	coadread_dfci_2016_3433	WT
+coadread_dfci_2016	coadread_dfci_2016_3020	E1209*
+coadread_dfci_2016	coadread_dfci_2016_649	WT
+coadread_dfci_2016	coadread_dfci_2016_3444	Y1031*
+coadread_dfci_2016	coadread_dfci_2016_3048	Q1429*
+coadread_dfci_2016	coadread_dfci_2016_2272	R213*
+coadread_dfci_2016	coadread_dfci_2016_3260	WT
+coadread_dfci_2016	coadread_dfci_2016_2398	WT
+coadread_dfci_2016	coadread_dfci_2016_3720	T1556Nfs*3
+coadread_dfci_2016	coadread_dfci_2016_1767	H1490Lfs*18
+coadread_dfci_2016	coadread_dfci_2016_228	R1450*
+coadread_dfci_2016	coadread_dfci_2016_2384	WT
+coadread_dfci_2016	coadread_dfci_2016_344232	WT
+coadread_dfci_2016	coadread_dfci_2016_3101	L540Ffs*20
+coadread_dfci_2016	coadread_dfci_2016_3111	WT
+coadread_dfci_2016	coadread_dfci_2016_306835	Q1367* Q541Tfs*19
+coadread_dfci_2016	coadread_dfci_2016_3436	WT
+coadread_dfci_2016	coadread_dfci_2016_3417	R216*
+coadread_dfci_2016	coadread_dfci_2016_3254	E1309Dfs*4
+coadread_dfci_2016	coadread_dfci_2016_3506	E1309* Q1328*
+coadread_dfci_2016	coadread_dfci_2016_3476	WT
+coadread_dfci_2016	coadread_dfci_2016_610	R1114* R216*
+coadread_dfci_2016	coadread_dfci_2016_1245	R876*
+coadread_dfci_2016	coadread_dfci_2016_3270	WT
+coadread_dfci_2016	coadread_dfci_2016_3226	Q1294* R283*
+coadread_dfci_2016	coadread_dfci_2016_3079	WT
+coadread_dfci_2016	coadread_dfci_2016_663	WT
+coadread_dfci_2016	coadread_dfci_2016_3271	G1499*
+coadread_dfci_2016	coadread_dfci_2016_3563	L912* K1454*
+coadread_dfci_2016	coadread_dfci_2016_1246	R1114*
+coadread_dfci_2016	coadread_dfci_2016_3450	E422*
+coadread_dfci_2016	coadread_dfci_2016_1854	WT
+coadread_dfci_2016	coadread_dfci_2016_353	WT
+coadread_dfci_2016	coadread_dfci_2016_283	WT
+coadread_dfci_2016	coadread_dfci_2016_3242	WT
+coadread_dfci_2016	coadread_dfci_2016_2262	WT
+coadread_dfci_2016	coadread_dfci_2016_3512	WT
+coadread_dfci_2016	coadread_dfci_2016_2997	WT
+coadread_genentech	587220	R876* R1450* H1009R
+coadread_genentech	587222	R1114* Q1529* S1861Y
+coadread_genentech	587224	R653M
+coadread_genentech	587226	WT
+coadread_genentech	587228	R876Q R2816Q
+coadread_genentech	587230	Q1378* R653K
+coadread_genentech	587232	WT
+coadread_genentech	587234	WT
+coadread_genentech	587238	R232* Q238*
+coadread_genentech	587242	WT
+coadread_genentech	587244	WT
+coadread_genentech	587246	WT
+coadread_genentech	587248	L831Ffs*11
+coadread_genentech	587254	WT
+coadread_genentech	587256	WT
+coadread_genentech	587260	L1488Yfs*19
+coadread_genentech	587262	WT
+coadread_genentech	587264	WT
+coadread_genentech	587268	WT
+coadread_genentech	587270	WT
+coadread_genentech	587276	WT
+coadread_genentech	587278	R564*
+coadread_genentech	587282	WT
+coadread_genentech	587284	N1124Mfs*2 N1290K
+coadread_genentech	587286	WT
+coadread_genentech	587288	WT
+coadread_genentech	587290	WT
+coadread_genentech	587292	R876*
+coadread_genentech	587294	E1521*
+coadread_genentech	587298	WT
+coadread_genentech	587300	WT
+coadread_genentech	587302	WT
+coadread_genentech	587304	WT
+coadread_genentech	587306	E1408*
+coadread_genentech	587316	WT
+coadread_genentech	587318	WT
+coadread_genentech	587322	Q215* R1386*
+coadread_genentech	587328	E1306*
+coadread_genentech	587330	G1312* L548*
+coadread_genentech	587332	WT
+coadread_genentech	587334	WT
+coadread_genentech	587336	WT
+coadread_genentech	587338	WT
+coadread_genentech	587340	R232*
+coadread_genentech	587342	WT
+coadread_genentech	587344	WT
+coadread_genentech	587346	WT
+coadread_genentech	587348	WT
+coadread_genentech	587350	R283*
+coadread_genentech	587352	R876*
+coadread_genentech	587354	WT
+coadread_genentech	587356	S900Lfs*16
+coadread_genentech	587358	WT
+coadread_genentech	587360	K212Nfs*7
+coadread_genentech	587362	WT
+coadread_genentech	587364	E1379* Q1367*
+coadread_genentech	587368	WT
+coadread_genentech	587370	WT
+coadread_genentech	587372	WT
+coadread_genentech	587374	WT
+coadread_genentech	587376	R1920* S1201* S117* S1400L S2307L S1355Y T1705A M2047V
+coadread_genentech	587378	R1450*
+coadread_genentech	587380	R302*
+coadread_genentech	587382	WT
+coadread_genentech	587384	Q1338*
+coadread_genentech	587386	P1420Qfs*2
+coadread_genentech	587388	Q1378* R564*
+coadread_genentech	587390	WT
+coadread_genentech	587392	WT
+coadread_genentech	587394	WT
+coadread_genentech	587398	R499*
+coadread_genentech	587400	WT
+coadread_genentech	587236	NS
+coadread_genentech	587326	NS
+coadread_tcga	TCGA-A6-2675-01	NS
+coadread_tcga	TCGA-A6-5667-01	NS
+coadread_tcga	TCGA-AA-3655-01	NS
+coadread_tcga	TCGA-AA-3660-01	NS
+coadread_tcga	TCGA-AA-3662-01	NS
+coadread_tcga	TCGA-AA-3663-01	NS
+coadread_tcga	TCGA-AA-3697-01	NS
+coadread_tcga	TCGA-AA-3712-01	NS
+coadread_tcga	TCGA-AA-3713-01	NS
+coadread_tcga	TCGA-AU-3779-01	NS
+coadread_tcga	TCGA-AU-6004-01	NS
+coadread_tcga	TCGA-AY-6196-01	NS
+coadread_tcga	TCGA-AY-6197-01	NS
+coadread_tcga	TCGA-AY-6386-01	NS
+coadread_tcga	TCGA-AZ-5407-01	NS
+coadread_tcga	TCGA-CK-4950-01	NS
+coadread_tcga	TCGA-CK-4952-01	NS
+coadread_tcga	TCGA-CM-4743-01	NS
+coadread_tcga	TCGA-CM-5344-01	NS
+coadread_tcga	TCGA-CM-5348-01	NS
+coadread_tcga	TCGA-CM-5349-01	NS
+coadread_tcga	TCGA-D5-6530-01	NS
+coadread_tcga	TCGA-D5-6531-01	NS
+coadread_tcga	TCGA-D5-6532-01	NS
+coadread_tcga	TCGA-D5-6533-01	NS
+coadread_tcga	TCGA-D5-6535-01	NS
+coadread_tcga	TCGA-D5-6536-01	NS
+coadread_tcga	TCGA-D5-6537-01	NS
+coadread_tcga	TCGA-D5-6538-01	NS
+coadread_tcga	TCGA-D5-6539-01	NS
+coadread_tcga	TCGA-D5-6540-01	NS
+coadread_tcga	TCGA-D5-6541-01	NS
+coadread_tcga	TCGA-F4-6463-01	NS
+coadread_tcga	TCGA-G4-6293-01	NS
+coadread_tcga	TCGA-G4-6295-01	NS
+coadread_tcga	TCGA-G4-6297-01	NS
+coadread_tcga	TCGA-G4-6298-01	NS
+coadread_tcga	TCGA-G4-6302-01	NS
+coadread_tcga	TCGA-G4-6307-01	NS
+coadread_tcga	TCGA-G4-6310-01	NS
+coadread_tcga	TCGA-G4-6311-01	NS
+coadread_tcga	TCGA-G4-6314-01	NS
+coadread_tcga	TCGA-G4-6315-01	NS
+coadread_tcga	TCGA-G4-6317-01	NS
+coadread_tcga	TCGA-G4-6320-01	NS
+coadread_tcga	TCGA-G4-6321-01	NS
+coadread_tcga	TCGA-G4-6322-01	NS
+coadread_tcga	TCGA-G4-6323-01	NS
+coadread_tcga	TCGA-A6-4105-01	NS
+coadread_tcga	TCGA-A6-6137-01	NS
+coadread_tcga	TCGA-A6-6138-01	NS
+coadread_tcga	TCGA-A6-6140-01	NS
+coadread_tcga	TCGA-A6-6141-01	NS
+coadread_tcga	TCGA-A6-6142-01	NS
+coadread_tcga	TCGA-A6-6648-01	NS
+coadread_tcga	TCGA-A6-6649-01	NS
+coadread_tcga	TCGA-A6-6650-01	NS
+coadread_tcga	TCGA-A6-6652-01	NS
+coadread_tcga	TCGA-A6-6653-01	NS
+coadread_tcga	TCGA-AZ-6598-01	NS
+coadread_tcga	TCGA-AZ-6599-01	NS
+coadread_tcga	TCGA-AZ-6600-01	NS
+coadread_tcga	TCGA-AZ-6601-01	NS
+coadread_tcga	TCGA-D5-6529-01	NS
+coadread_tcga	TCGA-F4-6459-01	NS
+coadread_tcga	TCGA-F4-6460-01	NS
+coadread_tcga	TCGA-F4-6461-01	NS
+coadread_tcga	TCGA-F4-6569-01	NS
+coadread_tcga	TCGA-F4-6570-01	NS
+coadread_tcga	TCGA-G4-6294-01	NS
+coadread_tcga	TCGA-G4-6299-01	NS
+coadread_tcga	TCGA-G4-6303-01	NS
+coadread_tcga	TCGA-G4-6306-01	NS
+coadread_tcga	TCGA-G4-6586-01	NS
+coadread_tcga	TCGA-G4-6588-01	NS
+coadread_tcga	TCGA-G4-6625-01	NS
+coadread_tcga	TCGA-G4-6626-01	NS
+coadread_tcga	TCGA-G4-6627-01	NS
+coadread_tcga	TCGA-DM-A0X9-01	NS
+coadread_tcga	TCGA-DM-A0XD-01	NS
+coadread_tcga	TCGA-DM-A0XF-01	NS
+coadread_tcga	TCGA-DM-A1D0-01	NS
+coadread_tcga	TCGA-DM-A1D4-01	NS
+coadread_tcga	TCGA-DM-A1D6-01	NS
+coadread_tcga	TCGA-DM-A1D7-01	NS
+coadread_tcga	TCGA-DM-A1D8-01	NS
+coadread_tcga	TCGA-DM-A1D9-01	NS
+coadread_tcga	TCGA-DM-A1DA-01	NS
+coadread_tcga	TCGA-DM-A1DB-01	NS
+coadread_tcga	TCGA-DM-A1HA-01	NS
+coadread_tcga	TCGA-A6-5656-01	NS
+coadread_tcga	TCGA-A6-5664-01	NS
+coadread_tcga	TCGA-A6-6651-01	NS
+coadread_tcga	TCGA-A6-6654-01	NS
+coadread_tcga	TCGA-A6-6780-01	NS
+coadread_tcga	TCGA-A6-6782-01	NS
+coadread_tcga	TCGA-AA-3489-01	NS
+coadread_tcga	TCGA-AA-3496-01	NS
+coadread_tcga	TCGA-AA-3511-01	NS
+coadread_tcga	TCGA-AD-6548-01	NS
+coadread_tcga	TCGA-AZ-4323-01	NS
+coadread_tcga	TCGA-AZ-4616-01	NS
+coadread_tcga	TCGA-AZ-6603-01	NS
+coadread_tcga	TCGA-AZ-6605-01	NS
+coadread_tcga	TCGA-AZ-6606-01	NS
+coadread_tcga	TCGA-AZ-6607-01	NS
+coadread_tcga	TCGA-AZ-6608-01	NS
+coadread_tcga	TCGA-CA-5254-01	NS
+coadread_tcga	TCGA-CA-5255-01	NS
+coadread_tcga	TCGA-CA-6715-01	NS
+coadread_tcga	TCGA-CA-6716-01	NS
+coadread_tcga	TCGA-CA-6717-01	NS
+coadread_tcga	TCGA-CA-6718-01	NS
+coadread_tcga	TCGA-CA-6719-01	NS
+coadread_tcga	TCGA-CK-6746-01	NS
+coadread_tcga	TCGA-CK-6747-01	NS
+coadread_tcga	TCGA-CK-6748-01	NS
+coadread_tcga	TCGA-CK-6751-01	NS
+coadread_tcga	TCGA-CM-4751-01	NS
+coadread_tcga	TCGA-CM-5863-01	NS
+coadread_tcga	TCGA-CM-6674-01	NS
+coadread_tcga	TCGA-CM-6675-01	NS
+coadread_tcga	TCGA-CM-6676-01	NS
+coadread_tcga	TCGA-CM-6677-01	NS
+coadread_tcga	TCGA-CM-6678-01	NS
+coadread_tcga	TCGA-CM-6679-01	NS
+coadread_tcga	TCGA-CM-6680-01	NS
+coadread_tcga	TCGA-F4-6703-01	NS
+coadread_tcga	TCGA-F4-6704-01	NS
+coadread_tcga	TCGA-F4-6805-01	NS
+coadread_tcga	TCGA-F4-6806-01	NS
+coadread_tcga	TCGA-F4-6807-01	NS
+coadread_tcga	TCGA-F4-6808-01	NS
+coadread_tcga	TCGA-F4-6809-01	NS
+coadread_tcga	TCGA-G4-6309-01	NS
+coadread_tcga	TCGA-G4-6628-01	NS
+coadread_tcga	TCGA-DM-A280-01	NS
+coadread_tcga	TCGA-DM-A282-01	NS
+coadread_tcga	TCGA-DM-A285-01	NS
+coadread_tcga	TCGA-DM-A288-01	NS
+coadread_tcga	TCGA-DM-A28A-01	NS
+coadread_tcga	TCGA-DM-A28C-01	NS
+coadread_tcga	TCGA-DM-A28E-01	NS
+coadread_tcga	TCGA-DM-A28F-01	NS
+coadread_tcga	TCGA-DM-A28G-01	NS
+coadread_tcga	TCGA-DM-A28H-01	NS
+coadread_tcga	TCGA-DM-A28K-01	NS
+coadread_tcga	TCGA-DM-A28M-01	NS
+coadread_tcga	TCGA-A6-6781-01	NS
+coadread_tcga	TCGA-AD-6888-01	NS
+coadread_tcga	TCGA-AD-6889-01	NS
+coadread_tcga	TCGA-AD-6890-01	NS
+coadread_tcga	TCGA-AD-6895-01	NS
+coadread_tcga	TCGA-AD-6899-01	NS
+coadread_tcga	TCGA-AD-6901-01	NS
+coadread_tcga	TCGA-AD-6963-01	NS
+coadread_tcga	TCGA-AD-6964-01	NS
+coadread_tcga	TCGA-AD-6965-01	NS
+coadread_tcga	TCGA-D5-5537-01	NS
+coadread_tcga	TCGA-D5-6534-01	NS
+coadread_tcga	TCGA-D5-6898-01	NS
+coadread_tcga	TCGA-D5-6920-01	NS
+coadread_tcga	TCGA-D5-6922-01	NS
+coadread_tcga	TCGA-D5-6923-01	NS
+coadread_tcga	TCGA-D5-6924-01	NS
+coadread_tcga	TCGA-D5-6926-01	NS
+coadread_tcga	TCGA-D5-6927-01	NS
+coadread_tcga	TCGA-D5-6928-01	NS
+coadread_tcga	TCGA-D5-6929-01	NS
+coadread_tcga	TCGA-D5-6930-01	NS
+coadread_tcga	TCGA-D5-6931-01	NS
+coadread_tcga	TCGA-D5-6932-01	NS
+coadread_tcga	TCGA-D5-7000-01	NS
+coadread_tcga	TCGA-F4-6854-01	NS
+coadread_tcga	TCGA-F4-6855-01	NS
+coadread_tcga	TCGA-F4-6856-01	NS
+coadread_tcga	TCGA-F4-6857-01	NS
+coadread_tcga	TCGA-G4-6304-01	NS
+coadread_tcga	TCGA-DM-A1HB-01	NS
+coadread_tcga	TCGA-DM-A286-01	NS
+coadread_tcga	TCGA-A6-2670-01	NS
+coadread_tcga	TCGA-A6-2674-01	R554*
+coadread_tcga	TCGA-A6-2677-01	Q480*
+coadread_tcga	TCGA-A6-2678-01	WT
+coadread_tcga	TCGA-A6-2683-01	WT
+coadread_tcga	TCGA-AA-3514-01	WT
+coadread_tcga	TCGA-AA-3517-01	WT
+coadread_tcga	TCGA-AA-3519-01	E1306* R216*
+coadread_tcga	TCGA-AA-3520-01	WT
+coadread_tcga	TCGA-AA-3521-01	L1489*
+coadread_tcga	TCGA-AA-3522-01	C1410*
+coadread_tcga	TCGA-AA-3524-01	WT
+coadread_tcga	TCGA-AA-3526-01	WT
+coadread_tcga	TCGA-AA-3527-01	Q1228*
+coadread_tcga	TCGA-AA-3529-01	WT
+coadread_tcga	TCGA-AA-3531-01	R232* Q1152*
+coadread_tcga	TCGA-AA-3532-01	Q654*
+coadread_tcga	TCGA-AA-3534-01	WT
+coadread_tcga	TCGA-AA-3538-01	K939*
+coadread_tcga	TCGA-AA-3542-01	E1374*
+coadread_tcga	TCGA-AA-3544-01	Q978* S1346*
+coadread_tcga	TCGA-AA-3548-01	R805*
+coadread_tcga	TCGA-AA-3549-01	C1410S
+coadread_tcga	TCGA-AA-3552-01	R1450*
+coadread_tcga	TCGA-AA-3553-01	S1315*
+coadread_tcga	TCGA-AA-3555-01	R499* R1450* R640W R2311I P2338H S2464Y
+coadread_tcga	TCGA-AA-3556-01	Y935*
+coadread_tcga	TCGA-AA-3558-01	Q1378* R554*
+coadread_tcga	TCGA-AA-3560-01	WT
+coadread_tcga	TCGA-AA-3561-01	R876*
+coadread_tcga	TCGA-AA-3562-01	R499*
+coadread_tcga	TCGA-A6-2672-01	WT
+coadread_tcga	TCGA-A6-2676-01	WT
+coadread_tcga	TCGA-AA-3516-01	WT
+coadread_tcga	TCGA-AA-3518-01	WT
+coadread_tcga	TCGA-AA-3525-01	WT
+coadread_tcga	TCGA-AA-3543-01	WT
+coadread_tcga	TCGA-AA-3554-01	A2046T
+coadread_tcga	TCGA-AA-A00A-01	Q1338* L292Ffs*4 D1562Gfs*5
+coadread_tcga	TCGA-AA-A00D-01	R1450* R564*
+coadread_tcga	TCGA-AA-A00E-01	WT
+coadread_tcga	TCGA-AA-A00F-01	WT
+coadread_tcga	TCGA-AA-A00J-01	R554* I1254M L1482P
+coadread_tcga	TCGA-AA-A00K-01	Q1367*
+coadread_tcga	TCGA-AA-A00L-01	R1114*
+coadread_tcga	TCGA-AA-A00Q-01	WT
+coadread_tcga	TCGA-AA-A00R-01	WT
+coadread_tcga	TCGA-AA-A00U-01	R876* R1450*
+coadread_tcga	TCGA-AA-A00W-01	R876*
+coadread_tcga	TCGA-AA-A00Z-01	R216*
+coadread_tcga	TCGA-AA-A01F-01	R845H
+coadread_tcga	TCGA-AA-A01G-01	WT
+coadread_tcga	TCGA-AA-A01Q-01	R564* I2515V
+coadread_tcga	TCGA-A6-A565-01	NS
+coadread_tcga	TCGA-A6-A566-01	NS
+coadread_tcga	TCGA-A6-A567-01	NS
+coadread_tcga	TCGA-A6-A56B-01	NS
+coadread_tcga	TCGA-A6-A5ZU-01	NS
+coadread_tcga	TCGA-AD-A5EJ-01	NS
+coadread_tcga	TCGA-AD-A5EK-01	NS
+coadread_tcga	TCGA-AY-A54L-01	NS
+coadread_tcga	TCGA-NH-A50T-01	NS
+coadread_tcga	TCGA-NH-A50V-01	NS
+coadread_tcga	TCGA-QG-A5YV-01	NS
+coadread_tcga	TCGA-QG-A5YW-01	NS
+coadread_tcga	TCGA-QG-A5YX-01	NS
+coadread_tcga	TCGA-QG-A5Z1-01	NS
+coadread_tcga	TCGA-QG-A5Z2-01	NS
+coadread_tcga	TCGA-AA-A004-01	WT
+coadread_tcga	TCGA-AA-A00N-01	S1281* E1408* K2192T
+coadread_tcga	TCGA-AA-A00O-01	Q1367*
+coadread_tcga	TCGA-AA-A010-01	R1450* A2D A531V S2429F
+coadread_tcga	TCGA-AA-A017-01	Q1244*
+coadread_tcga	TCGA-AA-A01C-01	NS
+coadread_tcga	TCGA-AA-A01D-01	WT
+coadread_tcga	TCGA-AA-A01I-01	Y935*
+coadread_tcga	TCGA-AA-A01K-01	R876* Q1429*
+coadread_tcga	TCGA-AA-A024-01	R405*
+coadread_tcga	TCGA-AA-A029-01	Y935*
+coadread_tcga	TCGA-AA-A02E-01	NS
+coadread_tcga	TCGA-AA-A02F-01	L479Ifs*6 T1313Nfs*2
+coadread_tcga	TCGA-AA-A02H-01	H307Ifs*29
+coadread_tcga	TCGA-AA-A02J-01	R213* L1382Tfs*4 P1760R
+coadread_tcga	TCGA-AA-A02R-01	NS
+coadread_tcga	TCGA-AA-A02W-01	R876* E1374*
+coadread_tcga	TCGA-AA-3664-01	WT
+coadread_tcga	TCGA-AA-3666-01	S1355Lfs*60
+coadread_tcga	TCGA-AA-3667-01	R564* S1400*
+coadread_tcga	TCGA-AA-3672-01	WT
+coadread_tcga	TCGA-AA-3673-01	K993*
+coadread_tcga	TCGA-AA-3675-01	NS
+coadread_tcga	TCGA-AA-3678-01	I1311Rfs*3
+coadread_tcga	TCGA-AA-3679-01	R216* E1309Dfs*4
+coadread_tcga	TCGA-AA-3680-01	S1163Tfs*2 I1574Yfs*2
+coadread_tcga	TCGA-AA-3681-01	R1450* R924*
+coadread_tcga	TCGA-AA-3684-01	E984*
+coadread_tcga	TCGA-AA-3685-01	Q978* K1370*
+coadread_tcga	TCGA-AA-3688-01	E941*
+coadread_tcga	TCGA-AA-3692-01	R805* E1374*
+coadread_tcga	TCGA-AA-3693-01	A1296Qfs*9
+coadread_tcga	TCGA-AA-3695-01	R213*
+coadread_tcga	TCGA-AA-3696-01	WT
+coadread_tcga	TCGA-AA-3715-01	A1107V
+coadread_tcga	TCGA-AA-3812-01	S1421Vfs*52 V557A
+coadread_tcga	TCGA-AA-3814-01	E1408*
+coadread_tcga	TCGA-AA-3818-01	N961Kfs*5 S1411Rfs*4
+coadread_tcga	TCGA-AA-3819-01	WT
+coadread_tcga	TCGA-AA-3831-01	WT
+coadread_tcga	TCGA-AA-3833-01	WT
+coadread_tcga	TCGA-AA-3837-01	Q1294* Y191Lfs*2
+coadread_tcga	TCGA-AA-3841-01	NS
+coadread_tcga	TCGA-AA-3848-01	R216*
+coadread_tcga	TCGA-AA-3852-01	S1421Mfs*52
+coadread_tcga	TCGA-AA-3854-01	S1398Ifs*17
+coadread_tcga	TCGA-AA-3856-01	R876*
+coadread_tcga	TCGA-AA-3858-01	E1353Nfs*62
+coadread_tcga	TCGA-AA-3860-01	L235* Q1338*
+coadread_tcga	TCGA-AA-3875-01	WT
+coadread_tcga	TCGA-3L-AA1B-01	NS
+coadread_tcga	TCGA-4N-A93T-01	NS
+coadread_tcga	TCGA-AY-A69D-01	NS
+coadread_tcga	TCGA-AY-A71X-01	NS
+coadread_tcga	TCGA-NH-A50U-01	NS
+coadread_tcga	TCGA-NH-A5IV-01	NS
+coadread_tcga	TCGA-NH-A6GA-01	NS
+coadread_tcga	TCGA-NH-A6GB-01	NS
+coadread_tcga	TCGA-RU-A8FL-01	NS
+coadread_tcga	TCGA-SS-A7HO-01	NS
+coadread_tcga	TCGA-T9-A92H-01	NS
+coadread_tcga	TCGA-A6-3807-01	R213*
+coadread_tcga	TCGA-A6-3808-01	R805*
+coadread_tcga	TCGA-A6-3809-01	NS
+coadread_tcga	TCGA-A6-3810-01	I1304Mfs*4
+coadread_tcga	TCGA-AA-3530-01	Q1469*
+coadread_tcga	TCGA-AA-3710-01	A199V I1254N
+coadread_tcga	TCGA-AA-3811-01	WT
+coadread_tcga	TCGA-AA-3815-01	NS
+coadread_tcga	TCGA-AA-3821-01	WT
+coadread_tcga	TCGA-AA-3842-01	WT
+coadread_tcga	TCGA-AA-3844-01	WT
+coadread_tcga	TCGA-AA-3845-01	WT
+coadread_tcga	TCGA-AA-3846-01	Q1378*
+coadread_tcga	TCGA-AA-3850-01	WT
+coadread_tcga	TCGA-AA-3851-01	R1450*
+coadread_tcga	TCGA-AA-3855-01	S1355Lfs*60
+coadread_tcga	TCGA-AA-3861-01	NS
+coadread_tcga	TCGA-AA-3862-01	NS
+coadread_tcga	TCGA-AA-3864-01	R1450* R564* R348* R1399H
+coadread_tcga	TCGA-AA-3866-01	Q1035*
+coadread_tcga	TCGA-AA-3867-01	WT
+coadread_tcga	TCGA-AA-3869-01	WT
+coadread_tcga	TCGA-AA-3870-01	R876*
+coadread_tcga	TCGA-AA-3872-01	P1439Lfs*34
+coadread_tcga	TCGA-AA-3877-01	WT
+coadread_tcga	TCGA-AA-3930-01	R1450* L964*
+coadread_tcga	TCGA-AA-3939-01	R1450* Q542*
+coadread_tcga	TCGA-AA-3941-01	F1491Lfs*16
+coadread_tcga	TCGA-AA-3947-01	D849Ifs*12
+coadread_tcga	TCGA-AA-3949-01	WT
+coadread_tcga	TCGA-AA-3950-01	NS
+coadread_tcga	TCGA-AA-3952-01	R213*
+coadread_tcga	TCGA-AA-3955-01	WT
+coadread_tcga	TCGA-AA-3956-01	WT
+coadread_tcga	TCGA-AA-3968-01	NS
+coadread_tcga	TCGA-AA-3970-01	NS
+coadread_tcga	TCGA-AA-3971-01	WT
+coadread_tcga	TCGA-AA-3972-01	D849Ifs*12
+coadread_tcga	TCGA-AA-3973-01	Q1378* R283*
+coadread_tcga	TCGA-AA-3975-01	R499* E1306*
+coadread_tcga	TCGA-AA-3976-01	V1414* Q901*
+coadread_tcga	TCGA-AA-3977-01	R1114* E1309* S2029Y
+coadread_tcga	TCGA-AA-3979-01	Q757*
+coadread_tcga	TCGA-AA-3980-01	R232*
+coadread_tcga	TCGA-AA-3982-01	R1450* R302*
+coadread_tcga	TCGA-AA-3984-01	R1114* F2784C
+coadread_tcga	TCGA-AA-3986-01	WT
+coadread_tcga	TCGA-AA-3989-01	R216*
+coadread_tcga	TCGA-4T-AA8H-01	NS
+coadread_tcga	TCGA-5M-AAT4-01	NS
+coadread_tcga	TCGA-5M-AAT5-01	NS
+coadread_tcga	TCGA-5M-AAT6-01	NS
+coadread_tcga	TCGA-5M-AATA-01	NS
+coadread_tcga	TCGA-5M-AATE-01	NS
+coadread_tcga	TCGA-AY-A8YK-01	NS
+coadread_tcga	TCGA-NH-A6GC-01	NS
+coadread_tcga	TCGA-NH-A8F7-01	NS
+coadread_tcga	TCGA-NH-A8F8-01	NS
+coadread_tcga	TCGA-QL-A97D-01	NS
+coadread_tcga	TCGA-WS-AB45-01	NS
+coadread_tcga	TCGA-AA-3966-01	WT
+coadread_tcga	TCGA-AA-3967-01	NS
+coadread_tcga	TCGA-AA-3994-01	R805* L1488Yfs*19
+coadread_tcga	TCGA-AY-4070-01	WT
+coadread_tcga	TCGA-AY-4071-01	R1435Efs*38
+coadread_tcga	TCGA-AA-A01P-01	WT
+coadread_tcga	TCGA-AA-A01R-01	R876* R1450*
+coadread_tcga	TCGA-AA-A01S-01	Q412* R564*
+coadread_tcga	TCGA-AA-A01T-01	R1114*
+coadread_tcga	TCGA-AA-A01V-01	R1450* S1419N
+coadread_tcga	TCGA-AA-A01X-01	WT
+coadread_tcga	TCGA-AA-A01Z-01	K1454Lfs*20
+coadread_tcga	TCGA-AA-A022-01	WT
+coadread_tcga	TCGA-AA-A02K-01	NS
+coadread_tcga	TCGA-AA-A02O-01	L1302Cfs*3
+coadread_tcga	TCGA-AA-A02Y-01	WT
+coadread_tcga	TCGA-AA-A03F-01	R1450* R805*
+coadread_tcga	TCGA-AA-A03J-01	WT
+coadread_tcga	TCGA-A6-2671-01	NS
+coadread_tcga	TCGA-A6-2679-01	NS
+coadread_tcga	TCGA-A6-2680-01	NS
+coadread_tcga	TCGA-A6-2681-01	NS
+coadread_tcga	TCGA-A6-2682-01	NS
+coadread_tcga	TCGA-A6-2684-01	NS
+coadread_tcga	TCGA-A6-2685-01	NS
+coadread_tcga	TCGA-A6-2686-01	NS
+coadread_tcga	TCGA-A6-4107-01	NS
+coadread_tcga	TCGA-AA-3488-01	NS
+coadread_tcga	TCGA-AA-3492-01	NS
+coadread_tcga	TCGA-AA-3494-01	NS
+coadread_tcga	TCGA-AA-3495-01	NS
+coadread_tcga	TCGA-AA-3502-01	NS
+coadread_tcga	TCGA-AA-3506-01	NS
+coadread_tcga	TCGA-AA-3509-01	NS
+coadread_tcga	TCGA-AA-3510-01	NS
+coadread_tcga	TCGA-AZ-4308-01	NS
+coadread_tcga	TCGA-AZ-4313-01	NS
+coadread_tcga	TCGA-AZ-4315-01	NS
+coadread_tcga	TCGA-AZ-4614-01	NS
+coadread_tcga	TCGA-AZ-4615-01	NS
+coadread_tcga	TCGA-AZ-4681-01	NS
+coadread_tcga	TCGA-AZ-4682-01	NS
+coadread_tcga	TCGA-AZ-4684-01	NS
+coadread_tcga	TCGA-CA-5256-01	NS
+coadread_tcga	TCGA-CK-4951-01	NS
+coadread_tcga	TCGA-CM-4744-01	NS
+coadread_tcga	TCGA-CM-4746-01	NS
+coadread_tcga	TCGA-CM-4747-01	NS
+coadread_tcga	TCGA-CM-4748-01	NS
+coadread_tcga	TCGA-CM-4750-01	NS
+coadread_tcga	TCGA-CM-4752-01	NS
+coadread_tcga	TCGA-CM-5341-01	NS
+coadread_tcga	TCGA-A6-5657-01	NS
+coadread_tcga	TCGA-A6-5659-01	NS
+coadread_tcga	TCGA-A6-5660-01	NS
+coadread_tcga	TCGA-A6-5661-01	NS
+coadread_tcga	TCGA-A6-5662-01	NS
+coadread_tcga	TCGA-A6-5665-01	NS
+coadread_tcga	TCGA-A6-5666-01	NS
+coadread_tcga	TCGA-AD-5900-01	NS
+coadread_tcga	TCGA-AM-5820-01	NS
+coadread_tcga	TCGA-AM-5821-01	NS
+coadread_tcga	TCGA-AY-5543-01	NS
+coadread_tcga	TCGA-AZ-5403-01	NS
+coadread_tcga	TCGA-CA-5796-01	NS
+coadread_tcga	TCGA-CA-5797-01	NS
+coadread_tcga	TCGA-CK-4947-01	NS
+coadread_tcga	TCGA-CK-4948-01	NS
+coadread_tcga	TCGA-CK-5912-01	NS
+coadread_tcga	TCGA-CK-5913-01	NS
+coadread_tcga	TCGA-CK-5914-01	NS
+coadread_tcga	TCGA-CK-5915-01	NS
+coadread_tcga	TCGA-CK-5916-01	NS
+coadread_tcga	TCGA-CM-5860-01	NS
+coadread_tcga	TCGA-CM-5861-01	NS
+coadread_tcga	TCGA-CM-5862-01	NS
+coadread_tcga	TCGA-CM-5864-01	NS
+coadread_tcga	TCGA-CM-5868-01	NS
+coadread_tcga	TCGA-CM-6161-01	NS
+coadread_tcga	TCGA-CM-6162-01	NS
+coadread_tcga	TCGA-CM-6163-01	NS
+coadread_tcga	TCGA-CM-6164-01	NS
+coadread_tcga	TCGA-CM-6165-01	NS
+coadread_tcga	TCGA-CM-6166-01	NS
+coadread_tcga	TCGA-CM-6167-01	NS
+coadread_tcga	TCGA-CM-6168-01	NS
+coadread_tcga	TCGA-CM-6169-01	NS
+coadread_tcga	TCGA-CM-6170-01	NS
+coadread_tcga	TCGA-CM-6171-01	NS
+coadread_tcga	TCGA-CM-6172-01	NS
+coadread_tcga	TCGA-D5-5538-01	NS
+coadread_tcga	TCGA-D5-5539-01	NS
+coadread_tcga	TCGA-D5-5540-01	NS
+coadread_tcga	TCGA-D5-5541-01	NS
+coadread_tcga	TCGA-AF-3911-01	NS
+coadread_tcga	TCGA-AG-3901-01	WT
+coadread_tcga	TCGA-AG-3898-01	R805* Q1041E
+coadread_tcga	TCGA-AF-2692-01	S713*
+coadread_tcga	TCGA-AG-A026-01	C1270*
+coadread_tcga	TCGA-CL-4957-01	NS
+coadread_tcga	TCGA-AG-3882-01	E582Gfs*20
+coadread_tcga	TCGA-AG-3894-01	R216*
+coadread_tcga	TCGA-AG-3896-01	R876*
+coadread_tcga	TCGA-AF-2689-01	WT
+coadread_tcga	TCGA-AF-6784-01	NS
+coadread_tcga	TCGA-F5-6571-01	NS
+coadread_tcga	TCGA-AG-3909-01	V830Gfs*12 Q1294Gfs*6 R2431K
+coadread_tcga	TCGA-AG-A011-01	Q1406* K670*
+coadread_tcga	TCGA-CI-6622-01	NS
+coadread_tcga	TCGA-EI-6506-01	NS
+coadread_tcga	TCGA-AG-3601-01	Q264* S1315* D2519G
+coadread_tcga	TCGA-EI-6512-01	NS
+coadread_tcga	TCGA-AG-A036-01	Q1406* R302*
+coadread_tcga	TCGA-DC-4745-01	NS
+coadread_tcga	TCGA-AF-A56K-01	NS
+coadread_tcga	TCGA-AG-3593-01	E1353*
+coadread_tcga	TCGA-AG-3587-01	E1306* R1114*
+coadread_tcga	TCGA-DC-6157-01	NS
+coadread_tcga	TCGA-AF-6655-01	NS
+coadread_tcga	TCGA-EI-6513-01	NS
+coadread_tcga	TCGA-AF-2687-01	NS
+coadread_tcga	TCGA-AG-3892-01	R1114* N1161K
+coadread_tcga	TCGA-AG-A016-01	WT
+coadread_tcga	TCGA-AH-6547-01	NS
+coadread_tcga	TCGA-AG-3999-01	E190*
+coadread_tcga	TCGA-DC-6155-01	NS
+coadread_tcga	TCGA-F5-6864-01	NS
+coadread_tcga	TCGA-AG-3611-01	G567*
+coadread_tcga	TCGA-EI-6509-01	NS
+coadread_tcga	TCGA-F5-6861-01	NS
+coadread_tcga	TCGA-F5-6814-01	NS
+coadread_tcga	TCGA-AG-A01W-01	R876*
+coadread_tcga	TCGA-F5-6813-01	NS
+coadread_tcga	TCGA-AG-3732-01	NS
+coadread_tcga	TCGA-EI-6885-01	NS
+coadread_tcga	TCGA-AF-3914-01	NS
+coadread_tcga	TCGA-DY-A1H8-01	NS
+coadread_tcga	TCGA-AG-3726-01	Q667* S1282*
+coadread_tcga	TCGA-AG-3598-01	R232* R216*
+coadread_tcga	TCGA-DC-4749-01	NS
+coadread_tcga	TCGA-DT-5265-01	NS
+coadread_tcga	TCGA-DY-A1DE-01	NS
+coadread_tcga	TCGA-DC-6160-01	NS
+coadread_tcga	TCGA-AG-3608-01	WT
+coadread_tcga	TCGA-F5-6863-01	NS
+coadread_tcga	TCGA-AF-A56L-01	NS
+coadread_tcga	TCGA-AG-3902-01	G1288*
+coadread_tcga	TCGA-EI-6511-01	NS
+coadread_tcga	TCGA-AH-6644-01	NS
+coadread_tcga	TCGA-AF-2693-01	NS
+coadread_tcga	TCGA-AF-3400-01	Q1294*
+coadread_tcga	TCGA-AF-4110-01	NS
+coadread_tcga	TCGA-AG-A032-01	R302* E1322*
+coadread_tcga	TCGA-CI-6620-01	NS
+coadread_tcga	TCGA-DC-6156-01	NS
+coadread_tcga	TCGA-AG-3581-01	R564*
+coadread_tcga	TCGA-DC-6158-01	NS
+coadread_tcga	TCGA-AG-3742-01	NS
+coadread_tcga	TCGA-AG-3600-01	WT
+coadread_tcga	TCGA-CI-6624-01	NS
+coadread_tcga	TCGA-AG-4007-01	Q1303* E1379*
+coadread_tcga	TCGA-AG-3591-01	NS
+coadread_tcga	TCGA-AH-6643-01	NS
+coadread_tcga	TCGA-F5-6812-01	NS
+coadread_tcga	TCGA-DY-A1DG-01	NS
+coadread_tcga	TCGA-EI-6884-01	NS
+coadread_tcga	TCGA-AG-3890-01	Y935Tfs*20
+coadread_tcga	TCGA-AG-A002-01	R1450* E1536* S1400L E136K D774G P2761L
+coadread_tcga	TCGA-F5-6810-01	NS
+coadread_tcga	TCGA-AG-3727-01	E1295*
+coadread_tcga	TCGA-DC-6681-01	NS
+coadread_tcga	TCGA-AG-4022-01	NS
+coadread_tcga	TCGA-EI-6514-01	NS
+coadread_tcga	TCGA-DY-A1DC-01	NS
+coadread_tcga	TCGA-AG-3887-01	Q1260* K1310Dfs*4
+coadread_tcga	TCGA-DC-5869-01	NS
+coadread_tcga	TCGA-AG-3885-01	NS
+coadread_tcga	TCGA-EI-7004-01	NS
+coadread_tcga	TCGA-AG-4015-01	Y1376*
+coadread_tcga	TCGA-AG-4021-01	NS
+coadread_tcga	TCGA-AG-A025-01	Q1378Rfs*37
+coadread_tcga	TCGA-AG-3578-01	WT
+coadread_tcga	TCGA-AG-A020-01	R1450* A1246Gfs*10
+coadread_tcga	TCGA-AF-2691-01	S1346*
+coadread_tcga	TCGA-AG-A01Y-01	Q1294*
+coadread_tcga	TCGA-AH-6903-01	NS
+coadread_tcga	TCGA-AG-3881-01	Q1367*
+coadread_tcga	TCGA-G5-6235-01	NS
+coadread_tcga	TCGA-DC-5337-01	NS
+coadread_tcga	TCGA-AG-A01N-01	NS
+coadread_tcga	TCGA-AH-6544-01	NS
+coadread_tcga	TCGA-AG-A01L-01	S837Ifs*7
+coadread_tcga	TCGA-CI-6621-01	NS
+coadread_tcga	TCGA-AG-3878-01	S596*
+coadread_tcga	TCGA-AG-3582-01	WT
+coadread_tcga	TCGA-CL-5917-01	NS
+coadread_tcga	TCGA-AG-3731-01	NS
+coadread_tcga	TCGA-AG-3580-01	E1257*
+coadread_tcga	TCGA-AG-3605-01	Q1378*
+coadread_tcga	TCGA-DC-6683-01	NS
+coadread_tcga	TCGA-AG-4008-01	WT
+coadread_tcga	TCGA-AG-3891-01	NS
+coadread_tcga	TCGA-EI-6882-01	NS
+coadread_tcga	TCGA-DY-A1DF-01	NS
+coadread_tcga	TCGA-AG-3612-01	Q1406*
+coadread_tcga	TCGA-AG-A02N-01	R1450* R232*
+coadread_tcga	TCGA-DC-6154-01	NS
+coadread_tcga	TCGA-F5-6811-01	NS
+coadread_tcga	TCGA-AG-4001-01	R876*
+coadread_tcga	TCGA-AF-A56N-01	NS
+coadread_tcga	TCGA-AF-6672-01	NS
+coadread_tcga	TCGA-AG-A00C-01	E1209* E1397*
+coadread_tcga	TCGA-AG-3574-01	WT
+coadread_tcga	TCGA-F5-6464-01	NS
+coadread_tcga	TCGA-AG-4005-01	S1198* Q1328*
+coadread_tcga	TCGA-AF-3913-01	P1319Lfs*2
+coadread_tcga	TCGA-AG-3584-01	R1450*
+coadread_tcga	TCGA-EI-7002-01	NS
+coadread_tcga	TCGA-AF-2690-01	NS
+coadread_tcga	TCGA-EI-6510-01	NS
+coadread_tcga	TCGA-AG-A015-01	E1286*
+coadread_tcga	TCGA-G5-6572-01	NS
+coadread_tcga	TCGA-G5-6572-02	NS
+coadread_tcga	TCGA-EI-6883-01	NS
+coadread_tcga	TCGA-EF-5830-01	NS
+coadread_tcga	TCGA-DY-A0XA-01	NS
+coadread_tcga	TCGA-AG-3725-01	NS
+coadread_tcga	TCGA-CL-5918-01	NS
+coadread_tcga	TCGA-CI-6623-01	NS
+coadread_tcga	TCGA-AG-A008-01	K1085*
+coadread_tcga	TCGA-AG-A023-01	NS
+coadread_tcga	TCGA-AF-5654-01	NS
+coadread_tcga	TCGA-AG-A02X-01	E1309*
+coadread_tcga	TCGA-AG-3594-01	S1238*
+coadread_tcga	TCGA-AG-3883-01	R283*
+coadread_tcga	TCGA-AG-3609-01	Q1367* Y1183*
+coadread_tcga	TCGA-EI-6917-01	NS
+coadread_tcga	TCGA-AG-A00H-01	WT
+coadread_tcga	TCGA-AG-A02G-01	R213*
+coadread_tcga	TCGA-F5-6702-01	NS
+coadread_tcga	TCGA-AH-6549-01	NS
+coadread_tcga	TCGA-AH-6897-01	NS
+coadread_tcga	TCGA-EI-6507-01	NS
+coadread_tcga	TCGA-DC-6682-01	NS
+coadread_tcga	TCGA-AG-3602-01	S1346*
+coadread_tcga	TCGA-G5-6233-01	NS
+coadread_tcga	TCGA-BM-6198-01	NS
+coadread_tcga	TCGA-AG-3575-01	WT
+coadread_tcga	TCGA-F5-6465-01	NS
+coadread_tcga	TCGA-AG-3583-01	X244_splice Q1191*
+coadread_tcga	TCGA-AG-3592-01	NS
+coadread_tcga	TCGA-G5-6641-01	NS
+coadread_tcga	TCGA-AG-3893-01	S1356*
+coadread_tcga	TCGA-AG-A01J-01	NS
+coadread_tcga	TCGA-EI-6508-01	NS
+coadread_tcga	TCGA-AG-3728-01	NS
+coadread_tcga	TCGA-CI-6619-01	NS
+coadread_tcga	TCGA-EI-6881-01	NS
+coadread_tcga	TCGA-AG-A014-01	E1209*
+coadread_tcga	TCGA-AG-3586-01	S770* Y956C
+coadread_tcga	TCGA-AG-A00Y-01	WT
+coadread_tcga	TCGA-AG-3599-01	R1450* C525*
+coadread_tcga	TCGA-AF-6136-01	NS
+coadread_tcga	TCGA-EF-5831-01	NS
+coadread_tcga	TCGA-DY-A1DD-01	NS
+coadread_tcga	TCGA-AF-3912-01	NS
+coadread_tcga	TCGA-AG-3906-01	NS
+coadread_tcga	TCGA-AG-4009-01	NS
+coadread_tcga	TCGA-G4-6317-02	NS
+coadread_tcga	TCGA-NH-A8F7-06	NS
+coadread_tcga	TCGA-NH-A6GC-06	NS
+coadread_tcga_pub	TCGA-A6-2670-01	E1353*
+coadread_tcga_pub	TCGA-A6-2677-01	Q480*
+coadread_tcga_pub	TCGA-AA-3524-01	X215_splice
+coadread_tcga_pub	TCGA-AA-3529-01	V291F
+coadread_tcga_pub	TCGA-AA-3532-01	Q654*
+coadread_tcga_pub	TCGA-AA-3538-01	K939*
+coadread_tcga_pub	TCGA-AA-3544-01	Q978* S1346*
+coadread_tcga_pub	TCGA-AA-3552-01	R1450*
+coadread_tcga_pub	TCGA-AA-3553-01	S1315*
+coadread_tcga_pub	TCGA-AA-3562-01	R499*
+coadread_tcga_pub	TCGA-AA-3667-01	R564* S1400*
+coadread_tcga_pub	TCGA-AA-3673-01	K993*
+coadread_tcga_pub	TCGA-AA-3678-01	I1311Rfs*3
+coadread_tcga_pub	TCGA-AA-3692-01	R805* E1374*
+coadread_tcga_pub	TCGA-AA-3842-01	WT
+coadread_tcga_pub	TCGA-AA-3851-01	R1450*
+coadread_tcga_pub	TCGA-AA-3856-01	R876*
+coadread_tcga_pub	TCGA-AA-3858-01	E1353Nfs*62
+coadread_tcga_pub	TCGA-AA-3869-01	T899Ifs*12
+coadread_tcga_pub	TCGA-AA-3872-01	P1439Lfs*34
+coadread_tcga_pub	TCGA-AA-3956-01	WT
+coadread_tcga_pub	TCGA-AA-3971-01	WT
+coadread_tcga_pub	TCGA-AA-3975-01	R499* E1306*
+coadread_tcga_pub	TCGA-AA-3976-01	V1414* Q901*
+coadread_tcga_pub	TCGA-AA-3979-01	Q757*
+coadread_tcga_pub	TCGA-AA-A004-01	WT
+coadread_tcga_pub	TCGA-AA-A00D-01	R1450* R564*
+coadread_tcga_pub	TCGA-AA-A00U-01	R876* R1450*
+coadread_tcga_pub	TCGA-AA-A017-01	Q1244*
+coadread_tcga_pub	TCGA-AA-A01G-01	WT
+coadread_tcga_pub	TCGA-AA-A01K-01	R876* Q1429*
+coadread_tcga_pub	TCGA-AA-A02J-01	R213* L1382Tfs*4 P1760R
+coadread_tcga_pub	TCGA-AA-A02W-01	R876* E1374*
+coadread_tcga_pub	TCGA-AF-3913-01	P1319Lfs*2
+coadread_tcga_pub	TCGA-AG-3582-01	WT
+coadread_tcga_pub	TCGA-AG-3584-01	R1450*
+coadread_tcga_pub	TCGA-AG-3587-01	E1306* R1114*
+coadread_tcga_pub	TCGA-AG-3598-01	R232* R216*
+coadread_tcga_pub	TCGA-AG-3600-01	WT
+coadread_tcga_pub	TCGA-AG-3601-01	Q264* S1315* D2519G
+coadread_tcga_pub	TCGA-AG-3612-01	Q1406*
+coadread_tcga_pub	TCGA-AG-3726-01	Q667* S1282*
+coadread_tcga_pub	TCGA-AG-3883-01	R283*
+coadread_tcga_pub	TCGA-AG-3887-01	Q1260* K1310Dfs*4
+coadread_tcga_pub	TCGA-AG-3999-01	E190*
+coadread_tcga_pub	TCGA-AG-4005-01	S1198* Q1328*
+coadread_tcga_pub	TCGA-AG-4008-01	WT
+coadread_tcga_pub	TCGA-AG-4015-01	Y1376*
+coadread_tcga_pub	TCGA-AG-A00H-01	WT
+coadread_tcga_pub	TCGA-AG-A011-01	Q1406* K670*
+coadread_tcga_pub	TCGA-AG-A014-01	E1209*
+coadread_tcga_pub	TCGA-AG-A016-01	WT
+coadread_tcga_pub	TCGA-AY-4070-01	WT
+coadread_tcga_pub	TCGA-AA-A01S-01	Q412* R564*
+coadread_tcga_pub	TCGA-AA-A01Z-01	K1454Lfs*20
+coadread_tcga_pub	TCGA-AG-A026-01	C1270*
+coadread_tcga_pub	TCGA-A6-2683-01	WT
+coadread_tcga_pub	TCGA-A6-3807-01	R213*
+coadread_tcga_pub	TCGA-AA-3517-01	WT
+coadread_tcga_pub	TCGA-AA-3519-01	E1306* R216*
+coadread_tcga_pub	TCGA-AA-3521-01	L1489*
+coadread_tcga_pub	TCGA-AA-3530-01	Q1469*
+coadread_tcga_pub	TCGA-AA-3531-01	R232* Q1152*
+coadread_tcga_pub	TCGA-AA-3549-01	C1410S
+coadread_tcga_pub	TCGA-AA-3560-01	WT
+coadread_tcga_pub	TCGA-AA-3561-01	R876*
+coadread_tcga_pub	TCGA-AA-3666-01	S1355Lfs*60
+coadread_tcga_pub	TCGA-AA-3679-01	R216* E1309Dfs*4
+coadread_tcga_pub	TCGA-AA-3688-01	E941*
+coadread_tcga_pub	TCGA-AA-3693-01	A1296Qfs*9
+coadread_tcga_pub	TCGA-AA-3814-01	E1408*
+coadread_tcga_pub	TCGA-AA-3819-01	WT
+coadread_tcga_pub	TCGA-AA-3846-01	Q1378*
+coadread_tcga_pub	TCGA-AA-3848-01	R216*
+coadread_tcga_pub	TCGA-AA-3855-01	S1355Lfs*60
+coadread_tcga_pub	TCGA-AA-3860-01	L235* Q1338*
+coadread_tcga_pub	TCGA-AA-3866-01	Q1035*
+coadread_tcga_pub	TCGA-AA-3955-01	M1383Ifs*3
+coadread_tcga_pub	TCGA-AA-3972-01	D849Ifs*12
+coadread_tcga_pub	TCGA-AA-3973-01	Q1378* R283*
+coadread_tcga_pub	TCGA-AA-3989-01	R216*
+coadread_tcga_pub	TCGA-AA-A00F-01	WT
+coadread_tcga_pub	TCGA-AA-A00L-01	R1114*
+coadread_tcga_pub	TCGA-AA-A00O-01	Q1367*
+coadread_tcga_pub	TCGA-AA-A00Q-01	WT
+coadread_tcga_pub	TCGA-AA-A00W-01	R876*
+coadread_tcga_pub	TCGA-AA-A00Z-01	R216*
+coadread_tcga_pub	TCGA-AA-A01F-01	R845H
+coadread_tcga_pub	TCGA-AA-A02F-01	L479Ifs*6 T1313Nfs*2
+coadread_tcga_pub	TCGA-AA-A02H-01	H307Ifs*29
+coadread_tcga_pub	TCGA-AG-3581-01	R564*
+coadread_tcga_pub	TCGA-AG-3583-01	X244_splice Q1191*
+coadread_tcga_pub	TCGA-AG-3593-01	E1353*
+coadread_tcga_pub	TCGA-AG-3602-01	S1346*
+coadread_tcga_pub	TCGA-AG-3608-01	WT
+coadread_tcga_pub	TCGA-AG-3609-01	Q1367* Y1183*
+coadread_tcga_pub	TCGA-AG-3611-01	G567*
+coadread_tcga_pub	TCGA-AG-3727-01	E1295*
+coadread_tcga_pub	TCGA-AG-3882-01	E582Gfs*20
+coadread_tcga_pub	TCGA-AG-3890-01	Y935Tfs*20
+coadread_tcga_pub	TCGA-AG-3893-01	S1356*
+coadread_tcga_pub	TCGA-AG-3896-01	R876*
+coadread_tcga_pub	TCGA-AG-3898-01	R805* Q1041E
+coadread_tcga_pub	TCGA-AG-3909-01	V830Gfs*12 Q1294Gfs*6 R2431K
+coadread_tcga_pub	TCGA-AG-4001-01	R876*
+coadread_tcga_pub	TCGA-AG-A008-01	K1085*
+coadread_tcga_pub	TCGA-AG-A00C-01	E1209* E1397*
+coadread_tcga_pub	TCGA-AG-A015-01	E1286*
+coadread_tcga_pub	TCGA-AG-A01L-01	S837Ifs*7
+coadread_tcga_pub	TCGA-AG-A02G-01	R213*
+coadread_tcga_pub	TCGA-AG-A02X-01	E1309*
+coadread_tcga_pub	TCGA-AG-A032-01	R302* E1322*
+coadread_tcga_pub	TCGA-AY-4071-01	R1435Efs*38
+coadread_tcga_pub	TCGA-AA-A01X-01	WT
+coadread_tcga_pub	TCGA-A6-2672-01	WT
+coadread_tcga_pub	TCGA-A6-2676-01	WT
+coadread_tcga_pub	TCGA-AA-3516-01	WT
+coadread_tcga_pub	TCGA-AA-3518-01	WT
+coadread_tcga_pub	TCGA-AA-3525-01	WT
+coadread_tcga_pub	TCGA-AA-3554-01	A2046T
+coadread_tcga_pub	TCGA-AA-3555-01	R499* R1450* R640W R2311I P2338H S2464Y
+coadread_tcga_pub	TCGA-AA-3672-01	WT
+coadread_tcga_pub	TCGA-AA-3710-01	A199V I1254N
+coadread_tcga_pub	TCGA-AA-3821-01	WT
+coadread_tcga_pub	TCGA-AA-3833-01	WT
+coadread_tcga_pub	TCGA-AA-3877-01	WT
+coadread_tcga_pub	TCGA-AA-3947-01	D849Ifs*12
+coadread_tcga_pub	TCGA-AA-3949-01	WT
+coadread_tcga_pub	TCGA-AA-A00A-01	Q1338* L292Ffs*4 D1562Gfs*5
+coadread_tcga_pub	TCGA-AA-A00E-01	WT
+coadread_tcga_pub	TCGA-AA-A00J-01	R554*
+coadread_tcga_pub	TCGA-AA-A010-01	R1450* A2D A531V S2429F
+coadread_tcga_pub	TCGA-AA-A01Q-01	R564* I2515V
+coadread_tcga_pub	TCGA-AG-A002-01	R1450* E1536* S1400L E136K D774G P2761L
+coadread_tcga_pub	TCGA-AA-A01P-01	WT
+coadread_tcga_pub	TCGA-AA-A01R-01	R876* R1450*
+coadread_tcga_pub	TCGA-AA-3527-01	Q1228*
+coadread_tcga_pub	TCGA-AA-3680-01	S1163Tfs*2 I1574Yfs*2
+coadread_tcga_pub	TCGA-AA-3684-01	E984*
+coadread_tcga_pub	TCGA-AA-3831-01	WT
+coadread_tcga_pub	TCGA-AA-3845-01	WT
+coadread_tcga_pub	TCGA-AA-3864-01	R1450* R564* R348* R1399H
+coadread_tcga_pub	TCGA-AA-3977-01	R1114* E1309* S2029Y
+coadread_tcga_pub	TCGA-AA-3994-01	R805* L1488Yfs*19
+coadread_tcga_pub	TCGA-AA-A00N-01	S1281* E1408* K2192T
+coadread_tcga_pub	TCGA-AA-A024-01	R405*
+coadread_tcga_pub	TCGA-AG-3878-01	S596*
+coadread_tcga_pub	TCGA-AG-3892-01	R1114* N1161K
+coadread_tcga_pub	TCGA-AG-3901-01	V1414*
+coadread_tcga_pub	TCGA-AG-A025-01	Q1378Rfs*37
+coadread_tcga_pub	TCGA-AA-A01V-01	R1450* S1419N
+coadread_tcga_pub	TCGA-A6-2674-01	R554*
+coadread_tcga_pub	TCGA-A6-2678-01	WT
+coadread_tcga_pub	TCGA-AA-3520-01	WT
+coadread_tcga_pub	TCGA-AA-3522-01	C1410*
+coadread_tcga_pub	TCGA-AA-3534-01	WT
+coadread_tcga_pub	TCGA-AA-3681-01	R1450* R924*
+coadread_tcga_pub	TCGA-AA-3696-01	C1387*
+coadread_tcga_pub	TCGA-AA-3812-01	S1421Vfs*52 V557A
+coadread_tcga_pub	TCGA-AA-3818-01	N961Kfs*5 S1411Rfs*4
+coadread_tcga_pub	TCGA-AA-3837-01	Q1294* Y191Lfs*2
+coadread_tcga_pub	TCGA-AA-3875-01	WT
+coadread_tcga_pub	TCGA-AA-3930-01	R1450* L964*
+coadread_tcga_pub	TCGA-AA-3939-01	R1450* Q542*
+coadread_tcga_pub	TCGA-AA-3952-01	R213*
+coadread_tcga_pub	TCGA-AA-3986-01	WT
+coadread_tcga_pub	TCGA-AA-A01I-01	Y935*
+coadread_tcga_pub	TCGA-AG-3599-01	R1450* C525*
+coadread_tcga_pub	TCGA-AG-3605-01	Q1378*
+coadread_tcga_pub	TCGA-AG-3894-01	R216*
+coadread_tcga_pub	TCGA-AA-3514-01	WT
+coadread_tcga_pub	TCGA-AA-3543-01	WT
+coadread_tcga_pub	TCGA-AA-3556-01	Y935*
+coadread_tcga_pub	TCGA-AA-3558-01	Q1378* R554*
+coadread_tcga_pub	TCGA-AA-3664-01	WT
+coadread_tcga_pub	TCGA-AA-3715-01	A1107V
+coadread_tcga_pub	TCGA-AA-3852-01	S1421Mfs*52
+coadread_tcga_pub	TCGA-AA-3854-01	S1398Ifs*17
+coadread_tcga_pub	TCGA-AA-3870-01	R876*
+coadread_tcga_pub	TCGA-AA-3966-01	WT
+coadread_tcga_pub	TCGA-AA-3984-01	R1114* F2784C
+coadread_tcga_pub	TCGA-AA-A00K-01	Q1367*
+coadread_tcga_pub	TCGA-AA-A00R-01	R876*
+coadread_tcga_pub	TCGA-AA-A01D-01	WT
+coadread_tcga_pub	TCGA-AA-A029-01	Y935*
+coadread_tcga_pub	TCGA-AG-3586-01	S770* Y956C
+coadread_tcga_pub	TCGA-AG-3594-01	S1238*
+coadread_tcga_pub	TCGA-AG-3881-01	Q1367*
+coadread_tcga_pub	TCGA-AG-3902-01	G1288*
+coadread_tcga_pub	TCGA-AA-3526-01	WT
+coadread_tcga_pub	TCGA-AA-3542-01	E1374*
+coadread_tcga_pub	TCGA-AA-3548-01	R805*
+coadread_tcga_pub	TCGA-AA-3685-01	Q978* K1370*
+coadread_tcga_pub	TCGA-AA-3695-01	R213*
+coadread_tcga_pub	TCGA-AF-2689-01	WT
+coadread_tcga_pub	TCGA-AF-2691-01	S1346*
+coadread_tcga_pub	TCGA-AF-2692-01	S713*
+coadread_tcga_pub	TCGA-AF-3400-01	Q1294*
+coadread_tcga_pub	TCGA-AG-3574-01	WT
+coadread_tcga_pub	TCGA-AG-3575-01	WT
+coadread_tcga_pub	TCGA-AG-3578-01	WT
+coadread_tcga_pub	TCGA-AG-3580-01	E1257*
+coadread_tcga_pub	TCGA-A6-2671-01	NS
+coadread_tcga_pub	TCGA-A6-2679-01	NS
+coadread_tcga_pub	TCGA-A6-2680-01	NS
+coadread_tcga_pub	TCGA-A6-2681-01	NS
+coadread_tcga_pub	TCGA-A6-2682-01	NS
+coadread_tcga_pub	TCGA-A6-2684-01	NS
+coadread_tcga_pub	TCGA-A6-2685-01	NS
+coadread_tcga_pub	TCGA-A6-2686-01	NS
+coadread_tcga_pub	TCGA-A6-3808-01	R805*
+coadread_tcga_pub	TCGA-A6-3809-01	NS
+coadread_tcga_pub	TCGA-A6-3810-01	I1304Mfs*4
+coadread_tcga_pub	TCGA-A6-4107-01	NS
+coadread_tcga_pub	TCGA-AA-3488-01	NS
+coadread_tcga_pub	TCGA-AA-3492-01	NS
+coadread_tcga_pub	TCGA-AA-3494-01	NS
+coadread_tcga_pub	TCGA-AA-3495-01	NS
+coadread_tcga_pub	TCGA-AA-3502-01	NS
+coadread_tcga_pub	TCGA-AA-3506-01	NS
+coadread_tcga_pub	TCGA-AA-3509-01	NS
+coadread_tcga_pub	TCGA-AA-3510-01	NS
+coadread_tcga_pub	TCGA-AA-3675-01	NS
+coadread_tcga_pub	TCGA-AA-3811-01	WT
+coadread_tcga_pub	TCGA-AA-3815-01	NS
+coadread_tcga_pub	TCGA-AA-3841-01	NS
+coadread_tcga_pub	TCGA-AA-3844-01	WT
+coadread_tcga_pub	TCGA-AA-3850-01	WT
+coadread_tcga_pub	TCGA-AA-3861-01	NS
+coadread_tcga_pub	TCGA-AA-3862-01	NS
+coadread_tcga_pub	TCGA-AA-3867-01	WT
+coadread_tcga_pub	TCGA-AA-3941-01	F1491Lfs*16
+coadread_tcga_pub	TCGA-AA-3950-01	NS
+coadread_tcga_pub	TCGA-AA-3968-01	NS
+coadread_tcga_pub	TCGA-AA-3970-01	NS
+coadread_tcga_pub	TCGA-AA-3980-01	R232*
+coadread_tcga_pub	TCGA-AA-3982-01	R1450* R302*
+coadread_tcga_pub	TCGA-AA-A01C-01	NS
+coadread_tcga_pub	TCGA-AA-A01T-01	R1114*
+coadread_tcga_pub	TCGA-AA-A022-01	WT
+coadread_tcga_pub	TCGA-AA-A02E-01	NS
+coadread_tcga_pub	TCGA-AA-A02K-01	NS
+coadread_tcga_pub	TCGA-AA-A02O-01	L1302Cfs*3
+coadread_tcga_pub	TCGA-AA-A02R-01	NS
+coadread_tcga_pub	TCGA-AA-A02Y-01	WT
+coadread_tcga_pub	TCGA-AA-A03F-01	R1450* R805*
+coadread_tcga_pub	TCGA-AA-A03J-01	WT
+coadread_tcga_pub	TCGA-AG-3728-01	NS
+coadread_tcga_pub	TCGA-AG-3885-01	NS
+coadread_tcga_pub	TCGA-AG-4007-01	Q1303* E1379*
+coadread_tcga_pub	TCGA-AG-A00Y-01	WT
+coadread_tcga_pub	TCGA-AG-A01J-01	NS
+coadread_tcga_pub	TCGA-AG-A01N-01	NS
+coadread_tcga_pub	TCGA-AG-A01W-01	R876*
+coadread_tcga_pub	TCGA-AG-A01Y-01	Q1294*
+coadread_tcga_pub	TCGA-AG-A020-01	R1450* A1246Gfs*10
+coadread_tcga_pub	TCGA-AG-A023-01	NS
+coadread_tcga_pub	TCGA-AG-A02N-01	R1450* R232*
+coadread_tcga_pub	TCGA-AG-A036-01	Q1406* R302*
+coadread_tcga_pub	TCGA-AZ-4308-01	NS
+coadread_tcga_pub	TCGA-AZ-4313-01	NS
+coadread_tcga_pub	TCGA-AZ-4315-01	NS
+coadread_tcga_pub	TCGA-AZ-4614-01	NS
+coadread_tcga_pub	TCGA-AZ-4615-01	NS
+coadread_tcga_pub	TCGA-AZ-4681-01	NS
+coadread_tcga_pub	TCGA-AZ-4682-01	NS
+coadread_tcga_pub	TCGA-AZ-4684-01	NS
+coadread_tcga_pub	TCGA-CA-5256-01	NS
+coadread_tcga_pub	TCGA-CK-4951-01	NS
+coadread_tcga_pub	TCGA-CM-4744-01	NS
+coadread_tcga_pub	TCGA-CM-4746-01	NS
+coadread_tcga_pub	TCGA-CM-4747-01	NS
+coadread_tcga_pub	TCGA-CM-4748-01	NS
+coadread_tcga_pub	TCGA-CM-4750-01	NS
+coadread_tcga_pub	TCGA-CM-4752-01	NS
+coadread_tcga_pub	TCGA-CM-5341-01	NS
+coadread_tcga_pan_can_atlas_2018	TCGA-AF-2687-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-AF-2689-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-AF-2690-01	R213* S1415Rfs*4
+coadread_tcga_pan_can_atlas_2018	TCGA-AF-2691-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-AF-2692-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-AF-2693-01	W685*
+coadread_tcga_pan_can_atlas_2018	TCGA-AF-3400-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-AF-3911-01	P1319Lfs*2 E650*
+coadread_tcga_pan_can_atlas_2018	TCGA-AF-4110-01	Q542* S1327*
+coadread_tcga_pan_can_atlas_2018	TCGA-AF-5654-01	R1399Ffs*9
+coadread_tcga_pan_can_atlas_2018	TCGA-AF-6136-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-AF-6655-01	A426Lfs*28 A1446Lfs*27
+coadread_tcga_pan_can_atlas_2018	TCGA-AF-6672-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-AF-A56K-01	K1165*
+coadread_tcga_pan_can_atlas_2018	TCGA-AF-A56L-01	R564* L1382Tfs*4
+coadread_tcga_pan_can_atlas_2018	TCGA-AF-A56N-01	D1285Lfs*5
+coadread_tcga_pan_can_atlas_2018	TCGA-AG-3574-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-AG-3575-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-AG-3578-01	NS
+coadread_tcga_pan_can_atlas_2018	TCGA-AG-3580-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-AG-3581-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-AG-3582-01	NS
+coadread_tcga_pan_can_atlas_2018	TCGA-AG-3583-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-AG-3584-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-AG-3586-01	NS
+coadread_tcga_pan_can_atlas_2018	TCGA-AG-3587-01	NS
+coadread_tcga_pan_can_atlas_2018	TCGA-AG-3591-01	T1556Nfs*3
+coadread_tcga_pan_can_atlas_2018	TCGA-AG-3592-01	Q480Pfs*5 R1331*
+coadread_tcga_pan_can_atlas_2018	TCGA-AG-3593-01	NS
+coadread_tcga_pan_can_atlas_2018	TCGA-AG-3594-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-AG-3598-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-AG-3599-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-AG-3600-01	NS
+coadread_tcga_pan_can_atlas_2018	TCGA-AG-3601-01	NS
+coadread_tcga_pan_can_atlas_2018	TCGA-AG-3602-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-AG-3605-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-AG-3608-01	NS
+coadread_tcga_pan_can_atlas_2018	TCGA-AG-3609-01	NS
+coadread_tcga_pan_can_atlas_2018	TCGA-AG-3725-01	E1306* E1353*
+coadread_tcga_pan_can_atlas_2018	TCGA-AG-3726-01	Q667* S1282* S1334F
+coadread_tcga_pan_can_atlas_2018	TCGA-AG-3727-01	E1295*
+coadread_tcga_pan_can_atlas_2018	TCGA-AG-3728-01	NS
+coadread_tcga_pan_can_atlas_2018	TCGA-AG-3731-01	R216* T1301Kfs*4
+coadread_tcga_pan_can_atlas_2018	TCGA-AG-3732-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-AG-3742-01	R499* Q1303*
+coadread_tcga_pan_can_atlas_2018	TCGA-AG-3878-01	S596* Q1328*
+coadread_tcga_pan_can_atlas_2018	TCGA-AG-3881-01	Q1367*
+coadread_tcga_pan_can_atlas_2018	TCGA-AG-3882-01	E582Gfs*20
+coadread_tcga_pan_can_atlas_2018	TCGA-AG-3883-01	R283* R1399Ffs*9
+coadread_tcga_pan_can_atlas_2018	TCGA-AG-3885-01	N1026Ifs*11 E1397*
+coadread_tcga_pan_can_atlas_2018	TCGA-AG-3887-01	Q1260* K1310Dfs*4
+coadread_tcga_pan_can_atlas_2018	TCGA-AG-3890-01	Y935Tfs*20
+coadread_tcga_pan_can_atlas_2018	TCGA-AG-3892-01	R1114* N1161K
+coadread_tcga_pan_can_atlas_2018	TCGA-AG-3893-01	S1356*
+coadread_tcga_pan_can_atlas_2018	TCGA-AG-3894-01	R216* H1375Lfs*10
+coadread_tcga_pan_can_atlas_2018	TCGA-AG-3896-01	R876*
+coadread_tcga_pan_can_atlas_2018	TCGA-AG-3898-01	R805* P1427Lfs*46 Q1041E
+coadread_tcga_pan_can_atlas_2018	TCGA-AG-3901-01	V1414* S1042Mfs*6
+coadread_tcga_pan_can_atlas_2018	TCGA-AG-3902-01	G1288* X582_splice
+coadread_tcga_pan_can_atlas_2018	TCGA-AG-3909-01	V830Gfs*12 Q1294Gfs*6 R2431K
+coadread_tcga_pan_can_atlas_2018	TCGA-AG-3999-01	NS
+coadread_tcga_pan_can_atlas_2018	TCGA-AG-4001-01	R876* G1499Pfs*3
+coadread_tcga_pan_can_atlas_2018	TCGA-AG-4005-01	NS
+coadread_tcga_pan_can_atlas_2018	TCGA-AG-4007-01	NS
+coadread_tcga_pan_can_atlas_2018	TCGA-AG-4008-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-AG-4015-01	Y1376*
+coadread_tcga_pan_can_atlas_2018	TCGA-AG-4021-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-AG-4022-01	Q1378* L589*
+coadread_tcga_pan_can_atlas_2018	TCGA-AG-A002-01	R1450* E1536* S1400L E136K D774G P2761L
+coadread_tcga_pan_can_atlas_2018	TCGA-AG-A008-01	K1085* T1493Rfs*14
+coadread_tcga_pan_can_atlas_2018	TCGA-AG-A00C-01	E1209* E1397*
+coadread_tcga_pan_can_atlas_2018	TCGA-AG-A00Y-01	P114Ffs*22
+coadread_tcga_pan_can_atlas_2018	TCGA-AG-A011-01	Q1406* K670*
+coadread_tcga_pan_can_atlas_2018	TCGA-AG-A015-01	E1286*
+coadread_tcga_pan_can_atlas_2018	TCGA-AG-A016-01	S1272Ffs*4
+coadread_tcga_pan_can_atlas_2018	TCGA-AG-A01J-01	E1322*
+coadread_tcga_pan_can_atlas_2018	TCGA-AG-A01L-01	S837Ifs*7
+coadread_tcga_pan_can_atlas_2018	TCGA-AG-A01N-01	R856Nfs*6
+coadread_tcga_pan_can_atlas_2018	TCGA-AG-A01W-01	R876* H1490Lfs*17
+coadread_tcga_pan_can_atlas_2018	TCGA-AG-A01Y-01	Q1294*
+coadread_tcga_pan_can_atlas_2018	TCGA-AG-A020-01	R1450* A1246Gfs*10
+coadread_tcga_pan_can_atlas_2018	TCGA-AG-A025-01	NS
+coadread_tcga_pan_can_atlas_2018	TCGA-AG-A026-01	C1270*
+coadread_tcga_pan_can_atlas_2018	TCGA-AG-A02G-01	NS
+coadread_tcga_pan_can_atlas_2018	TCGA-AG-A02N-01	R1450* R232*
+coadread_tcga_pan_can_atlas_2018	TCGA-AG-A02X-01	E1309*
+coadread_tcga_pan_can_atlas_2018	TCGA-AG-A032-01	R302* E1322*
+coadread_tcga_pan_can_atlas_2018	TCGA-AH-6544-01	R1450* R1114*
+coadread_tcga_pan_can_atlas_2018	TCGA-AH-6547-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-AH-6643-01	Q1406* R283*
+coadread_tcga_pan_can_atlas_2018	TCGA-AH-6644-01	R1450*
+coadread_tcga_pan_can_atlas_2018	TCGA-AH-6897-01	E428* K1182*
+coadread_tcga_pan_can_atlas_2018	TCGA-AH-6903-01	I1008Yfs*14
+coadread_tcga_pan_can_atlas_2018	TCGA-CI-6619-01	S1356*
+coadread_tcga_pan_can_atlas_2018	TCGA-CI-6620-01	R876*
+coadread_tcga_pan_can_atlas_2018	TCGA-CI-6621-01	E1353*
+coadread_tcga_pan_can_atlas_2018	TCGA-CI-6622-01	Q1378* R213*
+coadread_tcga_pan_can_atlas_2018	TCGA-CI-6623-01	R876* I1311Lfs*10
+coadread_tcga_pan_can_atlas_2018	TCGA-CI-6624-01	R1114* E1397*
+coadread_tcga_pan_can_atlas_2018	TCGA-CL-4957-01	R1450* C1270*
+coadread_tcga_pan_can_atlas_2018	TCGA-CL-5917-01	R876* I1417Lfs*2
+coadread_tcga_pan_can_atlas_2018	TCGA-CL-5918-01	S1327*
+coadread_tcga_pan_can_atlas_2018	TCGA-DC-4745-01	E1309*
+coadread_tcga_pan_can_atlas_2018	TCGA-DC-4749-01	R499* Q1429*
+coadread_tcga_pan_can_atlas_2018	TCGA-DC-5337-01	R1450*
+coadread_tcga_pan_can_atlas_2018	TCGA-DC-5869-01	R640Mfs*5
+coadread_tcga_pan_can_atlas_2018	TCGA-DC-6154-01	E1353*
+coadread_tcga_pan_can_atlas_2018	TCGA-DC-6155-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-DC-6156-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-DC-6157-01	R876* Q1429*
+coadread_tcga_pan_can_atlas_2018	TCGA-DC-6158-01	E1345*
+coadread_tcga_pan_can_atlas_2018	TCGA-DC-6160-01	R1114*
+coadread_tcga_pan_can_atlas_2018	TCGA-DC-6681-01	R283* T1556Nfs*3 R332*
+coadread_tcga_pan_can_atlas_2018	TCGA-DC-6682-01	G524Afs*3
+coadread_tcga_pan_can_atlas_2018	TCGA-DC-6683-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-DT-5265-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-DY-A0XA-01	S837* K1308*
+coadread_tcga_pan_can_atlas_2018	TCGA-DY-A1DC-01	Q1429*
+coadread_tcga_pan_can_atlas_2018	TCGA-DY-A1DD-01	S1344*
+coadread_tcga_pan_can_atlas_2018	TCGA-DY-A1DE-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-DY-A1DF-01	S583* N1548Tfs*17
+coadread_tcga_pan_can_atlas_2018	TCGA-DY-A1DG-01	R213*
+coadread_tcga_pan_can_atlas_2018	TCGA-DY-A1H8-01	Q1338*
+coadread_tcga_pan_can_atlas_2018	TCGA-EF-5830-01	I1287*
+coadread_tcga_pan_can_atlas_2018	TCGA-EF-5831-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-EI-6506-01	S1282*
+coadread_tcga_pan_can_atlas_2018	TCGA-EI-6507-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-EI-6508-01	R1114* E1309*
+coadread_tcga_pan_can_atlas_2018	TCGA-EI-6509-01	R216*
+coadread_tcga_pan_can_atlas_2018	TCGA-EI-6510-01	R230Tfs*20
+coadread_tcga_pan_can_atlas_2018	TCGA-EI-6511-01	S1356*
+coadread_tcga_pan_can_atlas_2018	TCGA-EI-6512-01	Q757* D1570Vfs*6
+coadread_tcga_pan_can_atlas_2018	TCGA-EI-6513-01	D849Rfs*2
+coadread_tcga_pan_can_atlas_2018	TCGA-EI-6514-01	Q1131* G1312*
+coadread_tcga_pan_can_atlas_2018	TCGA-EI-6881-01	R876* G2709V
+coadread_tcga_pan_can_atlas_2018	TCGA-EI-6882-01	R876* A1492Cfs*22 T518M
+coadread_tcga_pan_can_atlas_2018	TCGA-EI-6883-01	Q1378* R213*
+coadread_tcga_pan_can_atlas_2018	TCGA-EI-6884-01	I1580Lfs*69 E1064*
+coadread_tcga_pan_can_atlas_2018	TCGA-EI-6885-01	R564*
+coadread_tcga_pan_can_atlas_2018	TCGA-EI-6917-01	R1114* L1488* R332Q A3T I718S
+coadread_tcga_pan_can_atlas_2018	TCGA-EI-7002-01	R213* T1493Rfs*14
+coadread_tcga_pan_can_atlas_2018	TCGA-EI-7004-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-F5-6464-01	T1556Nfs*3
+coadread_tcga_pan_can_atlas_2018	TCGA-F5-6465-01	E1306* K1165*
+coadread_tcga_pan_can_atlas_2018	TCGA-F5-6571-01	R876*
+coadread_tcga_pan_can_atlas_2018	TCGA-F5-6702-01	R1450*
+coadread_tcga_pan_can_atlas_2018	TCGA-F5-6810-01	Q1367*
+coadread_tcga_pan_can_atlas_2018	TCGA-F5-6811-01	P1324Sfs*8
+coadread_tcga_pan_can_atlas_2018	TCGA-F5-6812-01	Q1338*
+coadread_tcga_pan_can_atlas_2018	TCGA-F5-6813-01	Q1378*
+coadread_tcga_pan_can_atlas_2018	TCGA-F5-6814-01	R1114* S1400* R2204* R2237* S294F S948Y S2026Y K2695N
+coadread_tcga_pan_can_atlas_2018	TCGA-F5-6861-01	Q1378*
+coadread_tcga_pan_can_atlas_2018	TCGA-F5-6863-01	X438_splice S1272*
+coadread_tcga_pan_can_atlas_2018	TCGA-F5-6864-01	Q1367*
+coadread_tcga_pan_can_atlas_2018	TCGA-G5-6641-01	L1488Yfs*19
+coadread_tcga_pan_can_atlas_2018	TCGA-3L-AA1B-01	R876* R1450*
+coadread_tcga_pan_can_atlas_2018	TCGA-4N-A93T-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-4T-AA8H-01	E941* H1490Yfs*18
+coadread_tcga_pan_can_atlas_2018	TCGA-5M-AAT4-01	D1486Ifs*21
+coadread_tcga_pan_can_atlas_2018	TCGA-5M-AAT6-01	R876* N1455Ifs*18
+coadread_tcga_pan_can_atlas_2018	TCGA-5M-AATE-01	E1345*
+coadread_tcga_pan_can_atlas_2018	TCGA-A6-2671-01	S943Qfs*12 R1435Lfs*31
+coadread_tcga_pan_can_atlas_2018	TCGA-A6-2672-01	NS
+coadread_tcga_pan_can_atlas_2018	TCGA-A6-2674-01	R554*
+coadread_tcga_pan_can_atlas_2018	TCGA-A6-2675-01	S1465Wfs*3 R405* Q203Tfs*49
+coadread_tcga_pan_can_atlas_2018	TCGA-A6-2676-01	NS
+coadread_tcga_pan_can_atlas_2018	TCGA-A6-2677-01	L1488Yfs*19 Q480*
+coadread_tcga_pan_can_atlas_2018	TCGA-A6-2678-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-A6-2679-01	NS
+coadread_tcga_pan_can_atlas_2018	TCGA-A6-2680-01	NS
+coadread_tcga_pan_can_atlas_2018	TCGA-A6-2681-01	S1465Wfs*3 R302*
+coadread_tcga_pan_can_atlas_2018	TCGA-A6-2682-01	NS
+coadread_tcga_pan_can_atlas_2018	TCGA-A6-2683-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-A6-2684-01	Q541Tfs*19
+coadread_tcga_pan_can_atlas_2018	TCGA-A6-2685-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-A6-2686-01	A2008V
+coadread_tcga_pan_can_atlas_2018	TCGA-A6-3807-01	R213*
+coadread_tcga_pan_can_atlas_2018	TCGA-A6-3808-01	R805*
+coadread_tcga_pan_can_atlas_2018	TCGA-A6-3809-01	S1465Wfs*3 D849Rfs*2
+coadread_tcga_pan_can_atlas_2018	TCGA-A6-3810-01	I1304Mfs*4
+coadread_tcga_pan_can_atlas_2018	TCGA-A6-4105-01	D903Sfs*2
+coadread_tcga_pan_can_atlas_2018	TCGA-A6-4107-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-A6-5656-01	R564* P1439Lfs*34
+coadread_tcga_pan_can_atlas_2018	TCGA-A6-5657-01	E984* T1496Kfs*19
+coadread_tcga_pan_can_atlas_2018	TCGA-A6-5659-01	W699*
+coadread_tcga_pan_can_atlas_2018	TCGA-A6-5660-01	R213*
+coadread_tcga_pan_can_atlas_2018	TCGA-A6-5661-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-A6-5662-01	E1322*
+coadread_tcga_pan_can_atlas_2018	TCGA-A6-5664-01	R1450* R213*
+coadread_tcga_pan_can_atlas_2018	TCGA-A6-5665-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-A6-5666-01	R213*
+coadread_tcga_pan_can_atlas_2018	TCGA-A6-5667-01	Q1378*
+coadread_tcga_pan_can_atlas_2018	TCGA-A6-6137-01	R499* E1451*
+coadread_tcga_pan_can_atlas_2018	TCGA-A6-6138-01	E1397*
+coadread_tcga_pan_can_atlas_2018	TCGA-A6-6140-01	NS
+coadread_tcga_pan_can_atlas_2018	TCGA-A6-6141-01	NS
+coadread_tcga_pan_can_atlas_2018	TCGA-A6-6142-01	Q1406* S943Qfs*12
+coadread_tcga_pan_can_atlas_2018	TCGA-A6-6648-01	I1311Lfs*10
+coadread_tcga_pan_can_atlas_2018	TCGA-A6-6649-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-A6-6650-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-A6-6651-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-A6-6652-01	D170Vfs*4 S1281*
+coadread_tcga_pan_can_atlas_2018	TCGA-A6-6653-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-A6-6654-01	Q1367*
+coadread_tcga_pan_can_atlas_2018	TCGA-A6-6780-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-A6-6781-01	V588I
+coadread_tcga_pan_can_atlas_2018	TCGA-A6-6782-01	P1319Lfs*2 E918*
+coadread_tcga_pan_can_atlas_2018	TCGA-A6-A565-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-A6-A566-01	R216* P1330Qfs*11
+coadread_tcga_pan_can_atlas_2018	TCGA-A6-A567-01	R283*
+coadread_tcga_pan_can_atlas_2018	TCGA-A6-A56B-01	E1397Gfs*18
+coadread_tcga_pan_can_atlas_2018	TCGA-A6-A5ZU-01	NS
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3488-01	NS
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3489-01	S1392*
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3492-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3494-01	NS
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3495-01	NS
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3496-01	Q1123* N1124I
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3502-01	R1114* V1414L V1414G
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3506-01	S1465Wfs*3 R554*
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3510-01	R1114*
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3511-01	L1337Pfs*4 P2216S
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3514-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3517-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3518-01	NS
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3519-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3520-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3521-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3522-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3524-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3525-01	NS
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3526-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3527-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3529-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3530-01	Q1469*
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3531-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3532-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3534-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3538-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3542-01	NS
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3543-01	NS
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3544-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3548-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3549-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3552-01	NS
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3553-01	NS
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3555-01	NS
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3558-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3560-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3561-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3655-01	Q1444*
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3660-01	Q1367*
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3663-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3664-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3666-01	S1355Lfs*60 E1552Gfs*6
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3667-01	R564* S1400*
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3673-01	K993* L1488Ffs*17
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3675-01	R232*
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3678-01	I1311Rfs*3
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3679-01	R216*
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3680-01	S1163Tfs*2 I1574Yfs*2
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3681-01	R1450* R924*
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3684-01	E984* S1465Rfs*9
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3685-01	Q978* K1370*
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3688-01	E941*
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3692-01	R805* E1374*
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3693-01	A1296Qfs*9
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3695-01	R213*
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3696-01	X279_splice C1387*
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3710-01	NS
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3712-01	L410*
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3713-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3715-01	A1107V
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3811-01	D1532G
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3812-01	S1421Vfs*52 V557A
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3814-01	E1408* R854Vfs*10
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3818-01	N961Kfs*5 S1411Rfs*4
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3819-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3821-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3831-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3833-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3837-01	Q1294* Y191Lfs*2
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3841-01	R332* L1509Efs*4
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3842-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3844-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3845-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3846-01	Q1378*
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3848-01	R216*
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3850-01	X216_splice K1053Nfs*3
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3851-01	R1450*
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3852-01	S1421Mfs*52
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3854-01	S1398Ifs*17
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3855-01	S1355Lfs*60
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3856-01	R876*
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3858-01	E1353Nfs*62
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3864-01	R1450* R564* R348* R1399H
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3866-01	Q1035* A1305Sfs*10
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3867-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3869-01	NS
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3870-01	NS
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3872-01	NS
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3875-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3877-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3930-01	NS
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3939-01	NS
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3941-01	NS
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3947-01	D849Ifs*12 E1513* T619N
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3949-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3950-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3952-01	R213* I1307Rfs*6
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3955-01	M1383Ifs*3
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3956-01	E855Tfs*56 P1442Lfs*31
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3966-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3968-01	E941*
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3971-01	E403Kfs*51
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3973-01	Q1378* R283*
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3975-01	R499* E1306*
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3976-01	V1414* Q901*
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3977-01	R1114* S2029Y F1840V
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3979-01	Q757* T1493Qfs*14
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3980-01	R232*
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3982-01	R1450* R302* X542_splice
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3984-01	R1114* R2237* F2784C
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3986-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3989-01	R216*
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-3994-01	R805* L1488Yfs*19
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-A004-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-A00A-01	NS
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-A00D-01	NS
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-A00E-01	NS
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-A00F-01	NS
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-A00J-01	NS
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-A00K-01	NS
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-A00L-01	NS
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-A00N-01	S1281* E1408* K2192T R2801W
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-A00O-01	NS
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-A00Q-01	NS
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-A00R-01	NS
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-A00U-01	NS
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-A00W-01	NS
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-A00Z-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-A010-01	R1450* R564* A2D A531V S2429F
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-A017-01	Q1244*
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-A01C-01	R213*
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-A01D-01	NS
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-A01F-01	NS
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-A01G-01	NS
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-A01I-01	Y935*
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-A01K-01	NS
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-A01P-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-A01Q-01	NS
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-A01R-01	R876* R1450*
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-A01S-01	Q412* R564*
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-A01T-01	R1114* A239Qfs*54
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-A01V-01	R1450* S940* S1419N
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-A01X-01	X216_splice R958Ifs*4
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-A01Z-01	K1454Lfs*20
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-A022-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-A024-01	R405* I1557*
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-A029-01	NS
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-A02E-01	S1465Wfs*3 D849Vfs*12
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-A02F-01	L479Ifs*6 T1313Nfs*2
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-A02H-01	H307Ifs*29
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-A02J-01	NS
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-A02O-01	L1302Cfs*3
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-A02R-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-A02W-01	R876* E1374*
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-A02Y-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-A03F-01	R1450* R805*
+coadread_tcga_pan_can_atlas_2018	TCGA-AA-A03J-01	X244_splice
+coadread_tcga_pan_can_atlas_2018	TCGA-AD-5900-01	S1206G
+coadread_tcga_pan_can_atlas_2018	TCGA-AD-6548-01	Q1291*
+coadread_tcga_pan_can_atlas_2018	TCGA-AD-6888-01	R216* Q1338*
+coadread_tcga_pan_can_atlas_2018	TCGA-AD-6889-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-AD-6890-01	R1450* Y935*
+coadread_tcga_pan_can_atlas_2018	TCGA-AD-6895-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-AD-6899-01	S1190Yfs*75
+coadread_tcga_pan_can_atlas_2018	TCGA-AD-6901-01	E1397*
+coadread_tcga_pan_can_atlas_2018	TCGA-AD-6963-01	Q1193*
+coadread_tcga_pan_can_atlas_2018	TCGA-AD-6964-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-AD-6965-01	E1408* E211*
+coadread_tcga_pan_can_atlas_2018	TCGA-AD-A5EJ-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-AD-A5EK-01	E1374*
+coadread_tcga_pan_can_atlas_2018	TCGA-AM-5820-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-AM-5821-01	S1465Wfs*3 F801Lfs*19
+coadread_tcga_pan_can_atlas_2018	TCGA-AU-3779-01	R213* S1344*
+coadread_tcga_pan_can_atlas_2018	TCGA-AU-6004-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-AY-4070-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-AY-4071-01	R1435Efs*38 P832Tfs*12
+coadread_tcga_pan_can_atlas_2018	TCGA-AY-5543-01	R499* T1493Rfs*14
+coadread_tcga_pan_can_atlas_2018	TCGA-AY-6196-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-AY-6197-01	S1501Ffs*13 T1705P
+coadread_tcga_pan_can_atlas_2018	TCGA-AY-6386-01	T1556Nfs*3 L764*
+coadread_tcga_pan_can_atlas_2018	TCGA-AY-A54L-01	X516_splice M1431Cfs*42
+coadread_tcga_pan_can_atlas_2018	TCGA-AY-A69D-01	S1407* D777*
+coadread_tcga_pan_can_atlas_2018	TCGA-AY-A71X-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-AY-A8YK-01	Q1035* X178_splice
+coadread_tcga_pan_can_atlas_2018	TCGA-AZ-4308-01	Y1147*
+coadread_tcga_pan_can_atlas_2018	TCGA-AZ-4313-01	NS
+coadread_tcga_pan_can_atlas_2018	TCGA-AZ-4315-01	T1556Nfs*3 R2237* S1194* S2307L A591V
+coadread_tcga_pan_can_atlas_2018	TCGA-AZ-4323-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-AZ-4614-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-AZ-4615-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-AZ-4616-01	R876* E1552Qfs*12 R230S
+coadread_tcga_pan_can_atlas_2018	TCGA-AZ-4681-01	R216*
+coadread_tcga_pan_can_atlas_2018	TCGA-AZ-4682-01	R302* Q1367*
+coadread_tcga_pan_can_atlas_2018	TCGA-AZ-4684-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-AZ-5403-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-AZ-5407-01	E1284* E1530*
+coadread_tcga_pan_can_atlas_2018	TCGA-AZ-6598-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-AZ-6599-01	R1450*
+coadread_tcga_pan_can_atlas_2018	TCGA-AZ-6600-01	R1450* R923* A703E
+coadread_tcga_pan_can_atlas_2018	TCGA-AZ-6603-01	Y158Ifs*12
+coadread_tcga_pan_can_atlas_2018	TCGA-AZ-6605-01	Q1303* R302*
+coadread_tcga_pan_can_atlas_2018	TCGA-AZ-6606-01	R1450* H913Ifs*3
+coadread_tcga_pan_can_atlas_2018	TCGA-AZ-6607-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-CA-5254-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-CA-5255-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-CA-5256-01	S299Cfs*27
+coadread_tcga_pan_can_atlas_2018	TCGA-CA-5796-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-CA-5797-01	W423* S1355Ffs*62
+coadread_tcga_pan_can_atlas_2018	TCGA-CA-6715-01	X438_splice
+coadread_tcga_pan_can_atlas_2018	TCGA-CA-6716-01	E268*
+coadread_tcga_pan_can_atlas_2018	TCGA-CA-6717-01	R1450* R348* R1920* S1392* R2816* S2307L R302Q R805Q D1569A
+coadread_tcga_pan_can_atlas_2018	TCGA-CA-6718-01	R1114* T1556Nfs*3
+coadread_tcga_pan_can_atlas_2018	TCGA-CA-6719-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-CK-4947-01	R216*
+coadread_tcga_pan_can_atlas_2018	TCGA-CK-4948-01	E1059*
+coadread_tcga_pan_can_atlas_2018	TCGA-CK-4950-01	R1450* A759Sfs*16
+coadread_tcga_pan_can_atlas_2018	TCGA-CK-4951-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-CK-4952-01	R302* T1556Nfs*3
+coadread_tcga_pan_can_atlas_2018	TCGA-CK-5912-01	S834Ffs*5
+coadread_tcga_pan_can_atlas_2018	TCGA-CK-5913-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-CK-5914-01	R216* G2360S
+coadread_tcga_pan_can_atlas_2018	TCGA-CK-5915-01	X438_splice
+coadread_tcga_pan_can_atlas_2018	TCGA-CK-5916-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-CK-6746-01	T1292M
+coadread_tcga_pan_can_atlas_2018	TCGA-CK-6747-01	T1556Nfs*3
+coadread_tcga_pan_can_atlas_2018	TCGA-CK-6748-01	S1315*
+coadread_tcga_pan_can_atlas_2018	TCGA-CK-6751-01	E1576Kfs*74
+coadread_tcga_pan_can_atlas_2018	TCGA-CM-4743-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-CM-4744-01	Q1477*
+coadread_tcga_pan_can_atlas_2018	TCGA-CM-4746-01	L292Ffs*4 K581Rfs*9
+coadread_tcga_pan_can_atlas_2018	TCGA-CM-4747-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-CM-4748-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-CM-4750-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-CM-4751-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-CM-4752-01	E1464Vfs*8 K523*
+coadread_tcga_pan_can_atlas_2018	TCGA-CM-5341-01	R216*
+coadread_tcga_pan_can_atlas_2018	TCGA-CM-5344-01	K1370*
+coadread_tcga_pan_can_atlas_2018	TCGA-CM-5348-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-CM-5349-01	R1114* P1439Lfs*34
+coadread_tcga_pan_can_atlas_2018	TCGA-CM-5860-01	R2237*
+coadread_tcga_pan_can_atlas_2018	TCGA-CM-5861-01	M44V
+coadread_tcga_pan_can_atlas_2018	TCGA-CM-5862-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-CM-5863-01	R1114* L1489Yfs*18
+coadread_tcga_pan_can_atlas_2018	TCGA-CM-5864-01	E1397*
+coadread_tcga_pan_can_atlas_2018	TCGA-CM-5868-01	Q1041*
+coadread_tcga_pan_can_atlas_2018	TCGA-CM-6161-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-CM-6162-01	D1871V
+coadread_tcga_pan_can_atlas_2018	TCGA-CM-6163-01	R213*
+coadread_tcga_pan_can_atlas_2018	TCGA-CM-6164-01	R232*
+coadread_tcga_pan_can_atlas_2018	TCGA-CM-6165-01	I1401Mfs*14
+coadread_tcga_pan_can_atlas_2018	TCGA-CM-6166-01	Q1406* Y622Gfs*7 S1343C Q1367E S1404F S1327L S1360C
+coadread_tcga_pan_can_atlas_2018	TCGA-CM-6167-01	R1450*
+coadread_tcga_pan_can_atlas_2018	TCGA-CM-6168-01	R499* G1466*
+coadread_tcga_pan_can_atlas_2018	TCGA-CM-6169-01	R805* N1535Mfs*30
+coadread_tcga_pan_can_atlas_2018	TCGA-CM-6170-01	R499*
+coadread_tcga_pan_can_atlas_2018	TCGA-CM-6171-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-CM-6172-01	Q1378* R216*
+coadread_tcga_pan_can_atlas_2018	TCGA-CM-6674-01	R402C
+coadread_tcga_pan_can_atlas_2018	TCGA-CM-6675-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-CM-6676-01	R564* E1397*
+coadread_tcga_pan_can_atlas_2018	TCGA-CM-6677-01	I1580Lfs*69
+coadread_tcga_pan_can_atlas_2018	TCGA-CM-6678-01	E941* S1436Rfs*38
+coadread_tcga_pan_can_atlas_2018	TCGA-CM-6679-01	X653_splice
+coadread_tcga_pan_can_atlas_2018	TCGA-CM-6680-01	R564* S1581Lfs*69
+coadread_tcga_pan_can_atlas_2018	TCGA-D5-5537-01	R1450* H913Qfs*39
+coadread_tcga_pan_can_atlas_2018	TCGA-D5-5538-01	Q1469* E1216*
+coadread_tcga_pan_can_atlas_2018	TCGA-D5-5539-01	R1450*
+coadread_tcga_pan_can_atlas_2018	TCGA-D5-5540-01	S1385*
+coadread_tcga_pan_can_atlas_2018	TCGA-D5-5541-01	A1492Pfs*15
+coadread_tcga_pan_can_atlas_2018	TCGA-D5-6529-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-D5-6530-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-D5-6531-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-D5-6532-01	R213* P1319Lfs*2
+coadread_tcga_pan_can_atlas_2018	TCGA-D5-6533-01	E918* L1489Kfs*19
+coadread_tcga_pan_can_atlas_2018	TCGA-D5-6534-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-D5-6535-01	R1450*
+coadread_tcga_pan_can_atlas_2018	TCGA-D5-6536-01	S1419*
+coadread_tcga_pan_can_atlas_2018	TCGA-D5-6537-01	N627Lfs*2
+coadread_tcga_pan_can_atlas_2018	TCGA-D5-6538-01	R1114* Q1429Dfs*45
+coadread_tcga_pan_can_atlas_2018	TCGA-D5-6539-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-D5-6540-01	D849Ifs*12
+coadread_tcga_pan_can_atlas_2018	TCGA-D5-6541-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-D5-6898-01	Q1367*
+coadread_tcga_pan_can_atlas_2018	TCGA-D5-6920-01	R232*
+coadread_tcga_pan_can_atlas_2018	TCGA-D5-6922-01	R1450* X470_splice
+coadread_tcga_pan_can_atlas_2018	TCGA-D5-6923-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-D5-6924-01	R499* Q1294*
+coadread_tcga_pan_can_atlas_2018	TCGA-D5-6926-01	R232* Q1291* A1879S
+coadread_tcga_pan_can_atlas_2018	TCGA-D5-6927-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-D5-6928-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-D5-6929-01	M743Cfs*18
+coadread_tcga_pan_can_atlas_2018	TCGA-D5-6930-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-D5-6931-01	R876*
+coadread_tcga_pan_can_atlas_2018	TCGA-D5-6932-01	R1114*
+coadread_tcga_pan_can_atlas_2018	TCGA-D5-7000-01	R1450*
+coadread_tcga_pan_can_atlas_2018	TCGA-DM-A0X9-01	R213* E1397*
+coadread_tcga_pan_can_atlas_2018	TCGA-DM-A0XD-01	Y935* A1446Vfs*27
+coadread_tcga_pan_can_atlas_2018	TCGA-DM-A0XF-01	E1209*
+coadread_tcga_pan_can_atlas_2018	TCGA-DM-A1D0-01	E1408*
+coadread_tcga_pan_can_atlas_2018	TCGA-DM-A1D4-01	H361Wfs*3
+coadread_tcga_pan_can_atlas_2018	TCGA-DM-A1D6-01	S1315*
+coadread_tcga_pan_can_atlas_2018	TCGA-DM-A1D7-01	R876* I1580Nfs*11
+coadread_tcga_pan_can_atlas_2018	TCGA-DM-A1D8-01	R876* T1556Nfs*3
+coadread_tcga_pan_can_atlas_2018	TCGA-DM-A1D9-01	C1578Mfs*13
+coadread_tcga_pan_can_atlas_2018	TCGA-DM-A1DA-01	E1408* W1049*
+coadread_tcga_pan_can_atlas_2018	TCGA-DM-A1DB-01	R564*
+coadread_tcga_pan_can_atlas_2018	TCGA-DM-A1HA-01	V1414Efs*5 H785Qfs*6
+coadread_tcga_pan_can_atlas_2018	TCGA-DM-A1HB-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-DM-A280-01	P1453Lfs*20
+coadread_tcga_pan_can_atlas_2018	TCGA-DM-A282-01	Q1367*
+coadread_tcga_pan_can_atlas_2018	TCGA-DM-A285-01	E1408* S874*
+coadread_tcga_pan_can_atlas_2018	TCGA-DM-A288-01	Y935* E1461Kfs*12 R1463Efs*10 E1461K
+coadread_tcga_pan_can_atlas_2018	TCGA-DM-A28A-01	N627Lfs*2
+coadread_tcga_pan_can_atlas_2018	TCGA-DM-A28C-01	R499*
+coadread_tcga_pan_can_atlas_2018	TCGA-DM-A28E-01	R805* P1453Lfs*20
+coadread_tcga_pan_can_atlas_2018	TCGA-DM-A28F-01	V1414* R876*
+coadread_tcga_pan_can_atlas_2018	TCGA-DM-A28G-01	E1397*
+coadread_tcga_pan_can_atlas_2018	TCGA-DM-A28H-01	R1450*
+coadread_tcga_pan_can_atlas_2018	TCGA-DM-A28K-01	T1556Nfs*3
+coadread_tcga_pan_can_atlas_2018	TCGA-DM-A28M-01	V1414* S943*
+coadread_tcga_pan_can_atlas_2018	TCGA-F4-6459-01	C1249Sfs*16
+coadread_tcga_pan_can_atlas_2018	TCGA-F4-6460-01	Q1378*
+coadread_tcga_pan_can_atlas_2018	TCGA-F4-6461-01	Q1429* S943*
+coadread_tcga_pan_can_atlas_2018	TCGA-F4-6463-01	A1492Cfs*22
+coadread_tcga_pan_can_atlas_2018	TCGA-F4-6569-01	S1407Vfs*8
+coadread_tcga_pan_can_atlas_2018	TCGA-F4-6570-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-F4-6703-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-F4-6704-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-F4-6805-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-F4-6806-01	Y935* Q1447*
+coadread_tcga_pan_can_atlas_2018	TCGA-F4-6807-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-F4-6808-01	E1345*
+coadread_tcga_pan_can_atlas_2018	TCGA-F4-6809-01	S940*
+coadread_tcga_pan_can_atlas_2018	TCGA-F4-6854-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-F4-6855-01	Q1429* Y935*
+coadread_tcga_pan_can_atlas_2018	TCGA-F4-6856-01	R230H
+coadread_tcga_pan_can_atlas_2018	TCGA-G4-6293-01	R876* L1489Yfs*18 I1913T
+coadread_tcga_pan_can_atlas_2018	TCGA-G4-6294-01	Y935* Q1406*
+coadread_tcga_pan_can_atlas_2018	TCGA-G4-6295-01	E1464Vfs*8 A571Vfs*2 F2443L
+coadread_tcga_pan_can_atlas_2018	TCGA-G4-6297-01	L1489Yfs*18 Q1062*
+coadread_tcga_pan_can_atlas_2018	TCGA-G4-6298-01	G1288*
+coadread_tcga_pan_can_atlas_2018	TCGA-G4-6299-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-G4-6302-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-G4-6303-01	Q1378*
+coadread_tcga_pan_can_atlas_2018	TCGA-G4-6304-01	S1272Ffs*4 T1487Yfs*18
+coadread_tcga_pan_can_atlas_2018	TCGA-G4-6306-01	R876* R1450* R640W
+coadread_tcga_pan_can_atlas_2018	TCGA-G4-6307-01	R1114*
+coadread_tcga_pan_can_atlas_2018	TCGA-G4-6309-01	S1465Wfs*3 R554*
+coadread_tcga_pan_can_atlas_2018	TCGA-G4-6311-01	Q50Tfs*7
+coadread_tcga_pan_can_atlas_2018	TCGA-G4-6315-01	R216* E1353*
+coadread_tcga_pan_can_atlas_2018	TCGA-G4-6317-01	Q1291* M1211Vfs*5
+coadread_tcga_pan_can_atlas_2018	TCGA-G4-6320-01	R1114* S1436Vfs*37
+coadread_tcga_pan_can_atlas_2018	TCGA-G4-6321-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-G4-6322-01	S1356* Y935*
+coadread_tcga_pan_can_atlas_2018	TCGA-G4-6323-01	S1465Rfs*9 X653_splice
+coadread_tcga_pan_can_atlas_2018	TCGA-G4-6586-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-G4-6588-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-G4-6626-01	R232*
+coadread_tcga_pan_can_atlas_2018	TCGA-G4-6627-01	R213* E1322Pfs*10
+coadread_tcga_pan_can_atlas_2018	TCGA-G4-6628-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-NH-A50T-01	V1390Ffs*6
+coadread_tcga_pan_can_atlas_2018	TCGA-NH-A50U-01	T1556Nfs*3
+coadread_tcga_pan_can_atlas_2018	TCGA-NH-A50V-01	S1465Wfs*3
+coadread_tcga_pan_can_atlas_2018	TCGA-NH-A5IV-01	R499* S1234G
+coadread_tcga_pan_can_atlas_2018	TCGA-NH-A6GA-01	R1450* R554*
+coadread_tcga_pan_can_atlas_2018	TCGA-NH-A6GB-01	R213* Q1429*
+coadread_tcga_pan_can_atlas_2018	TCGA-NH-A6GC-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-NH-A8F7-01	E1345* L769*
+coadread_tcga_pan_can_atlas_2018	TCGA-NH-A8F8-01	R1450* X653_splice
+coadread_tcga_pan_can_atlas_2018	TCGA-QG-A5YV-01	S1205Tfs*60
+coadread_tcga_pan_can_atlas_2018	TCGA-QG-A5YW-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-QG-A5YX-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-QG-A5Z1-01	E1168*
+coadread_tcga_pan_can_atlas_2018	TCGA-QG-A5Z2-01	R554*
+coadread_tcga_pan_can_atlas_2018	TCGA-QL-A97D-01	V1414* D777Kfs*8
+coadread_tcga_pan_can_atlas_2018	TCGA-RU-A8FL-01	R876* H1490Tfs*24
+coadread_tcga_pan_can_atlas_2018	TCGA-SS-A7HO-01	R332* Q1549* E2737Q
+coadread_tcga_pan_can_atlas_2018	TCGA-T9-A92H-01	WT
+coadread_tcga_pan_can_atlas_2018	TCGA-WS-AB45-01	R2549H Q695H
+coadread_tcga_pan_can_atlas_2018	TCGA-5M-AAT5-01	Q264* Q1444*
+coadread_tcga_pan_can_atlas_2018	TCGA-5M-AATA-01	Q223*
+coadread_mskcc	EV-001-M	R876* E1408*
+coadread_mskcc	EV-001-P	R876* E1408*
+coadread_mskcc	EV-002-M	R213* Q1367*
+coadread_mskcc	EV-002-P	R213* Q1367*
+coadread_mskcc	EV-003-M	Q1095*
+coadread_mskcc	EV-003-P	Q1095*
+coadread_mskcc	EV-004-M	R1114* X216_splice
+coadread_mskcc	EV-004-P	R1114* X216_splice
+coadread_mskcc	EV-005-M	R216*
+coadread_mskcc	EV-005-P	R216*
+coadread_mskcc	EV-006-M	S1327* E941G
+coadread_mskcc	EV-006-P	S1327* E941G
+coadread_mskcc	EV-007-M	E1309Rfs*11
+coadread_mskcc	EV-007-P	E1309Rfs*11
+coadread_mskcc	EV-008-M	E1309Rfs*11
+coadread_mskcc	EV-008-P	E1322* E1309Rfs*11
+coadread_mskcc	EV-009-M	K993*
+coadread_mskcc	EV-009-P	K993*
+coadread_mskcc	EV-010-M	WT
+coadread_mskcc	EV-010-P	R213*
+coadread_mskcc	EV-011-M	E1379*
+coadread_mskcc	EV-011-P	E1379*
+coadread_mskcc	EV-012-M	R876* Q1429*
+coadread_mskcc	EV-012-P	R876* Q1429*
+coadread_mskcc	EV-013-M	E1064* K1462_R1463insE
+coadread_mskcc	EV-013-P	E1064* K1462_R1463insE
+coadread_mskcc	EV-014-M	WT
+coadread_mskcc	EV-014-P	WT
+coadread_mskcc	EV-015-M	G1120* P1440S
+coadread_mskcc	EV-015-P	G1120* P1440S
+coadread_mskcc	EV-016-M	R1450* L779*
+coadread_mskcc	EV-016-P	R1450* L779*
+coadread_mskcc	EV-017-M	R283*
+coadread_mskcc	EV-017-P	R283*
+coadread_mskcc	EV-018-M	E1345* S1068*
+coadread_mskcc	EV-018-P	E1345* S1068*
+coadread_mskcc	EV-019-M	R499* E1397*
+coadread_mskcc	EV-019-P	R499* E1397*
+coadread_mskcc	EV-020-M	WT
+coadread_mskcc	EV-020-P	WT
+coadread_mskcc	EV-021-M	E1306G
+coadread_mskcc	EV-021-P	E1306G
+coadread_mskcc	EV-022-M	Q1477* N775H
+coadread_mskcc	EV-022-P	Q1477* N775H
+coadread_mskcc	EV-023-M	Q886* R1463Efs*10
+coadread_mskcc	EV-023-P	Q886* R1463Efs*10
+coadread_mskcc	EV-026-M	D1022G S1238R R1463del
+coadread_mskcc	EV-026-P	D1022G S1238R R1463del
+coadread_mskcc	EV-027-M	R1114* G1357*
+coadread_mskcc	EV-027-P	R1114* G1357*
+coadread_mskcc	EV-028-M	K534*
+coadread_mskcc	EV-028-P	K534*
+coadread_mskcc	EV-029-M	WT
+coadread_mskcc	EV-029-P	WT
+coadread_mskcc	EV-030-M	Q695*
+coadread_mskcc	EV-030-P	Q695*
+coadread_mskcc	EV-032-M	Q195*
+coadread_mskcc	EV-032-P	Q195*
+coadread_mskcc	EV-033-M	P1319S C417W
+coadread_mskcc	EV-033-P	P1319Lfs*2 C417W
+coadread_mskcc	EV-034-M	I1269Nfs*19 N1300*
+coadread_mskcc	EV-034-P	I1269Nfs*19 N1300*
+coadread_mskcc	EV-035-M	H1375Rfs*36
+coadread_mskcc	EV-035-P	H1375Rfs*36
+coadread_mskcc	EV-036-M	E1464_S1465insA
+coadread_mskcc	EV-036-P	E1464_S1465insA
+coadread_mskcc	EV-037-M	M1383Qfs*33
+coadread_mskcc	EV-037-P	M1383Qfs*33
+coadread_mskcc	EV-038-M	P1443S
+coadread_mskcc	EV-038-P	P1443S
+coadread_mskcc	EV-040-M	R216* Q1256*
+coadread_mskcc	EV-040-P	R216* Q1256*
+coadread_mskcc	EV-041-M	Q1378*
+coadread_mskcc	EV-041-P	Q1378*
+coadread_mskcc	EV-042-M	R1450*
+coadread_mskcc	EV-042-P	R876* R1450*
+coadread_mskcc	EV-043-M	R1463Efs*10
+coadread_mskcc	EV-043-P	R1463Efs*10
+coadread_mskcc	EV-044-M	WT
+coadread_mskcc	EV-044-P	WT
+coadread_mskcc	EV-045-M	E1353*
+coadread_mskcc	EV-045-P	E1353*
+coadread_mskcc	EV-046-M	WT
+coadread_mskcc	EV-046-P	WT
+coadread_mskcc	EV-047-M	R876* E1554Gfs*12
+coadread_mskcc	EV-047-P	R876* E1554Gfs*12
+coadread_mskcc	EV-048-M	R283* R332* E1554Gfs*12
+coadread_mskcc	EV-048-P	R283* R332* T1556Nfs*3
+coadread_mskcc	EV-049-M	S457*
+coadread_mskcc	EV-049-P	S457*
+coadread_mskcc	EV-050-M	Q1378* E1538_S1539insIRA
+coadread_mskcc	EV-050-P	Q1378* E1538_S1539insIRA
+coadread_mskcc	EV-051-M	E1513* S1272L
+coadread_mskcc	EV-051-P	E1513* S1272L
+coadread_mskcc	EV-052-M	R876* Q1429*
+coadread_mskcc	EV-052-P	Q1429*
+coadread_mskcc	EV-053-M	R1450* S1068*
+coadread_mskcc	EV-053-P	R1450* S1068*
+coadread_mskcc	EV-054-M	Y1031* F1500I
+coadread_mskcc	EV-054-P	Y1031* F1500I
+coadread_mskcc	EV-055-M	R1386*
+coadread_mskcc	EV-055-P	R1386*
+coadread_mskcc	EV-056-M	E1306Gfs*3
+coadread_mskcc	EV-056-P	E1306Gfs*3
+coadread_mskcc	EV-058-M	Q1230*
+coadread_mskcc	EV-058-P	E1309Rfs*11 Q1230*
+coadread_mskcc	EV-060-M	WT
+coadread_mskcc	EV-060-P	WT
+coadread_mskcc	EV-061-M	E1494G
+coadread_mskcc	EV-061-P	E1494G
+coadread_mskcc	EV-062-M	E1306Gfs*3 H598Q
+coadread_mskcc	EV-062-P	I1307Nfs*8 H598Q
+coadread_mskcc	EV-063-M	R1114* Q1338*
+coadread_mskcc	EV-063-P	R1114* Q1338*
+coadread_mskcc	EV-064-M	R283* S1415Rfs*4
+coadread_mskcc	EV-064-P	R283* S1415R
+coadread_mskcc	EV-066-M	R1114* Q1429*
+coadread_mskcc	EV-066-P	R1114* Q1429*
+coadread_mskcc	EV-067-M	R232* A1402S
+coadread_mskcc	EV-067-P	R232* A1402S
+coadread_mskcc	EV-068-M	Q1378*
+coadread_mskcc	EV-068-P	Q1378*
+coadread_mskcc	EV-069-M	E1374*
+coadread_mskcc	EV-069-P	E1374*
+coadread_mskcc	EV-070-M	R554* Y1376Rfs*37
+coadread_mskcc	EV-070-P	R554* Y1376Rfs*37
+coadread_mskcc	EV-071-M	Y1162*
+coadread_mskcc	EV-071-P	Y1162*
+coadread_mskcc	EV-072-M	N933Tfs*20 H1490N
+coadread_mskcc	EV-072-P	N933Tfs*20 H1490N
+coadread_mskcc	EV-073-M	E1306Gfs*3
+coadread_mskcc	EV-073-P	E1306Gfs*3
+coadread_mskcc	EV-074-M	R876* S1465Rfs*8
+coadread_mskcc	EV-074-P	R876* S1465R
+coadread_mskcc	EV-075-M	Y1183* E1554Gfs*12
+coadread_mskcc	EV-075-P	Y1183* E1554Gfs*12
+coadread_mskcc	EV-076-M	X470_splice
+coadread_mskcc	EV-076-P	R1114* X470_splice
+crc_dd_2022	P-0001237-T01-IM3	Q1193* E1284*
+crc_dd_2022	P-0002475-T01-IM3	R216*
+crc_dd_2022	P-0004783-T01-IM5	R876* Q1429*
+crc_dd_2022	P-0005230-T01-IM5	R1450*
+crc_dd_2022	P-0007592-T01-IM5	Q789* C1578Lfs*72
+crc_dd_2022	P-0008729-T01-IM5	WT
+crc_dd_2022	P-0010007-T01-IM5	S1465Rfs*9
+crc_dd_2022	P-0015416-T01-IM6	R232* T1556Lfs*9 S1407G
+crc_dd_2022	P-0016091-T01-IM6	E1309Dfs*4
+crc_dd_2022	P-0019880-T01-IM6	WT
+crc_dd_2022	P-0021518-T01-IM6	I1008Yfs*14 S1505Afs*2
+crc_dd_2022	P-0025161-T01-IM6	S1415Rfs*4 S537Rfs*12
+crc_dd_2022	P-0025362-T01-IM6	WT
+crc_dd_2022	P-0027427-T01-IM6	E1306*
+crc_dd_2022	P-0028274-T01-IM6	P1427Vfs*46
+crc_dd_2022	P-0033060-T01-IM6	R1450* Y935*
+crc_dd_2022	P-0033100-T01-IM6	WT
+crc_dd_2022	P-0033196-T01-IM6	R1450* R564*
+crc_dd_2022	P-0034332-T01-IM6	S1346*
+crc_dd_2022	P-0034499-T01-IM6	R564* K993*
+crc_dd_2022	P-0034973-T01-IM6	R876* S1503Yfs*4
+crc_dd_2022	P-0035916-T01-IM6	WT
+crc_dd_2022	P-0036503-T01-IM6	R876* R1450* S1861Y R2721C D285G
+crc_dd_2022	P-0036892-T01-IM6	R283*
+crc_dd_2022	P-0037410-T01-IM6	WT
+crc_dd_2022	P-0037482-T01-IM6	K670*
+crc_dd_2022	P-0037971-T01-IM6	R805*
+crc_dd_2022	P-0038290-T01-IM6	E1309Dfs*4
+crc_dd_2022	P-0038423-T01-IM6	R1114* P1497Qfs*10
+crc_dd_2022	P-0038548-T01-IM6	R876* R232* T1556Nfs*3 S1391Tfs*2
+crc_dd_2022	P-0040460-T01-IM6	WT
+crc_dd_2022	P-0040508-T01-IM6	Q1338* GNGQ275fs
+crc_dd_2022	P-0040977-T01-IM6	R1450* N627Lfs*2
+crc_dd_2022	P-0041323-T01-IM6	E941* Q1477*
+crc_dd_2022	P-0043371-T01-IM6	E1464Vfs*8
+crc_dd_2022	P-0039163-T03-IM6	Q1429* Q278*
+crc_dd_2022	P-0043580-T01-IM6	L764* A1460Yfs*3
+crc_dd_2022	P-0043718-T01-IM6	L1489Yfs*18
+crc_dd_2022	P-0044184-T01-IM6	WT
+crc_dd_2022	P-0047886-T01-IM6	N627Lfs*2 S833Afs*9 T182A P2324L
+crc_dd_2022	P-0048081-T01-IM6	S1465Wfs*3 R499* R554*
+crc_dd_2022	P-0048091-T01-IM6	T1556Nfs*3
+crc_dd_2022	P-0048215-T01-IM6	R1114* E1309* R2237*
+crc_dd_2022	P-0053162-T01-IM6	R876* R1450* Y1031Ifs*4 G1412Efs*3
+crc_dd_2022	P-0039691-T01-IM6	E1306*
+crc_dd_2022	P-0061563-T01-IM7	H1490Tfs*24 Q1062Vfs*63
+crc_dd_2022	s_C_XPMDEU_P001_d	N1533Kfs*4
+crc_apc_impact_2020	P-0000493-T01-IM3	K1165*
+crc_apc_impact_2020	P-0000552-T01-IM3	Q1338*
+crc_apc_impact_2020	P-0000674-T01-IM3	R564* E1397*
+crc_apc_impact_2020	P-0000739-T01-IM3	S457* T1301Nfs*14
+crc_apc_impact_2020	P-0000911-T01-IM3	S1346*
+crc_apc_impact_2020	P-0000982-T02-IM5	E1353*
+crc_apc_impact_2020	P-0000994-T01-IM3	R1114*
+crc_apc_impact_2020	P-0001170-T01-IM3	R216*
+crc_apc_impact_2020	P-0001318-T01-IM3	C1270*
+crc_apc_impact_2020	P-0001472-T01-IM3	R216*
+crc_apc_impact_2020	P-0001577-T01-IM3	K534*
+crc_apc_impact_2020	P-0001658-T01-IM3	R232* E1322*
+crc_apc_impact_2020	P-0001732-T01-IM3	A1296Qfs*9
+crc_apc_impact_2020	P-0001767-T01-IM3	S1400* X438_splice
+crc_apc_impact_2020	P-0001771-T01-IM3	E1379*
+crc_apc_impact_2020	P-0001778-T01-IM3	E1309Dfs*4
+crc_apc_impact_2020	P-0001964-T01-IM3	R876*
+crc_apc_impact_2020	P-0002042-T01-IM3	E1397*
+crc_apc_impact_2020	P-0002048-T01-IM3	E1345* X278_splice
+crc_apc_impact_2020	P-0002343-T01-IM3	Q1367*
+crc_apc_impact_2020	P-0002475-T01-IM3	R216*
+crc_apc_impact_2020	P-0002670-T01-IM3	E1309* E1111Gfs*15 R2505Q
+crc_apc_impact_2020	P-0002721-T01-IM3	R283* S1315*
+crc_apc_impact_2020	P-0002730-T01-IM3	W553Gfs*5
+crc_apc_impact_2020	P-0002792-T01-IM3	V1173Lfs*6
+crc_apc_impact_2020	P-0002795-T01-IM3	Q1328*
+crc_apc_impact_2020	P-0002855-T01-IM3	E1309Dfs*4
+crc_apc_impact_2020	P-0002951-T01-IM3	R554* S1315*
+crc_apc_impact_2020	P-0003035-T01-IM5	R232*
+crc_apc_impact_2020	P-0003130-T01-IM5	R876* S1392*
+crc_apc_impact_2020	P-0003136-T01-IM5	E1322*
+crc_apc_impact_2020	P-0003154-T01-IM5	S1355Ffs*19
+crc_apc_impact_2020	P-0003210-T01-IM5	G1288* D170Vfs*4
+crc_apc_impact_2020	P-0003301-T01-IM5	G1357*
+crc_apc_impact_2020	P-0003662-T01-IM5	Y1376Cfs*9
+crc_apc_impact_2020	P-0003753-T01-IM5	E1309* R554*
+crc_apc_impact_2020	P-0003755-T01-IM5	R805* G1312Efs*9
+crc_apc_impact_2020	P-0003791-T01-IM5	E984* R1331*
+crc_apc_impact_2020	P-0003793-T01-IM5	R554*
+crc_apc_impact_2020	P-0004081-T01-IM5	P1319Lfs*2
+crc_apc_impact_2020	P-0004159-T01-IM5	R216*
+crc_apc_impact_2020	P-0004402-T01-IM5	Q1291*
+crc_apc_impact_2020	P-0004629-T01-IM5	E1286Kfs*2
+crc_apc_impact_2020	P-0004692-T01-IM5	S1346Ifs*8
+crc_apc_impact_2020	P-0004786-T01-IM5	Q1378* D1297Efs*3
+crc_apc_impact_2020	P-0004844-T01-IM5	E1309Dfs*4 X278_splice
+crc_apc_impact_2020	P-0004872-T01-IM5	Q1303* Q1193*
+crc_apc_impact_2020	P-0004897-T01-IM5	D170Vfs*4
+crc_apc_impact_2020	P-0004967-T01-IM5	R232*
+crc_apc_impact_2020	P-0005029-T01-IM5	E1317*
+crc_apc_impact_2020	P-0005137-T02-IM5	Y737* E1309Rfs*6
+crc_apc_impact_2020	P-0005163-T01-IM5	E1309Dfs*4
+crc_apc_impact_2020	P-0005172-T01-IM5	R216*
+crc_apc_impact_2020	P-0005247-T01-IM5	E1345* L1021Rfs*7
+crc_apc_impact_2020	P-0005739-T02-IM5	S1028Ifs*9
+crc_apc_impact_2020	P-0005755-T01-IM5	R216*
+crc_apc_impact_2020	P-0006118-T02-IM5	R554*
+crc_apc_impact_2020	P-0006136-T01-IM5	N627Lfs*2
+crc_apc_impact_2020	P-0006181-T01-IM5	F1396Lfs*19
+crc_apc_impact_2020	P-0006317-T01-IM5	R564* E1397*
+crc_apc_impact_2020	P-0006390-T01-IM5	Y935*
+crc_apc_impact_2020	P-0006434-T01-IM5	L1382Hfs*3
+crc_apc_impact_2020	P-0006512-T01-IM5	R283* E1309Dfs*4
+crc_apc_impact_2020	P-0006766-T01-IM5	X178_splice
+crc_apc_impact_2020	P-0006887-T01-IM5	X216_splice
+crc_apc_impact_2020	P-0006933-T01-IM5	K1165* V452Sfs*7
+crc_apc_impact_2020	P-0007567-T01-IM5	R1114* Q1067*
+crc_apc_impact_2020	P-0007645-T01-IM5	Q1303*
+crc_apc_impact_2020	P-0007809-T01-IM5	R876* Q1303*
+crc_apc_impact_2020	P-0008321-T01-IM5	R1114*
+crc_apc_impact_2020	P-0008521-T01-IM5	E1397* C1249Wfs*7
+crc_apc_impact_2020	P-0008583-T01-IM5	L629*
+crc_apc_impact_2020	P-0008875-T01-IM5	E1309* R216*
+crc_apc_impact_2020	P-0009053-T01-IM5	S1398Ifs*20
+crc_apc_impact_2020	P-0009192-T01-IM5	E1379*
+crc_apc_impact_2020	P-0009949-T01-IM5	R499* S1327*
+crc_apc_impact_2020	P-0010098-T01-IM5	R216* Q1367*
+crc_apc_impact_2020	P-0010134-T01-IM5	WT
+crc_apc_impact_2020	P-0010146-T01-IM5	I1307Nfs*8
+crc_apc_impact_2020	P-0010219-T01-IM5	I1311Lfs*10 Q1291E
+crc_apc_impact_2020	P-0010268-T01-IM5	E1397* X653_splice
+crc_apc_impact_2020	P-0010352-T01-IM5	R213* E1309Dfs*4
+crc_apc_impact_2020	P-0010407-T01-IM5	P1319Lfs*2
+crc_apc_impact_2020	P-0010422-T01-IM5	E1322* E1284D
+crc_apc_impact_2020	P-0010425-T01-IM5	E1322*
+crc_apc_impact_2020	P-0010512-T01-IM5	S1346* P950Yfs*14
+crc_apc_impact_2020	P-0010627-T01-IM5	V1323Afs*8
+crc_apc_impact_2020	P-0011110-T01-IM5	E1295*
+crc_apc_impact_2020	P-0011259-T01-IM5	K1182* K1250Sfs*5
+crc_apc_impact_2020	P-0011300-T01-IM5	G1039*
+crc_apc_impact_2020	P-0011366-T01-IM5	E1309*
+crc_apc_impact_2020	P-0012033-T01-IM5	E1309Dfs*4 T916Kfs*39
+crc_apc_impact_2020	P-0012110-T01-IM5	S1198*
+crc_apc_impact_2020	P-0012708-T01-IM5	X438_splice
+crc_apc_impact_2020	P-0013375-T01-IM5	X278_splice
+crc_apc_impact_2020	P-0013441-T01-IM5	R1399Ffs*9
+crc_apc_impact_2020	P-0013488-T01-IM5	Q879*
+crc_apc_impact_2020	P-0013786-T01-IM5	R499*
+crc_apc_impact_2020	P-0013856-T01-IM5	Q1378*
+crc_apc_impact_2020	P-0013929-T01-IM5	I1269Mfs*6
+crc_apc_impact_2020	P-0013963-T01-IM5	R216* P1330Qfs*9
+crc_apc_impact_2020	P-0014020-T01-IM5	E1317*
+crc_apc_impact_2020	P-0014116-T01-IM5	R232* I1311Dfs*4
+crc_apc_impact_2020	P-0014555-T01-IM6	R216*
+crc_apc_impact_2020	P-0014863-T01-IM6	R499* E1309Dfs*4
+crc_apc_impact_2020	P-0015371-T01-IM6	R232*
+crc_apc_impact_2020	P-0015380-T01-IM6	R213*
+crc_apc_impact_2020	P-0015474-T01-IM6	E1379* R2714C
+crc_apc_impact_2020	P-0015834-T01-IM6	S1360Ifs*15
+crc_apc_impact_2020	P-0015870-T01-IM6	Q1062Kfs*64
+crc_apc_impact_2020	P-0016485-T01-IM6	K1308*
+crc_apc_impact_2020	P-0016508-T01-IM6	E1317Sfs*9
+crc_apc_impact_2020	P-0016560-T01-IM6	F814Lfs*6
+crc_apc_impact_2020	P-0016696-T01-IM6	T1368Rfs*48 F1396*
+crc_apc_impact_2020	P-0017022-T01-IM6	R216* Y935*
+crc_apc_impact_2020	P-0017039-T01-IM6	E1257*
+crc_apc_impact_2020	P-0017315-T01-IM6	R213*
+crc_apc_impact_2020	P-0017487-T01-IM6	R232*
+crc_apc_impact_2020	P-0017714-T01-IM6	M1383Vfs*16
+crc_apc_impact_2020	P-0017765-T01-IM6	E1309Dfs*4
+crc_apc_impact_2020	P-0017808-T01-IM6	S1362Lfs*13
+crc_apc_impact_2020	P-0017992-T01-IM6	Q1303*
+crc_apc_impact_2020	P-0018075-T01-IM6	M1383Vfs*2
+crc_apc_impact_2020	P-0018248-T01-IM6	R232* E1374*
+crc_apc_impact_2020	P-0018485-T01-IM6	E853* D1297Rfs*4
+crc_apc_impact_2020	P-0018686-T01-IM6	X470_splice X311_splice
+crc_apc_impact_2020	P-0018721-T01-IM6	R805* E1379*
+crc_apc_impact_2020	P-0018753-T01-IM6	R216*
+crc_apc_impact_2020	P-0018760-T01-IM6	R564*
+crc_apc_impact_2020	P-0018837-T01-IM6	S1400*
+crc_apc_impact_2020	P-0018862-T01-IM6	Q1291*
+crc_apc_impact_2020	P-0019102-T01-IM6	R1114* Q1291*
+crc_apc_impact_2020	P-0019376-T01-IM6	R499*
+crc_apc_impact_2020	P-0019529-T01-IM6	S1389Cfs*5
+crc_apc_impact_2020	P-0019547-T01-IM6	Q1338Afs*4
+crc_apc_impact_2020	P-0019594-T01-IM6	Y935*
+crc_apc_impact_2020	P-0019626-T01-IM6	R554*
+crc_apc_impact_2020	P-0019637-T01-IM6	E1379* X471_splice
+crc_apc_impact_2020	P-0019685-T01-IM6	S1298Lfs*7
+crc_apc_impact_2020	P-0019737-T01-IM6	Y935*
+crc_apc_impact_2020	P-0019869-T01-IM6	R216* E1322*
+crc_apc_impact_2020	P-0020302-T01-IM6	R1114*
+crc_apc_impact_2020	P-0020461-T01-IM6	C599Hfs*2
+crc_apc_impact_2020	P-0020500-T01-IM6	R302* P1319Lfs*2
+crc_apc_impact_2020	P-0020739-T01-IM6	E1322*
+crc_apc_impact_2020	P-0020826-T01-IM6	Q1294*
+crc_apc_impact_2020	P-0020990-T01-IM6	R564*
+crc_apc_impact_2020	P-0021012-T01-IM6	K1333*
+crc_apc_impact_2020	P-0021033-T01-IM6	R499* K1199Efs*8
+crc_apc_impact_2020	P-0021397-T01-IM6	Q1338* R554*
+crc_apc_impact_2020	P-0021885-T01-IM6	Q1367* G1288Dfs*17
+crc_apc_impact_2020	P-0022095-T01-IM6	E1309Dfs*4 R303Gfs*2
+crc_apc_impact_2020	P-0022141-T01-IM6	E1397* Q1062Tfs*3
+crc_apc_impact_2020	P-0022150-T01-IM6	Q1291Pfs*7
+crc_apc_impact_2020	P-0022407-T01-IM6	Q1367*
+crc_apc_impact_2020	P-0022409-T01-IM6	R1114*
+crc_apc_impact_2020	P-0022537-T01-IM6	Q1367*
+crc_apc_impact_2020	P-0022790-T01-IM6	E1353Vfs*21
+crc_apc_impact_2020	P-0022814-T01-IM6	E984*
+crc_apc_impact_2020	P-0022917-T01-IM6	P173Lfs*2
+crc_apc_impact_2020	P-0023022-T01-IM6	E1309* R213*
+crc_apc_impact_2020	P-0023353-T01-IM6	R216*
+crc_apc_impact_2020	P-0023448-T01-IM6	E1286*
+crc_apc_impact_2020	P-0023776-T01-IM6	R216* W157*
+crc_apc_impact_2020	P-0000119-T01-IM3	E1097* T1438Yfs*35
+crc_apc_impact_2020	P-0000241-T01-IM3	S1465Wfs*3 D1134Efs*3 R2530W
+crc_apc_impact_2020	P-0000511-T01-IM3	T1556Nfs*3
+crc_apc_impact_2020	P-0000625-T01-IM3	T1556Nfs*3 E268* G637R
+crc_apc_impact_2020	P-0000635-T01-IM3	E1408*
+crc_apc_impact_2020	P-0000682-T01-IM3	Q1429* R856Nfs*6
+crc_apc_impact_2020	P-0000754-T01-IM3	P1427Qfs*40
+crc_apc_impact_2020	P-0000788-T01-IM3	E1521* Q541*
+crc_apc_impact_2020	P-0001150-T01-IM3	Y796Wfs*2 L1488Yfs*18
+crc_apc_impact_2020	P-0001227-T01-IM3	T1556Nfs*3
+crc_apc_impact_2020	P-0001295-T01-IM3	S1465Wfs*3 R405*
+crc_apc_impact_2020	P-0001316-T01-IM3	X582_splice I1580Ffs*70
+crc_apc_impact_2020	P-0001346-T01-IM3	E1540Kfs*22
+crc_apc_impact_2020	P-0001424-T02-IM3	T1556Nfs*3 R213Tfs*39
+crc_apc_impact_2020	P-0001734-T01-IM3	R876* R1450*
+crc_apc_impact_2020	P-0001754-T01-IM3	R1450* R854Efs*7
+crc_apc_impact_2020	P-0001769-T01-IM3	R1450* S906Ffs*6
+crc_apc_impact_2020	P-0001864-T01-IM3	R1450* S1276*
+crc_apc_impact_2020	P-0002025-T01-IM3	Q1444* E918Rfs*37
+crc_apc_impact_2020	P-0002068-T01-IM3	P1497Ffs*7 Y935*
+crc_apc_impact_2020	P-0002102-T01-IM3	I1056Mfs*5 A1460Lfs*13
+crc_apc_impact_2020	P-0002155-T01-IM3	A1402Cfs*7
+crc_apc_impact_2020	P-0002540-T01-IM3	S1465Wfs*3 S932*
+crc_apc_impact_2020	P-0002665-T01-IM3	R213* S1495Vfs*12
+crc_apc_impact_2020	P-0003183-T01-IM5	R213* N1455Ifs*18
+crc_apc_impact_2020	P-0003211-T01-IM5	R805* Q1429*
+crc_apc_impact_2020	P-0003298-T01-IM5	S1465Wfs*3 E1257*
+crc_apc_impact_2020	P-0003510-T01-IM5	R1450*
+crc_apc_impact_2020	P-0003839-T01-IM5	T1487Nfs*27
+crc_apc_impact_2020	P-0003890-T01-IM5	P1424Qfs*49
+crc_apc_impact_2020	P-0004172-T01-IM5	R499* G1499Dfs*8
+crc_apc_impact_2020	P-0004220-T01-IM5	R876* Q1444*
+crc_apc_impact_2020	P-0004403-T01-IM5	R1450*
+crc_apc_impact_2020	P-0004494-T01-IM5	R564* R1435Nfs*32
+crc_apc_impact_2020	P-0004549-T01-IM5	E1494Vfs*12
+crc_apc_impact_2020	P-0004566-T01-IM5	Q1469Mfs*34
+crc_apc_impact_2020	P-0004823-T01-IM5	R1450*
+crc_apc_impact_2020	P-0005003-T01-IM5	R1450* E763*
+crc_apc_impact_2020	P-0005011-T01-IM5	S1465Wfs*3
+crc_apc_impact_2020	P-0005103-T01-IM5	R1450* Q789*
+crc_apc_impact_2020	P-0005307-T01-IM5	A1492Cfs*22 S1068Gfs*57
+crc_apc_impact_2020	P-0005439-T01-IM5	R876* F1491Lfs*16
+crc_apc_impact_2020	P-0005865-T01-IM5	H1490Ffs*23 L749Ffs*12
+crc_apc_impact_2020	P-0005888-T01-IM5	R1450*
+crc_apc_impact_2020	P-0005908-T01-IM5	R1450* R216*
+crc_apc_impact_2020	P-0006110-T01-IM5	T1493Rfs*14 L1004Nfs*3
+crc_apc_impact_2020	P-0006138-T01-IM5	R1450*
+crc_apc_impact_2020	P-0006219-T01-IM5	Q1406*
+crc_apc_impact_2020	P-0006469-T01-IM5	R1450* R554*
+crc_apc_impact_2020	P-0006589-T01-IM5	Q541Tfs*19 I1418*
+crc_apc_impact_2020	P-0006669-T01-IM5	L1488Ffs*19 I1060Tfs*3
+crc_apc_impact_2020	P-0006758-T01-IM5	R213* K1456* K1454N
+crc_apc_impact_2020	P-0006888-T01-IM5	Q1193* S1581Ffs*70
+crc_apc_impact_2020	P-0006981-T01-IM5	Q1429*
+crc_apc_impact_2020	P-0007069-T01-IM5	Y935* N1531Mfs*34
+crc_apc_impact_2020	P-0007207-T01-IM5	Q1429*
+crc_apc_impact_2020	P-0007303-T01-IM5	T1556Nfs*3 Q879* D1022H
+crc_apc_impact_2020	P-0007377-T02-IM5	L1489Yfs*18 N436Kfs*8
+crc_apc_impact_2020	P-0007511-T01-IM5	R876* T1445Qfs*28
+crc_apc_impact_2020	P-0007602-T01-IM5	I1574Yfs*2
+crc_apc_impact_2020	P-0007990-T01-IM5	R876* R1450*
+crc_apc_impact_2020	P-0008133-T01-IM5	T1487Nfs*27
+crc_apc_impact_2020	P-0008467-T01-IM5	E1513Dfs*10 R657Sfs*18
+crc_apc_impact_2020	P-0008565-T01-IM5	Q1406* R302*
+crc_apc_impact_2020	P-0008724-T01-IM5	R1450*
+crc_apc_impact_2020	P-0008782-T01-IM5	R876* T1556Nfs*3
+crc_apc_impact_2020	P-0008841-T01-IM5	R213* T1493Rfs*14
+crc_apc_impact_2020	P-0009012-T01-IM5	S823Hfs*4 L1488Ffs*26
+crc_apc_impact_2020	P-0009016-T01-IM5	E1521*
+crc_apc_impact_2020	P-0009751-T01-IM5	S1495Vfs*12 G871Efs*45
+crc_apc_impact_2020	P-0009760-T01-IM5	E1540Afs*3
+crc_apc_impact_2020	P-0009905-T01-IM5	R1450*
+crc_apc_impact_2020	P-0010007-T01-IM5	S1465Rfs*9
+crc_apc_impact_2020	P-0010139-T01-IM5	N1455Kfs*2
+crc_apc_impact_2020	P-0011039-T01-IM5	R805* L1489Pfs*15
+crc_apc_impact_2020	P-0011131-T01-IM5	E1156* L1488Yfs*19
+crc_apc_impact_2020	P-0011287-T01-IM5	R876* R1450*
+crc_apc_impact_2020	P-0011380-T01-IM5	T1556Nfs*3
+crc_apc_impact_2020	P-0011384-T01-IM5	S1465Wfs*3
+crc_apc_impact_2020	P-0012366-T01-IM5	H1490Pfs*15 Q247Efs*4
+crc_apc_impact_2020	P-0012823-T02-IM5	R876* Q1406*
+crc_apc_impact_2020	P-0012912-T01-IM5	Q1429* R876Afs*36
+crc_apc_impact_2020	P-0013020-T01-IM5	S1465Wfs*3 P1043Ffs*4
+crc_apc_impact_2020	P-0013144-T01-IM5	R1450* S713*
+crc_apc_impact_2020	P-0013704-T01-IM5	R302* T1438Hfs*35
+crc_apc_impact_2020	P-0013760-T01-IM5	R876* T1487Yfs*18
+crc_apc_impact_2020	P-0013784-T01-IM5	S1465Wfs*3 R876*
+crc_apc_impact_2020	P-0014416-T01-IM6	L1488Yfs*19 R283*
+crc_apc_impact_2020	P-0014565-T01-IM6	I1417Lfs*2
+crc_apc_impact_2020	P-0014596-T01-IM6	R923* Q1447Sfs*24
+crc_apc_impact_2020	P-0014848-T01-IM6	N1455Ifs*18
+crc_apc_impact_2020	P-0014945-T02-IM6	S1213Cfs*54 E1577Dfs*73
+crc_apc_impact_2020	P-0015208-T01-IM6	R1450* A604Lfs*6
+crc_apc_impact_2020	P-0015730-T01-IM6	R1450* R302*
+crc_apc_impact_2020	P-0015735-T01-IM6	Q1429* G1094Dfs*32
+crc_apc_impact_2020	P-0015884-T01-IM6	E1209* Q1406*
+crc_apc_impact_2020	P-0016013-T01-IM6	R213* G1412*
+crc_apc_impact_2020	P-0016030-T01-IM6	Q188* S1495Kfs*19
+crc_apc_impact_2020	P-0016051-T01-IM6	R283* S1426Rfs*2
+crc_apc_impact_2020	P-0016487-T01-IM6	T1556Nfs*3 Q789*
+crc_apc_impact_2020	P-0016573-T01-IM6	D1422Gfs*45
+crc_apc_impact_2020	P-0016641-T01-IM6	D1519Mfs*4 M1525Rfs*8
+crc_apc_impact_2020	P-0016704-T01-IM6	R1450* S1355Lfs*60
+crc_apc_impact_2020	P-0016830-T01-IM6	E1149* Q1429Kfs*44
+crc_apc_impact_2020	P-0017249-T01-IM6	R283* R1450Qfs*23
+crc_apc_impact_2020	P-0017360-T01-IM6	R1450* S596*
+crc_apc_impact_2020	P-0017621-T01-IM5	Q1378* Q1935Vfs*13
+crc_apc_impact_2020	P-0017655-T01-IM5	R1450*
+crc_apc_impact_2020	P-0018392-T01-IM6	R1450*
+crc_apc_impact_2020	P-0018402-T01-IM6	R1450* R1273*
+crc_apc_impact_2020	P-0018410-T02-IM6	L1488Ffs*26
+crc_apc_impact_2020	P-0018438-T01-IM6	R1450* L592*
+crc_apc_impact_2020	P-0018831-T01-IM6	R1450* W421*
+crc_apc_impact_2020	P-0018846-T01-IM6	R554* L1423Pfs*3
+crc_apc_impact_2020	P-0019129-T01-IM6	A1492Cfs*22 Q767*
+crc_apc_impact_2020	P-0019372-T01-IM6	K1555* D1512N
+crc_apc_impact_2020	P-0019593-T01-IM6	S1415Kfs*8
+crc_apc_impact_2020	P-0019816-T01-IM6	R1450* K670*
+crc_apc_impact_2020	P-0019989-T01-IM6	S1407Rfs*15
+crc_apc_impact_2020	P-0020075-T01-IM6	T1487Ifs*25
+crc_apc_impact_2020	P-0020636-T01-IM6	V1414* R564*
+crc_apc_impact_2020	P-0021073-T01-IM6	R876* R1450*
+crc_apc_impact_2020	P-0021563-T01-IM6	S943* P1440Hfs*33
+crc_apc_impact_2020	P-0022090-T01-IM6	R405* C1502Ffs*6
+crc_apc_impact_2020	P-0022132-T01-IM6	R1114* T1556Lfs*9
+crc_apc_impact_2020	P-0022152-T01-IM6	I1580Ffs*70 P981Qfs*5
+crc_apc_impact_2020	P-0022243-T01-IM6	G1416Ifs*3
+crc_apc_impact_2020	P-0022555-T01-IM6	R1450* E1552Gfs*6
+crc_apc_impact_2020	P-0022614-T01-IM6	R1450* X279_splice
+crc_apc_impact_2020	P-0023526-T01-IM6	E1464Vfs*8 Q260*
+crc_apc_impact_2020	P-0000561-T01-IM3	S1465Rfs*9 E761*
+crc_apc_impact_2020	P-0000862-T01-IM3	WT
+crc_apc_impact_2020	P-0001470-T01-IM3	E1322*
+crc_apc_impact_2020	P-0001494-T01-IM3	WT
+crc_apc_impact_2020	P-0001649-T01-IM3	WT
+crc_apc_impact_2020	P-0001940-T01-IM3	X244_splice Y1166*
+crc_apc_impact_2020	P-0002455-T01-IM3	K1686Nfs*23
+crc_apc_impact_2020	P-0002463-T02-IM5	WT
+crc_apc_impact_2020	P-0002488-T01-IM3	E1322* Q1260Dfs*15
+crc_apc_impact_2020	P-0002671-T01-IM3	WT
+crc_apc_impact_2020	P-0003124-T01-IM5	T1493Rfs*14
+crc_apc_impact_2020	P-0004051-T01-IM5	WT
+crc_apc_impact_2020	P-0004486-T01-IM5	R876* S1501Lfs*6
+crc_apc_impact_2020	P-0004719-T01-IM5	WT
+crc_apc_impact_2020	P-0005151-T01-IM5	WT
+crc_apc_impact_2020	P-0005529-T01-IM5	WT
+crc_apc_impact_2020	P-0005853-T01-IM5	V1377Sfs*8
+crc_apc_impact_2020	P-0006093-T01-IM5	Y935*
+crc_apc_impact_2020	P-0006753-T01-IM5	R213* T1556Nfs*3
+crc_apc_impact_2020	P-0007997-T01-IM5	S1465Rfs*9 T1208Pfs*57
+crc_apc_impact_2020	P-0008746-T01-IM5	WT
+crc_apc_impact_2020	P-0008940-T01-IM5	WT
+crc_apc_impact_2020	P-0010343-T01-IM5	WT
+crc_apc_impact_2020	P-0010499-T01-IM5	R1114* R1920* S1196* G1851E
+crc_apc_impact_2020	P-0010581-T01-IM5	WT
+crc_apc_impact_2020	P-0010710-T01-IM5	S1465Wfs*3 T1556Lfs*9
+crc_apc_impact_2020	P-0011108-T01-IM5	L180*
+crc_apc_impact_2020	P-0012115-T01-IM5	WT
+crc_apc_impact_2020	P-0012249-T01-IM5	R2721H P1639S
+crc_apc_impact_2020	P-0012728-T01-IM5	WT
+crc_apc_impact_2020	P-0013156-T01-IM5	Q1328*
+crc_apc_impact_2020	P-0013462-T01-IM5	WT
+crc_apc_impact_2020	P-0013501-T01-IM5	WT
+crc_apc_impact_2020	P-0014258-T01-IM6	WT
+crc_apc_impact_2020	P-0016314-T01-IM6	WT
+crc_apc_impact_2020	P-0016938-T01-IM6	WT
+crc_apc_impact_2020	P-0017697-T01-IM6	R1835G
+crc_apc_impact_2020	P-0019428-T01-IM6	WT
+crc_apc_impact_2020	P-0019949-T01-IM6	R499* R216*
+crc_apc_impact_2020	P-0020399-T01-IM6	K561Rfs*9
+crc_apc_impact_2020	P-0020573-T01-IM6	WT
+crc_apc_impact_2020	P-0001104-T05-IM3	WT
+crc_apc_impact_2020	P-0001867-T01-IM3	D694N
+crc_apc_impact_2020	P-0007548-T01-IM5	R2166Q
+crc_apc_impact_2020	P-0008651-T01-IM5	T1556Nfs*3 Y935* L318Ffs*9
+crc_apc_impact_2020	P-0010342-T01-IM5	S932* H791Qfs*7 L235Yfs*58
+crc_apc_impact_2020	P-0010432-T01-IM5	WT
+crc_apc_impact_2020	P-0010742-T01-IM5	E1309Dfs*4
+crc_apc_impact_2020	P-0013300-T01-IM5	E1891K
+crc_apc_impact_2020	P-0013594-T01-IM5	S1407_P1639del
+crc_apc_impact_2020	P-0013828-T01-IM5	R1450* R232*
+crc_apc_impact_2020	P-0016235-T01-IM6	T1556Nfs*3 R382Sfs*16 K993Vfs*9
+crc_apc_impact_2020	P-0017807-T01-IM6	E1322*
+crc_apc_impact_2020	P-0017827-T01-IM6	R1450* R302* S1389Cfs*5
+crc_apc_impact_2020	P-0018448-T01-IM6	E1573*
+crc_apc_impact_2020	P-0019100-T01-IM6	WT
+crc_apc_impact_2020	P-0023109-T01-IM6	E1552Gfs*6 R332*
+crc_apc_impact_2020	P-0000616-T01-IM3	WT
+crc_apc_impact_2020	P-0000703-T01-IM3	WT
+crc_apc_impact_2020	P-0000757-T01-IM3	WT
+crc_apc_impact_2020	P-0000979-T01-IM3	WT
+crc_apc_impact_2020	P-0000997-T02-IM3	WT
+crc_apc_impact_2020	P-0001151-T01-IM3	WT
+crc_apc_impact_2020	P-0001317-T01-IM3	WT
+crc_apc_impact_2020	P-0001662-T01-IM3	WT
+crc_apc_impact_2020	P-0001729-T01-IM3	WT
+crc_apc_impact_2020	P-0002323-T01-IM3	WT
+crc_apc_impact_2020	P-0002327-T01-IM3	WT
+crc_apc_impact_2020	P-0002339-T01-IM3	WT
+crc_apc_impact_2020	P-0002395-T01-IM3	WT
+crc_apc_impact_2020	P-0002512-T02-IM5	WT
+crc_apc_impact_2020	P-0002542-T01-IM3	WT
+crc_apc_impact_2020	P-0002653-T01-IM3	WT
+crc_apc_impact_2020	P-0002884-T01-IM3	WT
+crc_apc_impact_2020	P-0002960-T01-IM3	WT
+crc_apc_impact_2020	P-0003184-T01-IM5	WT
+crc_apc_impact_2020	P-0003483-T01-IM5	WT
+crc_apc_impact_2020	P-0003501-T01-IM5	WT
+crc_apc_impact_2020	P-0003514-T01-IM5	WT
+crc_apc_impact_2020	P-0003611-T01-IM5	WT
+crc_apc_impact_2020	P-0003774-T01-IM5	WT
+crc_apc_impact_2020	P-0004072-T01-IM5	WT
+crc_apc_impact_2020	P-0004626-T01-IM5	WT
+crc_apc_impact_2020	P-0004795-T01-IM5	WT
+crc_apc_impact_2020	P-0005102-T01-IM5	WT
+crc_apc_impact_2020	P-0005446-T01-IM5	WT
+crc_apc_impact_2020	P-0005569-T01-IM5	WT
+crc_apc_impact_2020	P-0005622-T03-IM5	WT
+crc_apc_impact_2020	P-0005788-T01-IM5	WT
+crc_apc_impact_2020	P-0005961-T01-IM5	WT
+crc_apc_impact_2020	P-0005996-T01-IM5	WT
+crc_apc_impact_2020	P-0006050-T01-IM5	WT
+crc_apc_impact_2020	P-0006272-T01-IM5	WT
+crc_apc_impact_2020	P-0006405-T01-IM5	WT
+crc_apc_impact_2020	P-0006460-T01-IM5	WT
+crc_apc_impact_2020	P-0006636-T01-IM5	WT
+crc_apc_impact_2020	P-0006730-T01-IM5	WT
+crc_apc_impact_2020	P-0006825-T01-IM5	WT
+crc_apc_impact_2020	P-0006860-T01-IM5	WT
+crc_apc_impact_2020	P-0006890-T01-IM5	WT
+crc_apc_impact_2020	P-0007342-T01-IM5	WT
+crc_apc_impact_2020	P-0007414-T01-IM5	WT
+crc_apc_impact_2020	P-0007600-T01-IM5	WT
+crc_apc_impact_2020	P-0007698-T01-IM5	WT
+crc_apc_impact_2020	P-0007975-T01-IM5	WT
+crc_apc_impact_2020	P-0007979-T01-IM5	WT
+crc_apc_impact_2020	P-0007999-T01-IM5	WT
+crc_apc_impact_2020	P-0008283-T01-IM5	WT
+crc_apc_impact_2020	P-0008350-T02-IM5	WT
+crc_apc_impact_2020	P-0008579-T01-IM5	WT
+crc_apc_impact_2020	P-0008747-T01-IM5	WT
+crc_apc_impact_2020	P-0008868-T01-IM5	WT
+crc_apc_impact_2020	P-0009013-T02-IM5	WT
+crc_apc_impact_2020	P-0009059-T01-IM5	WT
+crc_apc_impact_2020	P-0009167-T01-IM5	WT
+crc_apc_impact_2020	P-0009200-T01-IM5	WT
+crc_apc_impact_2020	P-0009252-T01-IM5	WT
+crc_apc_impact_2020	P-0009355-T01-IM5	WT
+crc_apc_impact_2020	P-0009561-T01-IM5	WT
+crc_apc_impact_2020	P-0009703-T01-IM5	WT
+crc_apc_impact_2020	P-0009757-T01-IM5	WT
+crc_apc_impact_2020	P-0009863-T01-IM5	WT
+crc_apc_impact_2020	P-0010118-T01-IM5	WT
+crc_apc_impact_2020	P-0010350-T01-IM5	WT
+crc_apc_impact_2020	P-0010781-T01-IM5	WT
+crc_apc_impact_2020	P-0010932-T01-IM5	WT
+crc_apc_impact_2020	P-0011291-T01-IM5	WT
+crc_apc_impact_2020	P-0011563-T01-IM5	WT
+crc_apc_impact_2020	P-0012133-T01-IM5	WT
+crc_apc_impact_2020	P-0012389-T01-IM5	WT
+crc_apc_impact_2020	P-0012653-T02-IM5	WT
+crc_apc_impact_2020	P-0012683-T01-IM5	WT
+crc_apc_impact_2020	P-0012723-T01-IM5	WT
+crc_apc_impact_2020	P-0012738-T01-IM5	WT
+crc_apc_impact_2020	P-0012747-T01-IM5	WT
+crc_apc_impact_2020	P-0012779-T01-IM5	WT
+crc_apc_impact_2020	P-0012781-T01-IM5	WT
+crc_apc_impact_2020	P-0013461-T01-IM5	WT
+crc_apc_impact_2020	P-0013551-T01-IM5	WT
+crc_apc_impact_2020	P-0014499-T02-IM6	WT
+crc_apc_impact_2020	P-0014754-T01-IM6	WT
+crc_apc_impact_2020	P-0015146-T01-IM6	WT
+crc_apc_impact_2020	P-0015221-T01-IM6	WT
+crc_apc_impact_2020	P-0015366-T01-IM6	WT
+crc_apc_impact_2020	P-0015518-T01-IM6	WT
+crc_apc_impact_2020	P-0015642-T01-IM6	WT
+crc_apc_impact_2020	P-0015711-T01-IM6	WT
+crc_apc_impact_2020	P-0015783-T01-IM6	WT
+crc_apc_impact_2020	P-0015946-T01-IM6	WT
+crc_apc_impact_2020	P-0016044-T01-IM6	WT
+crc_apc_impact_2020	P-0016111-T01-IM6	WT
+crc_apc_impact_2020	P-0017051-T01-IM6	WT
+crc_apc_impact_2020	P-0017510-T01-IM6	WT
+crc_apc_impact_2020	P-0017589-T01-IM5	WT
+crc_apc_impact_2020	P-0018084-T01-IM6	WT
+crc_apc_impact_2020	P-0018306-T01-IM6	WT
+crc_apc_impact_2020	P-0018603-T01-IM6	WT
+crc_apc_impact_2020	P-0018880-T01-IM6	WT
+crc_apc_impact_2020	P-0019021-T01-IM6	WT
+crc_apc_impact_2020	P-0019699-T01-IM6	WT
+crc_apc_impact_2020	P-0019880-T01-IM6	WT
+crc_apc_impact_2020	P-0019958-T01-IM6	WT
+crc_apc_impact_2020	P-0019960-T01-IM6	WT
+crc_apc_impact_2020	P-0019964-T01-IM6	WT
+crc_apc_impact_2020	P-0020234-T01-IM6	WT
+crc_apc_impact_2020	P-0020263-T01-IM6	WT
+crc_apc_impact_2020	P-0020306-T01-IM6	WT
+crc_apc_impact_2020	P-0020343-T01-IM6	WT
+crc_apc_impact_2020	P-0020578-T01-IM6	WT
+crc_apc_impact_2020	P-0020837-T01-IM6	WT
+crc_apc_impact_2020	P-0020878-T01-IM6	WT
+crc_apc_impact_2020	P-0021351-T01-IM6	WT
+crc_apc_impact_2020	P-0022329-T01-IM6	WT
+crc_apc_impact_2020	P-0022945-T01-IM6	WT
+crc_apc_impact_2020	P-0023517-T01-IM6	WT
+crc_apc_impact_2020	P-0023751-T01-IM6	WT
+crc_apc_impact_2020	P-0023974-T01-IM6	WT
+crc_nigerian_2020	s_PK_crc_021_T	WT
+crc_nigerian_2020	s_PK_crc_023_T	N2708D
+crc_nigerian_2020	s_PK_crc_024_T	WT
+crc_nigerian_2020	s_PK_crc_025_T	S1465Wfs*3 K1182Nfs*83
+crc_nigerian_2020	s_PK_crc_026_T	WT
+crc_nigerian_2020	s_PK_crc_027_T	C207Lfs*45 S1415Vfs*4 S1415G
+crc_nigerian_2020	s_PK_crc_028_T	WT
+crc_nigerian_2020	s_PK_crc_029_T	T1556Nfs*3
+crc_nigerian_2020	s_PK_crc_030_T	T1556Nfs*3
+crc_nigerian_2020	s_PK_crc_075_T	WT
+crc_nigerian_2020	s_PK_crc_076_T	R216*
+crc_nigerian_2020	s_PK_crc_077_T	WT
+crc_nigerian_2020	s_PK_crc_078_T	E1309Dfs*4
+crc_nigerian_2020	s_PK_crc_079_T	R876* A1296Vfs*3
+crc_nigerian_2020	s_PK_crc_080_T	WT
+crc_nigerian_2020	s_PK_crc_081_T	WT
+crc_nigerian_2020	s_PK_crc_082_T	A759Pfs*2
+crc_nigerian_2020	s_PK_crc_083_T	E1577*
+crc_nigerian_2020	s_PK_crc_084_T	R554* S1465Rfs*9
+crc_nigerian_2020	s_PK_crc_085_T	WT
+crc_nigerian_2020	s_PK_crc_086_T	R332* E1554*
+crc_nigerian_2020	s_PK_crc_087_T	F1491Lfs*16 E696* A1492G
+crc_nigerian_2020	s_PK_crc_088_T	WT
+crc_nigerian_2020	s_PK_crc_089_T	E225*
+crc_nigerian_2020	s_PK_crc_090_T	WT
+crc_nigerian_2020	s_PK_crc_091_T	WT
+crc_nigerian_2020	s_PK_crc_092_T	WT
+crc_nigerian_2020	s_PK_crc_093_T	S1465Rfs*9
+crc_nigerian_2020	s_PK_crc_095_T	WT
+crc_nigerian_2020	s_PK_crc_096_T	T1556Nfs*3
+crc_nigerian_2020	s_PK_crc_097_T	WT
+crc_nigerian_2020	s_PK_crc_099_T	K1454*
+crc_nigerian_2020	s_PK_crc_100_T	R554* T1556Lfs*9
+crc_nigerian_2020	s_PK_crc_101_T	WT
+crc_nigerian_2020	s_PK_crc_102_T	WT
+crc_nigerian_2020	s_PK_crc_103_T	WT
+crc_nigerian_2020	s_PK_crc_104_T	WT
+crc_nigerian_2020	s_PK_crc_105_T	WT
+crc_nigerian_2020	s_PK_crc_106_T	S1465Wfs*3 R332* P1993Lfs*51
+crc_nigerian_2020	s_PK_crc_107_T	WT
+crc_nigerian_2020	s_PK_crc_108_T	WT
+crc_nigerian_2020	s_PK_crc_111_T	WT
+crc_nigerian_2020	s_PK_crc_112_T	T1556Nfs*3 L548Ffs*12
+crc_nigerian_2020	s_PK_crc_113_T	WT
+crc_nigerian_2020	s_PK_crc_114_T	E1306* L1564*
+crc_nigerian_2020	s_PK_crc_115_T	WT
+crc_nigerian_2020	s_PK_crc_116_T	E1309Dfs*4
+crc_nigerian_2020	s_PK_crc_117_T	WT
+crc_nigerian_2020	s_PK_crc_119_T	W699*
+crc_nigerian_2020	s_PK_crc_120_T	D1486Ifs*21
+crc_nigerian_2020	s_PK_crc_121_T	WT
+crc_nigerian_2020	s_PK_crc_123_T	WT
+crc_nigerian_2020	s_PK_crc_124_T	WT
+crc_nigerian_2020	s_PK_crc_125_T	WT
+crc_nigerian_2020	s_PK_crc_126_T	WT
+crc_nigerian_2020	s_PK_crc_127_T	W1049*
+crc_nigerian_2020	s_PK_crc_128_T	WT
+crc_nigerian_2020	s_PK_crc_132_T	WT
+crc_nigerian_2020	s_PK_crc_133_T	S299Cfs*27
+crc_nigerian_2020	s_PK_crc_134_T	K581Rfs*9 S1272Ffs*4
+crc_nigerian_2020	s_PK_crc_135_T	WT
+crc_nigerian_2020	s_PK_crc_136_T	WT
+crc_nigerian_2020	s_PK_crc_137_T	Q1480* S1028N
+crc_nigerian_2020	s_PK_crc_138_T	WT
+rectal_msk_2019	RC-MSK-001-pt	R499* T1487Lfs*16
+rectal_msk_2019	RC-MSK-001-tm	R499* T1487Lfs*16
+rectal_msk_2019	RC-MSK-001PR-pt	R499* T1487Lfs*16
+rectal_msk_2019	RC-MSK-001PR-tm	R499* T1487Lfs*16
+rectal_msk_2019	RC-MSK-002-pt	R1450* Y622*
+rectal_msk_2019	RC-MSK-002-tm	R1450*
+rectal_msk_2019	RC-MSK-003-pt	T1332Nfs*10
+rectal_msk_2019	RC-MSK-003-tm	T1332Nfs*10
+rectal_msk_2019	RC-MSK-004-pt	E1306*
+rectal_msk_2019	RC-MSK-004-tm	E1306*
+rectal_msk_2019	RC-MSK-006-pt	Q1429* Q1237Efs*2
+rectal_msk_2019	RC-MSK-006-tm	Q1429* Q1237Efs*2
+rectal_msk_2019	RC-MSK-007-pt	D849Efs*11 E1494Kfs*13
+rectal_msk_2019	RC-MSK-007-tm	D849Efs*11 E1494Kfs*13 S2768Tfs*14
+rectal_msk_2019	RC-MSK-008-pt	X582_splice S1398Ifs*20
+rectal_msk_2019	RC-MSK-008-tm	X582_splice S1398Ifs*20
+rectal_msk_2019	RC-MSK-009-pt	Q1071*
+rectal_msk_2019	RC-MSK-009-tm	Q1071*
+rectal_msk_2019	RC-MSK-012-pt	WT
+rectal_msk_2019	RC-MSK-012-tm	WT
+rectal_msk_2019	RC-MSK-012RC-pt	WT
+rectal_msk_2019	RC-MSK-012RC-tm	S142T
+rectal_msk_2019	RC-MSK-012SP-pt	WT
+rectal_msk_2019	RC-MSK-012SP-tm	WT
+rectal_msk_2019	RC-MSK-012VR-tm	WT
+rectal_msk_2019	RC-MSK-013-pt	Q1328* Q236*
+rectal_msk_2019	RC-MSK-013-tm	Q1328* Q236*
+rectal_msk_2019	RC-MSK-022-pt	Q1378* R554*
+rectal_msk_2019	RC-MSK-022-tm	Q1378* R554*
+rectal_msk_2019	RC-MSK-022MC-tm	Q1378* R554*
+rectal_msk_2019	RC-MSK-022PC-tm	Q1378* R554*
+rectal_msk_2019	RC-MSK-022TNT-tm	Q1378* R554*
+rectal_msk_2019	RC-MSK-023-pt	V1320Efs*11
+rectal_msk_2019	RC-MSK-023-tm	V1320Efs*11
+rectal_msk_2019	RC-MSK-025-pt	S1426Ifs*48
+rectal_msk_2019	RC-MSK-025-tm	S1426Ifs*48
+rectal_msk_2019	RC-MSK-025TNT-P2m-tm	S1426Ifs*48
+rectal_msk_2019	RC-MSK-025TNT-P7m-tm	S1426Ifs*48
+rectal_msk_2019	RC-MSK-025TNT-P9m-tm	S1426Ifs*48
+rectal_msk_2019	RC-MSK-027-pt	P1319Lfs*2
+rectal_msk_2019	RC-MSK-027-tm	P1319Lfs*2
+rectal_msk_2019	RC-MSK-028-pt	X438_splice M1383Vfs*2
+rectal_msk_2019	RC-MSK-028-tm	X438_splice M1383Vfs*2
+rectal_msk_2019	RC-MSK-029-pt	WT
+rectal_msk_2019	RC-MSK-029-tm	WT
+rectal_msk_2019	RC-MSK-031-pt	P1634L R213Q R2237Q P2681L
+rectal_msk_2019	RC-MSK-031-tm	R213Q P2681L
+rectal_msk_2019	RC-MSK-034-tm	S1465Rfs*9 E991*
+rectal_msk_2019	RC-MSK-034MP-tm	E991*
+rectal_msk_2019	RC-MSK-037-pt	E1397*
+rectal_msk_2019	RC-MSK-037-tm	E1397*
+rectal_msk_2019	RC-MSK-038-tm	S1201*
+rectal_msk_2019	P-0000674-T01-IM3	R564* E1397*
+rectal_msk_2019	P-0000757-T01-IM3	WT
+rectal_msk_2019	P-0000772-T01-IM3	S1276* R1435Kfs*38
+rectal_msk_2019	P-0000827-T01-IM3	WT
+rectal_msk_2019	P-0000860-T01-IM3	I1307Nfs*8
+rectal_msk_2019	P-0000869-T01-IM3	WT
+rectal_msk_2019	P-0000915-T01-IM3	WT
+rectal_msk_2019	P-0000982-T01-IM3	E1353*
+rectal_msk_2019	P-0000982-T02-IM5	E1353*
+rectal_msk_2019	P-0001017-T01-IM3	L592*
+rectal_msk_2019	P-0001079-T01-IM3	R216* A1296Qfs*9
+rectal_msk_2019	P-0001200-T01-IM3	S1415Rfs*4 E1151*
+rectal_msk_2019	P-0001287-T01-IM3	E1309* R213*
+rectal_msk_2019	P-0001318-T01-IM3	C1270*
+rectal_msk_2019	P-0001499-T01-IM3	E1397*
+rectal_msk_2019	P-0001500-T02-IM5	R499* T1487Lfs*16
+rectal_msk_2019	P-0001500-T03-IM5	R499* T1487Lfs*16
+rectal_msk_2019	P-0001500-T04-IM5	R499* T1487Lfs*16
+rectal_msk_2019	P-0001525-T01-IM3	WT
+rectal_msk_2019	P-0001577-T01-IM3	K534*
+rectal_msk_2019	P-0001647-T01-IM3	E1408* K1030*
+rectal_msk_2019	P-0001662-T01-IM3	WT
+rectal_msk_2019	P-0001685-T01-IM3	R232* Q1935Sfs*35 M438I
+rectal_msk_2019	P-0001690-T01-IM3	R216* E1374*
+rectal_msk_2019	P-0001742-T01-IM3	I1307Nfs*8
+rectal_msk_2019	P-0001807-T01-IM3	R1114* S1298Lfs*7 V1641M
+rectal_msk_2019	P-0001864-T01-IM3	R1450* S1276*
+rectal_msk_2019	P-0001913-T01-IM3	Q1338*
+rectal_msk_2019	P-0001949-T01-IM3	WT
+rectal_msk_2019	P-0002155-T01-IM3	A1402Cfs*7
+rectal_msk_2019	P-0002251-T01-IM3	E1345* R838* H1349Y
+rectal_msk_2019	P-0002488-T01-IM3	E1322* Q1260Dfs*15
+rectal_msk_2019	P-0002512-T02-IM5	WT
+rectal_msk_2019	P-0002540-T01-IM3	S1465Wfs*3 S932*
+rectal_msk_2019	P-0002563-T01-IM3	Q1338* L1342Yfs*73
+rectal_msk_2019	P-0002565-T01-IM3	N1455Ifs*18
+rectal_msk_2019	P-0002670-T01-IM3	E1309* E1111Gfs*15 R2505Q
+rectal_msk_2019	P-0002721-T01-IM3	R283* S1315*
+rectal_msk_2019	P-0002770-T01-IM3	R216*
+rectal_msk_2019	P-0002814-T01-IM3	WT
+rectal_msk_2019	P-0002852-T01-IM3	R216* Y1376Cfs*9
+rectal_msk_2019	P-0002960-T01-IM3	WT
+rectal_msk_2019	P-0002994-T01-IM3	A1296Qfs*9 Y935Ifs*19
+rectal_msk_2019	P-0003077-T01-IM5	F937Sfs*18
+rectal_msk_2019	P-0003130-T01-IM5	R876* S1392*
+rectal_msk_2019	P-0003154-T01-IM5	S1355Ffs*19
+rectal_msk_2019	P-0003184-T01-IM5	WT
+rectal_msk_2019	P-0003258-T01-IM5	WT
+rectal_msk_2019	P-0003285-T01-IM5	Y935* A1492Sfs*22
+rectal_msk_2019	P-0003301-T01-IM5	G1357*
+rectal_msk_2019	P-0003365-T01-IM5	WT
+rectal_msk_2019	P-0003397-T01-IM5	S1276*
+rectal_msk_2019	P-0003475-T01-IM5	F1491Lfs*16 R302*
+rectal_msk_2019	P-0003483-T01-IM5	WT
+rectal_msk_2019	P-0003513-T01-IM5	Q1378* R283*
+rectal_msk_2019	P-0003710-T01-IM5	WT
+rectal_msk_2019	P-0003753-T01-IM5	E1309* R554*
+rectal_msk_2019	P-0003755-T01-IM5	R805* G1312Efs*9
+rectal_msk_2019	P-0003756-T01-IM5	T1556Nfs*3
+rectal_msk_2019	P-0003791-T01-IM5	E984* R1331*
+rectal_msk_2019	P-0003886-T01-IM5	R876*
+rectal_msk_2019	P-0004018-T01-IM3	E1306* R876*
+rectal_msk_2019	P-0004072-T01-IM5	WT
+rectal_msk_2019	P-0004081-T01-IM5	P1319Lfs*2
+rectal_msk_2019	P-0004159-T01-IM5	R216*
+rectal_msk_2019	P-0004322-T01-IM5	WT
+rectal_msk_2019	P-0004401-T02-IM6	WT
+rectal_msk_2019	P-0004403-T01-IM5	R1450*
+rectal_msk_2019	P-0004431-T01-IM5	R302* D1318Ifs*3
+rectal_msk_2019	P-0004486-T01-IM5	R876* S1501Lfs*6
+rectal_msk_2019	P-0004652-T01-IM5	S1392*
+rectal_msk_2019	P-0004679-T01-IM5	Q1367*
+rectal_msk_2019	P-0004783-T01-IM5	R876* Q1429*
+rectal_msk_2019	P-0004844-T01-IM5	E1309Dfs*4 X278_splice
+rectal_msk_2019	P-0004904-T01-IM5	Q1378*
+rectal_msk_2019	P-0004928-T01-IM5	E1397Gfs*18
+rectal_msk_2019	P-0004960-T01-IM5	T1556Nfs*3 Y1135*
+rectal_msk_2019	P-0005029-T01-IM5	E1317*
+rectal_msk_2019	P-0005091-T01-IM5	Y737*
+rectal_msk_2019	P-0005124-T01-IM5	S1415Rfs*4
+rectal_msk_2019	P-0005207-T01-IM5	R876* R1450*
+rectal_msk_2019	P-0005210-T01-IM5	T1556Nfs*3 D849Rfs*2
+rectal_msk_2019	P-0005327-T01-IM5	WT
+rectal_msk_2019	P-0005343-T01-IM5	WT
+rectal_msk_2019	P-0005381-T01-IM5	E1309Dfs*4 K1182*
+rectal_msk_2019	P-0005522-T01-IM5	M1383Vfs*2
+rectal_msk_2019	P-0005589-T01-IM5	R876* P1453Lfs*20
+rectal_msk_2019	P-0005591-T01-IM5	WT
+rectal_msk_2019	P-0005739-T02-IM5	S1028Ifs*9
+rectal_msk_2019	P-0005824-T01-IM5	R876* E1577* F1805L S1971Y R2439C R1171C S982L L687I S1223Y Q2742R N2743K
+rectal_msk_2019	P-0006075-T01-IM5	R232* R216*
+rectal_msk_2019	P-0006136-T01-IM5	N627Lfs*2
+rectal_msk_2019	P-0006181-T01-IM5	F1396Lfs*19
+rectal_msk_2019	P-0006184-T01-IM5	WT
+rectal_msk_2019	P-0006225-T01-IM5	R1435Kfs*38
+rectal_msk_2019	P-0006230-T01-IM5	R216* P1442Sfs*15
+rectal_msk_2019	P-0006261-T01-IM5	Q1406*
+rectal_msk_2019	P-0006287-T01-IM5	WT
+rectal_msk_2019	P-0006329-T01-IM5	Q1035* S254*
+rectal_msk_2019	P-0006394-T01-IM5	R1399Ffs*9 L629Sfs*4
+rectal_msk_2019	P-0006460-T01-IM5	WT
+rectal_msk_2019	P-0006512-T01-IM5	R283* E1309Dfs*4
+rectal_msk_2019	P-0006548-T01-IM5	R2237* R332* N1531Kfs*2
+rectal_msk_2019	P-0006636-T01-IM5	WT
+rectal_msk_2019	P-0006669-T01-IM5	L1488Ffs*19 I1060Tfs*3
+rectal_msk_2019	P-0006685-T01-IM5	E1306* H1232Pfs*8
+rectal_msk_2019	P-0006701-T01-IM5	R302* Q1367*
+rectal_msk_2019	P-0006721-T01-IM5	S1403Afs*12
+rectal_msk_2019	P-0006737-T01-IM5	D1486Ifs*21 T1185Qfs*80
+rectal_msk_2019	P-0006763-T01-IM5	WT
+rectal_msk_2019	P-0006816-T01-IM5	R283* E1353*
+rectal_msk_2019	P-0006853-T01-IM5	Q1367*
+rectal_msk_2019	P-0006860-T01-IM5	WT
+rectal_msk_2019	P-0006983-T01-IM5	R1314Sfs*7
+rectal_msk_2019	P-0007036-T01-IM5	P1319Lfs*2
+rectal_msk_2019	P-0007079-T01-IM5	R213* E1379Gfs*7
+rectal_msk_2019	P-0007085-T02-IM5	R213* T1487Nfs*27
+rectal_msk_2019	P-0007092-T01-IM5	R216* K1165*
+rectal_msk_2019	P-0007112-T01-IM5	R232* E1353*
+rectal_msk_2019	P-0007162-T01-IM5	R1114* Q1406*
+rectal_msk_2019	P-0007168-T01-IM5	N728Kfs*6
+rectal_msk_2019	P-0007171-T01-IM5	WT
+rectal_msk_2019	P-0007315-T01-IM5	Q1175*
+rectal_msk_2019	P-0007334-T01-IM5	R414Tfs*5
+rectal_msk_2019	P-0007357-T01-IM5	R876*
+rectal_msk_2019	P-0007365-T01-IM5	WT
+rectal_msk_2019	P-0007377-T02-IM5	L1489Yfs*18 N436Kfs*8
+rectal_msk_2019	P-0007410-T01-IM5	Q663*
+rectal_msk_2019	P-0007414-T01-IM5	WT
+rectal_msk_2019	P-0007495-T01-IM5	Q1367*
+rectal_msk_2019	P-0007555-T01-IM5	WT
+rectal_msk_2019	P-0007590-T01-IM5	R554*
+rectal_msk_2019	P-0007637-T01-IM5	WT
+rectal_msk_2019	P-0007645-T01-IM5	Q1303*
+rectal_msk_2019	P-0007657-T01-IM5	R876*
+rectal_msk_2019	P-0007664-T01-IM5	Q1303*
+rectal_msk_2019	P-0007746-T01-IM5	WT
+rectal_msk_2019	P-0007869-T01-IM5	T1388Qfs*4
+rectal_msk_2019	P-0007975-T01-IM5	WT
+rectal_msk_2019	P-0007979-T01-IM5	WT
+rectal_msk_2019	P-0007996-T01-IM5	E1353Vfs*20
+rectal_msk_2019	P-0008031-T01-IM5	Q1406* K1192*
+rectal_msk_2019	P-0008068-T01-IM5	R232*
+rectal_msk_2019	P-0008095-T01-IM5	Q1303* E578* P1639S
+rectal_msk_2019	P-0008141-T01-IM5	E1353*
+rectal_msk_2019	P-0008159-T01-IM5	V1099Ffs*19
+rectal_msk_2019	P-0008173-T01-IM5	I1307Nfs*8
+rectal_msk_2019	P-0008226-T02-IM5	R805* T1556Nfs*3
+rectal_msk_2019	P-0008259-T01-IM5	E1322*
+rectal_msk_2019	P-0008267-T01-IM5	R876* S1346*
+rectal_msk_2019	P-0008288-T01-IM5	L1488Ffs*19
+rectal_msk_2019	P-0008308-T01-IM5	R232* E1309Rfs*11
+rectal_msk_2019	P-0008317-T01-IM5	R232* R216* L2144Gfs*9
+rectal_msk_2019	P-0008357-T01-IM5	R499* I1287*
+rectal_msk_2019	P-0008521-T01-IM5	E1397* C1249Wfs*7
+rectal_msk_2019	P-0008541-T01-IM5	P1319Lfs*2
+rectal_msk_2019	P-0008565-T01-IM5	Q1406* R302*
+rectal_msk_2019	P-0008579-T01-IM5	WT
+rectal_msk_2019	P-0008588-T01-IM5	V890Sfs*26
+rectal_msk_2019	P-0008652-T01-IM5	R216* K1182*
+rectal_msk_2019	P-0008662-T01-IM5	WT
+rectal_msk_2019	P-0008671-T01-IM5	S1465Wfs*3
+rectal_msk_2019	P-0008727-T01-IM5	R554* L1488Ffs*19
+rectal_msk_2019	P-0008782-T01-IM5	R876* T1556Nfs*3
+rectal_msk_2019	P-0008819-T01-IM5	WT
+rectal_msk_2019	P-0008841-T01-IM5	R213* T1493Rfs*14
+rectal_msk_2019	P-0008941-T01-IM5	WT
+rectal_msk_2019	P-0009000-T01-IM5	Q1367*
+rectal_msk_2019	P-0009012-T01-IM5	S823Hfs*4 L1488Ffs*26
+rectal_msk_2019	P-0009013-T01-IM5	WT
+rectal_msk_2019	P-0009013-T02-IM5	WT
+rectal_msk_2019	P-0009062-T01-IM5	E1306*
+rectal_msk_2019	P-0009139-T01-IM5	K534*
+rectal_msk_2019	P-0009170-T01-IM5	T1556Nfs*3
+rectal_msk_2019	P-0009185-T01-IM5	T1332Nfs*10
+rectal_msk_2019	P-0009362-T01-IM5	R213* Q1338*
+rectal_msk_2019	P-0009445-T01-IM5	G1357*
+rectal_msk_2019	P-0009488-T01-IM5	S1072Rfs*11
+rectal_msk_2019	P-0009488-T02-IM6	S1072Rfs*11
+rectal_msk_2019	P-0009690-T01-IM5	E1306* R216*
+rectal_msk_2019	P-0009703-T01-IM5	WT
+rectal_msk_2019	P-0009826-T01-IM5	I1311Mfs*10
+rectal_msk_2019	P-0009850-T01-IM5	R283* E1309Dfs*4
+rectal_msk_2019	P-0009971-T01-IM5	S1315* F773Lfs*4 A146V
+rectal_msk_2019	P-0010044-T01-IM5	WT
+rectal_msk_2019	P-0010138-T01-IM5	R216* E1309Dfs*4
+rectal_msk_2019	P-0010203-T01-IM5	Y935* E1397*
+rectal_msk_2019	P-0010275-T01-IM5	R499* V452Sfs*7
+rectal_msk_2019	P-0010330-T01-IM5	E1309* R216*
+rectal_msk_2019	P-0010364-T01-IM5	S1032*
+rectal_msk_2019	P-0010365-T01-IM5	R1114*
+rectal_msk_2019	P-0010407-T01-IM5	P1319Lfs*2
+rectal_msk_2019	P-0010425-T01-IM5	E1322*
+rectal_msk_2019	P-0010432-T01-IM5	WT
+rectal_msk_2019	P-0010506-T01-IM5	R283*
+rectal_msk_2019	P-0010513-T01-IM5	Q195*
+rectal_msk_2019	P-0010535-T01-IM5	P1319Lfs*2 S1276Tfs*6
+rectal_msk_2019	P-0010555-T02-IM5	R876* L1488*
+rectal_msk_2019	P-0010751-T01-IM5	Q1294* R216*
+rectal_msk_2019	P-0010832-T01-IM5	K365N
+rectal_msk_2019	P-0010861-T01-IM5	WT
+rectal_msk_2019	P-0010932-T01-IM5	WT
+rectal_msk_2019	P-0010965-T01-IM5	D849Efs*11 E1494Kfs*13
+rectal_msk_2019	P-0011074-T01-IM5	S895*
+rectal_msk_2019	P-0011195-T01-IM5	R564* E1353*
+rectal_msk_2019	P-0011235-T01-IM5	WT
+rectal_msk_2019	P-0011258-T01-IM5	D170Vfs*4
+rectal_msk_2019	P-0011282-T01-IM5	WT
+rectal_msk_2019	P-0011283-T01-IM5	E1306*
+rectal_msk_2019	P-0011291-T01-IM5	WT
+rectal_msk_2019	P-0011306-T01-IM5	S583* I1307Nfs*8
+rectal_msk_2019	P-0011347-T01-IM5	Q1071*
+rectal_msk_2019	P-0011353-T01-IM5	WT
+rectal_msk_2019	P-0011374-T01-IM5	Q767*
+rectal_msk_2019	P-0011396-T01-IM5	Q532*
+rectal_msk_2019	P-0011445-T01-IM5	WT
+rectal_msk_2019	P-0011455-T01-IM5	R805*
+rectal_msk_2019	P-0011510-T01-IM5	R876* E1374*
+rectal_msk_2019	P-0011512-T01-IM5	S1346_E1353delins*
+rectal_msk_2019	P-0011520-T01-IM5	R564* S1501Lfs*6
+rectal_msk_2019	P-0011563-T01-IM5	WT
+rectal_msk_2019	P-0012032-T01-IM5	T1493Rfs*14 Q1062*
+rectal_msk_2019	P-0012074-T01-IM5	S1315*
+rectal_msk_2019	P-0012110-T01-IM5	S1198*
+rectal_msk_2019	P-0012147-T01-IM5	S1465Wfs*3 L235*
+rectal_msk_2019	P-0012266-T01-IM5	R232*
+rectal_msk_2019	P-0012277-T01-IM5	S794Kfs*5
+rectal_msk_2019	P-0012389-T01-IM5	WT
+rectal_msk_2019	P-0012419-T01-IM5	X438_splice
+rectal_msk_2019	P-0012447-T01-IM5	E1306*
+rectal_msk_2019	P-0012653-T01-IM5	WT
+rectal_msk_2019	P-0012653-T02-IM5	WT
+rectal_msk_2019	P-0012685-T01-IM5	E1295*
+rectal_msk_2019	P-0012708-T01-IM5	X438_splice
+rectal_msk_2019	P-0012779-T01-IM5	WT
+rectal_msk_2019	P-0012823-T01-IM5	R876* Q1406*
+rectal_msk_2019	P-0012823-T02-IM5	R876* Q1406*
+rectal_msk_2019	P-0012847-T01-IM5	P1319Lfs*2
+rectal_msk_2019	P-0012859-T01-IM5	WT
+rectal_msk_2019	P-0012878-T01-IM5	Q1378*
+rectal_msk_2019	P-0012965-T01-IM5	R876* T1487Lfs*20
+rectal_msk_2019	P-0013088-T01-IM5	K1165*
+rectal_msk_2019	P-0013144-T01-IM5	R1450* S713*
+rectal_msk_2019	P-0013156-T01-IM5	Q1328*
+rectal_msk_2019	P-0013159-T01-IM5	WT
+rectal_msk_2019	P-0013277-T01-IM5	R876* E1408*
+rectal_msk_2019	P-0013354-T01-IM5	WT
+rectal_msk_2019	P-0013375-T01-IM5	X278_splice
+rectal_msk_2019	P-0013397-T01-IM5	D1394Ifs*21
+rectal_msk_2019	P-0013404-T01-IM5	WT
+rectal_msk_2019	P-0013501-T01-IM5	WT
+rectal_msk_2019	P-0013594-T01-IM5	S1407_P1639del
+rectal_msk_2019	P-0013648-T01-IM5	WT
+rectal_msk_2019	P-0013788-T01-IM5	E190*
+rectal_msk_2019	P-0013820-T01-IM5	WT
+rectal_msk_2019	P-0013828-T01-IM5	R1450* R232*
+rectal_msk_2019	P-0013894-T01-IM5	R213*
+rectal_msk_2019	P-0013907-T01-IM5	WT
+rectal_msk_2019	P-0013955-T01-IM5	Q1294Rfs*13
+rectal_msk_2019	P-0013963-T01-IM5	R216* P1330Qfs*9
+rectal_msk_2019	P-0014021-T01-IM5	WT
+rectal_msk_2019	P-0014026-T01-IM5	R876*
+rectal_msk_2019	P-0014133-T01-IM5	V513*
+rectal_msk_2019	P-0014456-T01-IM6	Q1303* Q480*
+rectal_msk_2019	P-0014499-T01-IM6	WT
+rectal_msk_2019	P-0014543-T01-IM6	R1114* S1415Rfs*4
+rectal_msk_2019	P-0014553-T01-IM6	E1353*
+rectal_msk_2019	P-0014768-T01-IM6	E1397*
+rectal_msk_2019	P-0014858-T01-IM6	S1355Ffs*19
+rectal_msk_2019	P-0014874-T01-IM6	R1114*
+rectal_msk_2019	P-0014899-T01-IM6	WT
+rectal_msk_2019	P-0014971-T01-IM6	R213*
+rectal_msk_2019	P-0015149-T01-IM6	WT
+rectal_msk_2019	P-0015276-T01-IM6	WT
+rectal_msk_2019	P-0015711-T01-IM6	WT
+rectal_msk_2019	P-0015730-T01-IM6	R1450* R302*
+rectal_msk_2019	P-0015884-T01-IM6	E1209* Q1406*
+rectal_msk_2019	P-0016044-T01-IM6	WT
+rectal_msk_2019	P-0016487-T01-IM6	T1556Nfs*3 Q789*
+rectal_msk_2019	P-0016850-T01-IM6	R213*
+rectal_msk_2019	P-0016967-T01-IM6	R876* F1491Lfs*16
+rectal_msk_2019	P-0016984-T01-IM6	Q1406* S1346*
+rectal_msk_2019	P-0017008-T01-IM6	WT
+rectal_msk_2019	P-0017039-T01-IM6	E1257*
+rectal_msk_2019	P-0017263-T01-IM6	S851Vfs*10
+rectal_msk_2019	P-0017419-T01-IM6	WT
+rectal_msk_2019	P-0018084-T01-IM6	WT
+coad_silu_2022	SER-SILU-CC-P0002-PT-01	E1309Dfs*4
+coad_silu_2022	SER-SILU-CC-P0004-PT-01	NS
+coad_silu_2022	SER-SILU-CC-P0005-PT-01	NS
+coad_silu_2022	SER-SILU-CC-P0007-PT-01	R232* Q223*
+coad_silu_2022	SER-SILU-CC-P0009-PT-01	WT
+coad_silu_2022	SER-SILU-CC-P0010-PT-01	R554* E1309Dfs*4
+coad_silu_2022	SER-SILU-CC-P0011-PT-01	NS
+coad_silu_2022	SER-SILU-CC-P0013-PT-01	NS
+coad_silu_2022	SER-SILU-CC-P0015-PT-01	NS
+coad_silu_2022	SER-SILU-CC-P0016-PT-01	NS
+coad_silu_2022	SER-SILU-CC-P0018-PT-01	NS
+coad_silu_2022	SER-SILU-CC-P0019-PT-01	V1414* R805*
+coad_silu_2022	SER-SILU-CC-P0020-PT-01	WT
+coad_silu_2022	SER-SILU-CC-P0021-PT-01	NS
+coad_silu_2022	SER-SILU-CC-P0022-PT-01	I1287*
+coad_silu_2022	SER-SILU-CC-P0023-PT-01	WT
+coad_silu_2022	SER-SILU-CC-P0024-PT-01	NS
+coad_silu_2022	SER-SILU-CC-P0025-PT-01	V1390Tfs*2
+coad_silu_2022	SER-SILU-CC-P0026-PT-01	R283*
+coad_silu_2022	SER-SILU-CC-P0027-PT-01	NS
+coad_silu_2022	SER-SILU-CC-P0029-PT-01	WT
+coad_silu_2022	SER-SILU-CC-P0030-PT-01	S1411Rfs*4 S678Rfs*40
+coad_silu_2022	SER-SILU-CC-P0031-PT-01	WT
+coad_silu_2022	SER-SILU-CC-P0032-PT-01	NS
+coad_silu_2022	SER-SILU-CC-P0036-PT-01	WT
+coad_silu_2022	SER-SILU-CC-P0037-PT-01	R1114*
+coad_silu_2022	SER-SILU-CC-P0038-PT-01	WT
+coad_silu_2022	SER-SILU-CC-P0039-PT-01	WT
+coad_silu_2022	SER-SILU-CC-P0040-PT-01	WT
+coad_silu_2022	SER-SILU-CC-P0045-PT-01	WT
+coad_silu_2022	SER-SILU-CC-P0047-PT-01	NS
+coad_silu_2022	SER-SILU-CC-P0050-PT-01	NS
+coad_silu_2022	SER-SILU-CC-P0051-PT-01	NS
+coad_silu_2022	SER-SILU-CC-P0052-PT-01	E1353*
+coad_silu_2022	SER-SILU-CC-P0053-PT-01	R1171C
+coad_silu_2022	SER-SILU-CC-P0056-PT-01	R876* E1536Qfs*28
+coad_silu_2022	SER-SILU-CC-P0057-PT-01	WT
+coad_silu_2022	SER-SILU-CC-P0058-PT-01	E1374*
+coad_silu_2022	SER-SILU-CC-P0059-PT-01	NS
+coad_silu_2022	SER-SILU-CC-P0061-PT-01	NS
+coad_silu_2022	SER-SILU-CC-P0062-PT-01	E1309*
+coad_silu_2022	SER-SILU-CC-P0063-PT-01	L548Ffs*12
+coad_silu_2022	SER-SILU-CC-P0066-PT-01	T1556Nfs*3 R332*
+coad_silu_2022	SER-SILU-CC-P0067-PT-01	E1374Hfs*3
+coad_silu_2022	SER-SILU-CC-P0069-PT-01	WT
+coad_silu_2022	SER-SILU-CC-P0070-PT-01	T1556Nfs*3
+coad_silu_2022	SER-SILU-CC-P0072-PT-01	WT
+coad_silu_2022	SER-SILU-CC-P0074-PT-01	F1491Cfs*22 I1269Mfs*6
+coad_silu_2022	SER-SILU-CC-P0075-PT-01	V1390Qfs*4
+coad_silu_2022	SER-SILU-CC-P0076-PT-01	NS
+coad_silu_2022	SER-SILU-CC-P0077-PT-01	E1295*
+coad_silu_2022	SER-SILU-CC-P0079-PT-01	WT
+coad_silu_2022	SER-SILU-CC-P0080-PT-01	WT
+coad_silu_2022	SER-SILU-CC-P0081-PT-01	WT
+coad_silu_2022	SER-SILU-CC-P0083-PT-01	R564*
+coad_silu_2022	SER-SILU-CC-P0084-PT-01	NS
+coad_silu_2022	SER-SILU-CC-P0087-PT-01	WT
+coad_silu_2022	SER-SILU-CC-P0088-PT-01	NS
+coad_silu_2022	SER-SILU-CC-P0089-PT-01	WT
+coad_silu_2022	SER-SILU-CC-P0090-PT-01	WT
+coad_silu_2022	SER-SILU-CC-P0093-PT-01	NS
+coad_silu_2022	SER-SILU-CC-P0095-PT-01	E1309Kfs*12
+coad_silu_2022	SER-SILU-CC-P0099-PT-01	NS
+coad_silu_2022	SER-SILU-CC-P0100-PT-01	R1450* R1114*
+coad_silu_2022	SER-SILU-CC-P0102-PT-01	P1467S
+coad_silu_2022	SER-SILU-CC-P0104-PT-01	WT
+coad_silu_2022	SER-SILU-CC-P0106-PT-01	NS
+coad_silu_2022	SER-SILU-CC-P0107-PT-01	WT
+coad_silu_2022	SER-SILU-CC-P0109-PT-01	NS
+coad_silu_2022	SER-SILU-CC-P0110-PT-01	NS
+coad_silu_2022	SER-SILU-CC-P0112-PT-01	WT
+coad_silu_2022	SER-SILU-CC-P0113-PT-01	WT
+coad_silu_2022	SER-SILU-CC-P0114-PT-01	S1465Wfs*3
+coad_silu_2022	SER-SILU-CC-P0115-PT-01	E918*
+coad_silu_2022	SER-SILU-CC-P0116-PT-01	WT
+coad_silu_2022	SER-SILU-CC-P0117-PT-01	P1319Lfs*2 E1151*
+coad_silu_2022	SER-SILU-CC-P0118-PT-01	R213*
+coad_silu_2022	SER-SILU-CC-P0119-PT-01	S1068*
+coad_silu_2022	SER-SILU-CC-P0122-PT-01	T1556Nfs*3 R332*
+coad_silu_2022	SER-SILU-CC-P0123-PT-01	R1114* R232*
+coad_silu_2022	SER-SILU-CC-P0124-PT-01	NS
+coad_silu_2022	SER-SILU-CC-P0125-PT-01	K581Rfs*9 R876Q
+coad_silu_2022	SER-SILU-CC-P0127-PT-01	NS
+coad_silu_2022	SER-SILU-CC-P0128-PT-01	E1309Dfs*4 Q1328*
+coad_silu_2022	SER-SILU-CC-P0129-PT-01	Q1429* R904Kfs*7
+coad_silu_2022	SER-SILU-CC-P0130-PT-01	R554* X216_splice
+coad_silu_2022	SER-SILU-CC-P0131-PT-01	NS
+coad_silu_2022	SER-SILU-CC-P0132-PT-01	S1334Ifs*8
+coad_silu_2022	SER-SILU-CC-P0133-PT-01	WT
+coad_silu_2022	SER-SILU-CC-P0134-PT-01	Q1338* S747*
+coad_silu_2022	SER-SILU-CC-P0135-PT-01	WT
+coad_silu_2022	SER-SILU-CC-P0136-PT-01	T1556Nfs*3
+coad_silu_2022	SER-SILU-CC-P0137-PT-01	NS
+coad_silu_2022	SER-SILU-CC-P0138-PT-01	R876*
+coad_silu_2022	SER-SILU-CC-P0139-PT-01	E1379*
+coad_silu_2022	SER-SILU-CC-P0140-PT-01	E1547*
+coad_silu_2022	SER-SILU-CC-P0141-PT-01	R232*
+coad_silu_2022	SER-SILU-CC-P0142-PT-01	R554*
+coad_silu_2022	SER-SILU-CC-P0143-PT-01	Q480*
+coad_silu_2022	SER-SILU-CC-P0144-PT-01	NS
+coad_silu_2022	SER-SILU-CC-P0145-PT-01	NS
+coad_silu_2022	SER-SILU-CC-P0147-PT-01	NS
+coad_silu_2022	SER-SILU-CC-P0148-PT-01	WT
+coad_silu_2022	SER-SILU-CC-P0149-PT-01	NS
+coad_silu_2022	SER-SILU-CC-P0151-PT-01	NS
+coad_silu_2022	SER-SILU-CC-P0154-PT-01	R1114* S1201* R332Q S2026Y F937C L1423I N2402H
+coad_silu_2022	SER-SILU-CC-P0155-PT-01	R499* T1493Rfs*20
+coad_silu_2022	SER-SILU-CC-P0156-PT-01	NS
+coad_silu_2022	SER-SILU-CC-P0157-PT-01	R876*
+coad_silu_2022	SER-SILU-CC-P0158-PT-01	WT
+coad_silu_2022	SER-SILU-CC-P0159-PT-01	NS
+coad_silu_2022	SER-SILU-CC-P0160-PT-01	L1489Ffs*23
+coad_silu_2022	SER-SILU-CC-P0161-PT-01	Q473H
+coad_silu_2022	SER-SILU-CC-P0163-PT-01	K993*
+coad_silu_2022	SER-SILU-CC-P0164-PT-01	NS
+coad_silu_2022	SER-SILU-CC-P0165-PT-01	WT
+coad_silu_2022	SER-SILU-CC-P0167-PT-01	WT
+coad_silu_2022	SER-SILU-CC-P0168-PT-01	R499*
+coad_silu_2022	SER-SILU-CC-P0169-PT-01	E1397*
+coad_silu_2022	SER-SILU-CC-P0170-PT-01	NS
+coad_silu_2022	SER-SILU-CC-P0173-PT-01	E988*
+coad_silu_2022	SER-SILU-CC-P0174-PT-01	NS
+coad_silu_2022	SER-SILU-CC-P0176-PT-01	T1556Nfs*3 R332*
+coad_silu_2022	SER-SILU-CC-P0177-PT-01	X438_splice
+coad_silu_2022	SER-SILU-CC-P0178-PT-01	Q1367*
+coad_silu_2022	SER-SILU-CC-P0179-PT-01	R499*
+coad_silu_2022	SER-SILU-CC-P0180-PT-01	NS
+coad_silu_2022	SER-SILU-CC-P0181-PT-01	NS
+coad_silu_2022	SER-SILU-CC-P0182-PT-01	A1296Efs*9
+coad_silu_2022	SER-SILU-CC-P0185-PT-01	F801Lfs*19 Q1680* K581*
+coad_silu_2022	SER-SILU-CC-P0188-PT-01	S1415Rfs*4 X653_splice
+coad_silu_2022	SER-SILU-CC-P0189-PT-01	R640W T1556Nfs*3 R1066Tfs*14
+coad_silu_2022	SER-SILU-CC-P0190-PT-01	S1465Wfs*3 K581Rfs*9
+coad_silu_2022	SER-SILU-CC-P0191-PT-01	NS
+coad_silu_2022	SER-SILU-CC-P0192-PT-01	I1304Nfs*11
+coad_silu_2022	SER-SILU-CC-P0193-PT-01	NS
+coad_silu_2022	SER-SILU-CC-P0195-PT-01	E1145*
+coad_silu_2022	SER-SILU-CC-P0198-PT-01	S1501Lfs*6
+coad_silu_2022	SER-SILU-CC-P0199-PT-01	WT
+coad_silu_2022	SER-SILU-CC-P0200-PT-01	NS
+coad_silu_2022	SER-SILU-CC-P0201-PT-01	NS
+coad_silu_2022	SER-SILU-CC-P0202-PT-01	S1465Wfs*3 F773Lfs*4
+coad_silu_2022	SER-SILU-CC-P0203-PT-01	NS
+coad_silu_2022	SER-SILU-CC-P0204-PT-01	NS
+coad_silu_2022	SER-SILU-CC-P0205-PT-01	NS
+coad_silu_2022	SER-SILU-CC-P0206-PT-01	R976*
+coad_silu_2022	SER-SILU-CC-P0207-PT-01	WT
+coad_silu_2022	SER-SILU-CC-P0209-PT-01	NS
+coad_silu_2022	SER-SILU-CC-P0210-PT-01	R1450*
+coad_silu_2022	SER-SILU-CC-P0211-PT-01	R554*
+coad_silu_2022	SER-SILU-CC-P0212-PT-01	R805*
+coad_silu_2022	SER-SILU-CC-P0214-PT-01	WT
+coad_silu_2022	SER-SILU-CC-P0215-PT-01	WT
+coad_silu_2022	SER-SILU-CC-P0217-PT-01	T1556Nfs*3 Y956*
+coad_silu_2022	SER-SILU-CC-P0218-PT-01	Q1338* K1350*
+coad_silu_2022	SER-SILU-CC-P0219-PT-01	R1114* R232*
+coad_silu_2022	SER-SILU-CC-P0220-PT-01	S1415Kfs*8 E771*
+coad_silu_2022	SER-SILU-CC-P0223-PT-01	WT
+coad_silu_2022	SER-SILU-CC-P0224-PT-01	R1399Ffs*9 K993*
+coad_silu_2022	SER-SILU-CC-P0225-PT-01	WT
+coad_silu_2022	SER-SILU-CC-P0226-PT-01	NS
+coad_silu_2022	SER-SILU-CC-P0227-PT-01	T1556Lfs*9
+coad_silu_2022	SER-SILU-CC-P0228-PT-01	WT
+coad_silu_2022	SER-SILU-CC-P0229-PT-01	WT
+coad_silu_2022	SER-SILU-CC-P0230-PT-01	R876* Q1444P
+coad_silu_2022	SER-SILU-CC-P0231-PT-01	R213*
+coad_silu_2022	SER-SILU-CC-P0232-PT-01	WT
+coad_silu_2022	SER-SILU-CC-P0233-PT-01	WT
+coad_silu_2022	SER-SILU-CC-P0234-PT-01	R1450* Y935*
+coad_silu_2022	SER-SILU-CC-P0236-PT-01	WT
+coad_silu_2022	SER-SILU-CC-P0237-PT-01	E1132*
+coad_silu_2022	SER-SILU-CC-P0238-PT-01	S1356* S943*
+coad_silu_2022	SER-SILU-CC-P0239-PT-01	Q1291* D849Efs*62
+coad_silu_2022	SER-SILU-CC-P0241-PT-01	WT
+coad_silu_2022	SER-SILU-CC-P0242-PT-01	D1285Vfs*3 R1051*
+coad_silu_2022	SER-SILU-CC-P0243-PT-01	WT
+coad_silu_2022	SER-SILU-CC-P0245-PT-01	R876* R1450*
+coad_silu_2022	SER-SILU-CC-P0246-PT-01	S1964Ffs*3
+coad_silu_2022	SER-SILU-CC-P0247-PT-01	R1114* H1329Afs*3
+coad_silu_2022	SER-SILU-CC-P0248-PT-01	WT
+coad_silu_2022	SER-SILU-CC-P0250-PT-01	R876* N1531Mfs*34
+coad_silu_2022	SER-SILU-CC-P0252-PT-01	K455Nfs*12
+coad_silu_2022	SER-SILU-CC-P0253-PT-01	P1319Lfs*2 E1020*
+coad_silu_2022	SER-SILU-CC-P0254-PT-01	S1465Wfs*3 A219V
+coad_silu_2022	SER-SILU-CC-P0256-PT-01	R283*
+coad_silu_2022	SER-SILU-CC-P0258-PT-01	WT
+coad_silu_2022	SER-SILU-CC-P0259-PT-01	N732* E1317Kfs*4
+coad_silu_2022	SER-SILU-CC-P0260-PT-01	WT
+coad_silu_2022	SER-SILU-CC-P0261-PT-01	R805* Q1367*
+coad_silu_2022	SER-SILU-CC-P0262-PT-01	T1556Nfs*3
+coad_silu_2022	SER-SILU-CC-P0263-PT-01	R1450*
+coad_silu_2022	SER-SILU-CC-P0265-PT-01	E941*
+coad_silu_2022	SER-SILU-CC-P0266-PT-01	WT
+coad_silu_2022	SER-SILU-CC-P0268-PT-01	WT
+coad_silu_2022	SER-SILU-CC-P0269-PT-01	R283* K1310*
+coad_silu_2022	SER-SILU-CC-P0270-PT-01	S1411Rfs*4 D849Efs*11
+coad_silu_2022	SER-SILU-CC-P0271-PT-01	WT
+coad_silu_2022	SER-SILU-CC-P0272-PT-01	NS
+coad_silu_2022	SER-SILU-CC-P0273-PT-01	Q1035*
+coad_silu_2022	SER-SILU-CC-P0274-PT-01	WT
+coad_silu_2022	SER-SILU-CC-P0275-PT-01	L1488Yfs*19
+coad_silu_2022	SER-SILU-CC-P0276-PT-01	R1114*
+coad_silu_2022	SER-SILU-CC-P0277-PT-01	WT
+coad_silu_2022	SER-SILU-CC-P0278-PT-01	WT
+coad_silu_2022	SER-SILU-CC-P0279-PT-01	NS
+coad_silu_2022	SER-SILU-CC-P0280-PT-01	WT
+coad_silu_2022	SER-SILU-CC-P0281-PT-01	NS
+coad_silu_2022	SER-SILU-CC-P0283-PT-01	WT
+coad_silu_2022	SER-SILU-CC-P0284-PT-01	NS
+coad_silu_2022	SER-SILU-CC-P0285-PT-01	F1491Lfs*16
+coad_silu_2022	SER-SILU-CC-P0286-PT-01	S1465Wfs*3 N1455Ifs*18 D183Yfs*9 R856C
+coad_silu_2022	SER-SILU-CC-P0287-PT-01	S1327*
+coad_silu_2022	SER-SILU-CC-P0288-PT-01	Y1376Cfs*9
+coad_silu_2022	SER-SILU-CC-P0289-PT-01	S1321Rfs*10
+coad_silu_2022	SER-SILU-CC-P0290-PT-01	Q1338*
+coad_silu_2022	SER-SILU-CC-P0291-PT-01	Q1378*
+coad_silu_2022	SER-SILU-CC-P0292-PT-01	A703Qfs*15
+coad_silu_2022	SER-SILU-CC-P0293-PT-01	WT
+coad_silu_2022	SER-SILU-CC-P0294-PT-01	WT
+coad_silu_2022	SER-SILU-CC-P0295-PT-01	S1465Wfs*3 R499* R1788C A1755V
+coad_silu_2022	SER-SILU-CC-P0296-PT-01	R1450* Q789*
+coad_silu_2022	SER-SILU-CC-P0297-PT-01	WT
+coad_silu_2022	SER-SILU-CC-P0298-PT-01	R232* Q1406* R374Q
+coad_silu_2022	SER-SILU-CC-P0299-PT-01	D849Ifs*12
+coad_silu_2022	SER-SILU-CC-P0300-PT-01	NS
+coad_silu_2022	SER-SILU-CC-P0301-PT-01	Y935* E1552* L353Hfs*8
+coad_silu_2022	SER-SILU-CC-P0304-PT-01	Q1242H
+coad_silu_2022	SER-SILU-CC-P0305-PT-01	E1209* S1465Rfs*8
+coad_silu_2022	SER-SILU-CC-P0306-PT-01	E1020*
+coad_silu_2022	SER-SILU-CC-P0307-PT-01	F1491Lfs*16 P745Lfs*16
+coad_silu_2022	SER-SILU-CC-P0309-PT-01	S908Lfs*8
+coad_silu_2022	SER-SILU-CC-P0310-PT-01	G2250Afs*29
+coad_silu_2022	SER-SILU-CC-P0311-PT-01	T1556Nfs*3 A888Lfs*29
+coad_silu_2022	SER-SILU-CC-P0313-PT-01	WT
+coad_silu_2022	SER-SILU-CC-P0314-PT-01	WT
+coad_silu_2022	SER-SILU-CC-P0315-PT-01	WT
+coad_silu_2022	SER-SILU-CC-P0316-PT-01	G1288*
+coad_silu_2022	SER-SILU-CC-P0317-PT-01	WT
+coad_silu_2022	SER-SILU-CC-P0318-PT-01	WT
+coad_silu_2022	SER-SILU-CC-P0319-PT-01	S900Ffs*16
+coad_silu_2022	SER-SILU-CC-P0320-PT-01	WT
+coad_silu_2022	SER-SILU-CC-P0321-PT-01	E1345*
+coad_silu_2022	SER-SILU-CC-P0322-PT-01	NS
+coad_silu_2022	SER-SILU-CC-P0323-PT-01	R232* E1322*
+coad_silu_2022	SER-SILU-CC-P0324-PT-01	R213* T1556Nfs*3
+coad_silu_2022	SER-SILU-CC-P0325-PT-01	A160T Q433H
+coad_silu_2022	SER-SILU-CC-P0326-PT-01	S1465Wfs*3 F801Lfs*19 I1008M
+coad_silu_2022	SER-SILU-CC-P0327-PT-01	NS
+coad_silu_2022	SER-SILU-CC-P0328-PT-01	R216*
+coad_silu_2022	SER-SILU-CC-P0329-PT-01	E1309Dfs*4
+coad_silu_2022	SER-SILU-CC-P0330-PT-01	R380W
+coad_silu_2022	SER-SILU-CC-P0331-PT-01	F1396Lfs*19
+coad_silu_2022	SER-SILU-CC-P0332-PT-01	NS
+coad_silu_2022	SER-SILU-CC-P0333-PT-01	Q1294*
+coad_silu_2022	SER-SILU-CC-P0334-PT-01	P1319Lfs*2 D765Kfs*11
+coad_silu_2022	SER-SILU-CC-P0335-PT-01	E1408* E582Gfs*20
+coad_silu_2022	SER-SILU-CC-P0336-PT-01	R876* E1397*
+coad_silu_2022	SER-SILU-CC-P0339-PT-01	NS
+coad_silu_2022	SER-SILU-CC-P0340-PT-01	Q1338*
+coad_silu_2022	SER-SILU-CC-P0341-PT-01	Q1071* C1387*
+coad_silu_2022	SER-SILU-CC-P0342-PT-01	WT
+coad_silu_2022	SER-SILU-CC-P0343-PT-01	WT
+coad_silu_2022	SER-SILU-CC-P0344-PT-01	Q1338*
+coad_silu_2022	SER-SILU-CC-P0345-PT-01	NS
+coad_silu_2022	SER-SILU-CC-P0346-PT-01	WT
+coad_silu_2022	SER-SILU-CC-P0348-PT-01	WT
+coad_silu_2022	SER-SILU-CC-P0349-PT-01	WT
+coad_silu_2022	SER-SILU-CC-P0350-PT-01	R876* S1411Rfs*4
+coad_silu_2022	SER-SILU-CC-P0351-PT-01	V1320*
+coad_silu_2022	SER-SILU-CC-P0352-PT-01	E1374*
+coad_silu_2022	SER-SILU-CC-P0353-PT-01	NS
+coad_silu_2022	SER-SILU-CC-P0354-PT-01	R876* E1573*
+coad_silu_2022	SER-SILU-CC-P0355-PT-01	WT
+coad_silu_2022	SER-SILU-CC-P0356-PT-01	NS
+coad_silu_2022	SER-SILU-CC-P0357-PT-01	S1465Wfs*3 R405* X470_splice
+coad_silu_2022	SER-SILU-CC-P0360-PT-01	NS
+coad_silu_2022	SER-SILU-CC-P0361-PT-01	H1375Qfs*11
+coad_silu_2022	SER-SILU-CC-P0362-PT-01	T1556Nfs*3
+coad_silu_2022	SER-SILU-CC-P0364-PT-01	R213* L1489Ffs*18
+coad_silu_2022	SER-SILU-CC-P0366-PT-01	R1114* R216*
+coad_silu_2022	SER-SILU-CC-P0368-PT-01	WT
+coad_silu_2022	SER-SILU-CC-P0369-PT-01	E1309Dfs*4
+coad_silu_2022	SER-SILU-CC-P0370-PT-01	Q1062*
+coad_silu_2022	SER-SILU-CC-P0372-PT-01	R414H
+coad_silu_2022	SER-SILU-CC-P0373-PT-01	R564* Q223* Q222H
+coad_silu_2022	SER-SILU-CC-P0375-PT-01	NS
+coad_silu_2022	SER-SILU-CC-P0376-PT-01	NS
+coad_silu_2022	SER-SILU-CC-P0377-PT-01	NS
+coad_silu_2022	SER-SILU-CC-P0378-PT-01	H1490Lfs*17
+coad_silu_2022	SER-SILU-CC-P0379-PT-01	P1420Qfs*49
+coad_silu_2022	SER-SILU-CC-P0380-PT-01	WT
+coad_silu_2022	SER-SILU-CC-P0383-PT-01	NS
+coad_silu_2022	SER-SILU-CC-P0384-PT-01	E1309* I196Tfs*9
+coad_silu_2022	SER-SILU-CC-P0386-PT-01	E1097Gfs*30
+coad_silu_2022	SER-SILU-CC-P0387-PT-01	T1487Nfs*27
+coad_silu_2022	SER-SILU-CC-P0388-PT-01	R1331*
+coad_silu_2022	SER-SILU-CC-P0389-PT-01	WT
+coad_silu_2022	SER-SILU-CC-P0390-PT-01	L1489Yfs*18
+coad_silu_2022	SER-SILU-CC-P0391-PT-01	R244Vfs*7
+coad_silu_2022	SER-SILU-CC-P0392-PT-01	E1309Dfs*4 V1326Gfs*89
+coad_silu_2022	SER-SILU-CC-P0393-PT-01	E582Gfs*20
+coad_silu_2022	SER-SILU-CC-P0394-PT-01	R554* E1309Kfs*5 L355F
+coad_silu_2022	SER-SILU-CC-P0395-PT-01	S1315* E1345*
+coad_silu_2022	SER-SILU-CC-P0396-PT-01	Y935*
+coad_silu_2022	SER-SILU-CC-P0397-PT-01	R283*
+coad_silu_2022	SER-SILU-CC-P0398-PT-01	W423*
+coad_silu_2022	SER-SILU-CC-P0400-PT-01	L1382Tfs*4 N813Ifs*7
+coad_silu_2022	SER-SILU-CC-P0401-PT-01	V915Gfs*40
+coad_silu_2022	SER-SILU-CC-P0402-PT-01	I1401Lfs*14
+coad_silu_2022	SER-SILU-CC-P0403-PT-01	WT
+coad_silu_2022	SER-SILU-CC-P0404-PT-01	Q532K G1241C
+coad_silu_2022	SER-SILU-CC-P0405-PT-01	NS
+coad_silu_2022	SER-SILU-CC-P0406-PT-01	R1450* R213* R1399Ffs*9
+coad_silu_2022	SER-SILU-CC-P0407-PT-01	E1309* R805* L1618I F1805V
+coad_silu_2022	SER-SILU-CC-P0408-PT-01	WT
+coad_silu_2022	SER-SILU-CC-P0410-PT-01	WT
+coad_silu_2022	SER-SILU-CC-P0411-PT-01	Q412* W593*
+coad_silu_2022	SER-SILU-CC-P0413-PT-01	WT
+coad_silu_2022	SER-SILU-CC-P0414-PT-01	WT
+coad_silu_2022	SER-SILU-CC-P0415-PT-01	S1272Ffs*4 Q1303Kfs*2
+coad_silu_2022	SER-SILU-CC-P0416-PT-01	R213*
+coad_silu_2022	SER-SILU-CC-P0417-PT-01	WT
+coad_silu_2022	SER-SILU-CC-P0418-PT-01	WT
+coad_silu_2022	SER-SILU-CC-P0420-PT-01	F773Lfs*4
+coad_silu_2022	SER-SILU-CC-P0421-PT-01	D1486Vfs*21
+coad_silu_2022	SER-SILU-CC-P0422-PT-01	R283*
+coad_silu_2022	SER-SILU-CC-P0423-PT-01	WT
+coad_silu_2022	SER-SILU-CC-P0424-PT-01	WT
+coad_silu_2022	SER-SILU-CC-P0426-PT-01	E136* R876* S2026Y N2518K
+coad_silu_2022	SER-SILU-CC-P0427-PT-01	WT
+coad_silu_2022	SER-SILU-CC-P0428-PT-01	R1114* Q1367*
+coad_silu_2022	SER-SILU-CC-P0429-PT-01	WT
+coad_silu_2022	SER-SILU-CC-P0431-PT-01	R216*
+coad_silu_2022	SER-SILU-CC-P0433-PT-01	R232* Q236*
+coad_silu_2022	SER-SILU-CC-P0434-PT-01	T1556Nfs*3 D849Efs*11 A336Lfs*118
+coad_silu_2022	SER-SILU-CC-P0435-PT-01	S1276*
+coad_silu_2022	SER-SILU-CC-P0436-PT-01	S1501Lfs*6 E911*
+coad_silu_2022	SER-SILU-CC-P0438-PT-01	WT
+coad_silu_2022	SER-SILU-CC-P0439-PT-01	Q1378* R283*
+coad_silu_2022	SER-SILU-CC-P0440-PT-01	A199V
+coad_silu_2022	SER-SILU-CC-P0441-PT-01	Q1429* E918*
+coad_silu_2022	SER-SILU-CC-P0442-PT-01	R838*
+coad_silu_2022	SER-SILU-CC-P0443-PT-01	WT
+coad_silu_2022	SER-SILU-CC-P0444-PT-01	R232* R805*
+coad_silu_2022	SER-SILU-CC-P0446-PT-01	R216*
+coad_silu_2022	SER-SILU-CC-P0450-PT-01	R213*
+coad_silu_2022	SER-SILU-CC-P0451-PT-01	R499* R232*
+coad_silu_2022	SER-SILU-CC-P0452-PT-01	K1363* P1101Ifs*17
+coadread_mskresistance_2022	P-0018488-T01-IM6	S1346*
+coadread_mskresistance_2022	P-0018488-T07-IM7	S1346*
+coadread_mskresistance_2022	P-0032505-T01-IM6	R554*
+coadread_mskresistance_2022	P-0038647-T01-IM6	R1450*
+coadread_mskresistance_2022	P-0064340-T01-IM7	R1523Kfs*10
+coadread_mskresistance_2022	P-0070822-T01-IM7	WT
+coadread_mskresistance_2022	s_C_E2UFRP_X008_d	T1556Nfs*3
+coadread_mskresistance_2022	s_RW7213_R_V1_04609AI	V1320Cfs*12 R1171H G1702R E1157dup
+coadread_mskresistance_2022	s_RW7213_R_V2_04609AI	V1320Cfs*12 G1702R
+coadread_mskresistance_2022	s_RW7213_R_V3_04609AI	X469_splice V1320Cfs*12 G1702R I1055V V1320A S1321T E1673_A1679delinsDGVRAGI S2766C T1705I
+coadread_mskresistance_2022	s_RW7213_R_V4_04609AI	V1320Cfs*12
+coadread_mskresistance_2022	s_RW7213_R_D1_04609AI	X469_splice V1320Cfs*12 G1702R A1671T E1673_A1679delinsDGVRAGI K2590R S2766C T1705I A2122dup
+coadread_mskresistance_2022	s_RW7213_R_D2_04609AI	V1320Cfs*12 G1702R
+coadread_mskresistance_2022	s_RW7213_R_D3_04609AI	V1320Cfs*12
+coadread_mskresistance_2022	s_RW7213_R_D4_04609AI	X469_splice V1320Cfs*12 I2738Afs*19 G1702R I1055V V1320A S1321T A1671T E1673_A1679delinsDGVRAGI K2590R S2766C
+coadread_mskresistance_2022	s_C_E2UFRP_X007_d	T1556Nfs*3
+coadread_mskresistance_2022	s_RW7213_parental_04609AB	V1320Cfs*12
+coadread_mskresistance_2022	s_RW7213_resistant_04609AB	V1320Cfs*12
+coadread_mskresistance_2022	s_C106_parental_04609AB	H1490Lfs*17 Q1237Efs*2
+coadread_mskresistance_2022	s_C106_resistant_04609AB	H1490Lfs*17 Q1237Efs*2
+coadread_mskresistance_2022	P-0063407-T01-IM7	E1322* L629Ffs*5
+coadread_mskresistance_2022	P-0069572-T02-IM7	R1450* R805*
